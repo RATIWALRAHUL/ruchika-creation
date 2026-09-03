@@ -144,7 +144,7 @@ export default function Footer() {
           </div>
 
           {/* Column 2: SHOP */}
-          <div className="w-[calc(50%-14px)] sm:w-auto shrink-0 min-w-[120px]">
+          <div className="w-[calc(50%-12px)] sm:w-auto shrink-0 sm:min-w-[120px]">
             <h3 className="text-[11.5px] font-sans tracking-[0.14em] uppercase font-semibold text-[#D8BF96] mb-1.5">
               SHOP
             </h3>
@@ -159,7 +159,7 @@ export default function Footer() {
                 <li key={link.name}>
                   <Link
                     href={link.href}
-                    className="hover:text-[#D8BF96] inline-block transition-transform duration-200 hover:translate-x-0.5 whitespace-nowrap"
+                    className="hover:text-[#D8BF96] inline-block transition-transform duration-200 hover:translate-x-0.5 sm:whitespace-nowrap"
                   >
                     {link.name}
                   </Link>
@@ -169,7 +169,7 @@ export default function Footer() {
           </div>
 
           {/* Column 3: CUSTOMER CARE */}
-          <div className="w-[calc(50%-14px)] sm:w-auto shrink-0 min-w-[150px]">
+          <div className="w-[calc(50%-12px)] sm:w-auto shrink-0 sm:min-w-[150px]">
             <h3 className="text-[11.5px] font-sans tracking-[0.14em] uppercase font-semibold text-[#D8BF96] mb-1.5">
               CUSTOMER CARE
             </h3>
@@ -183,7 +183,7 @@ export default function Footer() {
                 <li key={link.name}>
                   <Link
                     href={link.href}
-                    className="hover:text-[#D8BF96] inline-block transition-transform duration-200 hover:translate-x-0.5 whitespace-nowrap"
+                    className="hover:text-[#D8BF96] inline-block transition-transform duration-200 hover:translate-x-0.5 sm:whitespace-nowrap"
                   >
                     {link.name}
                   </Link>
@@ -193,7 +193,7 @@ export default function Footer() {
           </div>
 
           {/* Column 4: ABOUT US */}
-          <div className="w-[calc(50%-14px)] sm:w-auto shrink-0 min-w-[130px]">
+          <div className="w-[calc(50%-12px)] sm:w-auto shrink-0 sm:min-w-[130px]">
             <h3 className="text-[11.5px] font-sans tracking-[0.14em] uppercase font-semibold text-[#D8BF96] mb-1.5">
               ABOUT US
             </h3>
@@ -207,7 +207,7 @@ export default function Footer() {
                 <li key={link.name}>
                   <Link
                     href={link.href}
-                    className="hover:text-[#D8BF96] inline-block transition-transform duration-200 hover:translate-x-0.5 whitespace-nowrap"
+                    className="hover:text-[#D8BF96] inline-block transition-transform duration-200 hover:translate-x-0.5 sm:whitespace-nowrap"
                   >
                     {link.name}
                   </Link>
@@ -217,7 +217,7 @@ export default function Footer() {
           </div>
 
           {/* Column 5: HELP */}
-          <div className="w-[calc(50%-14px)] sm:w-auto shrink-0 min-w-[150px]">
+          <div className="w-[calc(50%-12px)] sm:w-auto shrink-0 sm:min-w-[150px]">
             <h3 className="text-[11.5px] font-sans tracking-[0.14em] uppercase font-semibold text-[#D8BF96] mb-1.5">
               HELP
             </h3>
@@ -231,7 +231,7 @@ export default function Footer() {
                 <li key={link.name}>
                   <Link
                     href={link.href}
-                    className="hover:text-[#D8BF96] inline-block transition-transform duration-200 hover:translate-x-0.5 whitespace-nowrap"
+                    className="hover:text-[#D8BF96] inline-block transition-transform duration-200 hover:translate-x-0.5 sm:whitespace-nowrap"
                   >
                     {link.name}
                   </Link>
@@ -241,7 +241,7 @@ export default function Footer() {
           </div>
 
           {/* Column 6: CONTACT US */}
-          <div className="w-full sm:w-auto shrink-0 min-w-[245px] max-w-[260px] space-y-3 text-[13px] font-sans">
+          <div className="w-full sm:w-auto shrink-0 sm:min-w-[245px] sm:max-w-[260px] space-y-3 text-[13px] font-sans">
             <div>
               <h3 className="text-[11.5px] font-sans tracking-[0.14em] uppercase font-semibold text-[#D8BF96] mb-1.5">
                 CONTACT US
@@ -260,7 +260,7 @@ export default function Footer() {
                   icon={faPhone}
                   className="text-[#D8BF96] text-[13.5px] shrink-0"
                 />
-                <span className="font-medium tracking-wide whitespace-nowrap">+91 98765 43210</span>
+                <span className="font-medium tracking-wide">+91 98765 43210</span>
               </div>
 
               {/* Email */}
@@ -271,7 +271,7 @@ export default function Footer() {
                 />
                 <a
                   href="mailto:hello@ruchikacreation.com"
-                  className="hover:text-[#D8BF96] transition-colors whitespace-nowrap"
+                  className="hover:text-[#D8BF96] transition-colors break-all sm:break-normal"
                 >
                   hello@ruchikacreation.com
                 </a>
@@ -283,7 +283,7 @@ export default function Footer() {
                   icon={faClock}
                   className="text-[#D8BF96] text-[13.5px] shrink-0"
                 />
-                <span className="whitespace-nowrap">Mon – Sat: 10am – 7pm</span>
+                <span>Mon – Sat: 10am – 7pm</span>
               </div>
 
               {/* Location */}
@@ -292,7 +292,7 @@ export default function Footer() {
                   icon={faLocationDot}
                   className="text-[#D8BF96] text-[13.5px] shrink-0"
                 />
-                <span className="whitespace-nowrap">Jaipur, Rajasthan, India</span>
+                <span>Jaipur, Rajasthan, India</span>
               </div>
             </div>
           </div>
@@ -304,9 +304,9 @@ export default function Footer() {
         <div className="w-full h-[1px] bg-[rgba(216,191,150,0.25)] mb-6"></div>
 
         {/* =======================================================
-            4. BOTTOM SERVICE BAR
+            4. BOTTOM SERVICE BAR (Cleanly Centered on Mobile)
             ======================================================= */}
-        <div className="flex flex-col sm:flex-row items-center justify-between gap-4 text-[11px] font-sans text-[#C9B8AF] pl-10 sm:pl-0">
+        <div className="flex flex-col sm:flex-row items-center justify-between gap-4 text-[11px] font-sans text-[#C9B8AF] text-center sm:text-left w-full">
           {/* Left: Copyright */}
           <div>
             <p>© 2024 Ruchika Creation. All rights reserved.</p>
@@ -319,7 +319,7 @@ export default function Footer() {
           />
 
           {/* Center: Free Shipping Above ₹999 */}
-          <div className="flex items-center gap-2 text-[#D8BF96]">
+          <div className="flex items-center justify-center gap-2 text-[#D8BF96]">
             <FontAwesomeIcon icon={faTruck} className="text-[13px]" />
             <span className="font-medium tracking-wide">
               Free Shipping Above ₹999
@@ -333,7 +333,7 @@ export default function Footer() {
           />
 
           {/* Right: Easy 7-Day Returns */}
-          <div className="flex items-center gap-2 text-[#D8BF96]">
+          <div className="flex items-center justify-center gap-2 text-[#D8BF96]">
             <FontAwesomeIcon icon={faRotateLeft} className="text-[13px]" />
             <span className="font-medium tracking-wide">
               Easy 7-Day Returns

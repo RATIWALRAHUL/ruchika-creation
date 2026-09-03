@@ -46,6 +46,21 @@ export default function Header() {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
+  // Lock body scroll when mobile drawer is open so background never scrolls
+  useEffect(() => {
+    if (isMobileMenuOpen) {
+      document.body.style.overflow = "hidden";
+      document.body.style.touchAction = "none";
+    } else {
+      document.body.style.overflow = "";
+      document.body.style.touchAction = "";
+    }
+    return () => {
+      document.body.style.overflow = "";
+      document.body.style.touchAction = "";
+    };
+  }, [isMobileMenuOpen]);
+
   const navLinks = [
     { name: "Home", href: "/", active: true },
     { name: "New Arrivals", href: "#new-arrivals" },
@@ -67,13 +82,14 @@ export default function Header() {
   ];
 
   return (
-    <header
-      className={`sticky top-0 z-40 w-full transition-all duration-200 border-b ${
-        isScrolled
-          ? "bg-[#FCFAF7]/97 backdrop-blur-md shadow-[0_2px_12px_rgba(60,35,30,0.05)] border-[#E6DDD3] py-3 h-[68px] sm:h-[72px]"
-          : "bg-[#FCFAF7] border-[#E6DDD3] py-4 sm:py-5 h-[76px] sm:h-[82px]"
-      } flex items-center`}
-    >
+    <>
+      <header
+        className={`sticky top-0 z-40 w-full transition-all duration-200 border-b ${
+          isScrolled
+            ? "bg-[#FCFAF7]/97 backdrop-blur-md shadow-[0_2px_12px_rgba(60,35,30,0.05)] border-[#E6DDD3] py-3 h-[68px] sm:h-[72px]"
+            : "bg-[#FCFAF7] border-[#E6DDD3] py-4 sm:py-5 h-[76px] sm:h-[82px]"
+        } flex items-center`}
+      >
       <div className="site-container flex items-center justify-between">
         {/* Left: Mobile Menu Toggle & Official Logo */}
         <div className="flex items-center gap-3">
@@ -240,125 +256,126 @@ export default function Header() {
           </button>
         </div>
       </div>
+    </header>
 
-      {/* Mobile Drawer */}
-      {isMobileMenuOpen && (
-        <div className="fixed inset-0 z-50 flex lg:hidden bg-black/50 backdrop-blur-xs animate-in fade-in duration-200">
-          <div
-            className="absolute inset-0"
-            onClick={() => setIsMobileMenuOpen(false)}
-            aria-hidden="true"
-          />
+    {/* Mobile Drawer - Independent Top-Level Overlay */}
+    {isMobileMenuOpen && (
+      <div className="fixed inset-0 z-[100] flex lg:hidden bg-black/60 backdrop-blur-xs animate-in fade-in duration-200">
+        <div
+          className="absolute inset-0"
+          onClick={() => setIsMobileMenuOpen(false)}
+          aria-hidden="true"
+        />
 
-          <div className="relative w-4/5 max-w-sm bg-[#FCFAF7] h-full shadow-2xl flex flex-col z-10 animate-in slide-in-from-left duration-200">
-            <div className="p-4 border-b border-[#E6DDD3] flex items-center justify-between bg-white">
-              <BrandLogo variant="light" />
-              <button
-                onClick={() => setIsMobileMenuOpen(false)}
-                className="w-8 h-8 rounded-full hover:bg-[#F8F3EC] text-[#514744] flex items-center justify-center cursor-pointer"
-                aria-label="Close menu"
-              >
-                <FontAwesomeIcon icon={faXmark} className="text-base" />
-              </button>
-            </div>
+        <div className="relative w-[85%] max-w-sm bg-[#FCFAF7] h-full max-h-[100dvh] shadow-2xl flex flex-col z-10 animate-in slide-in-from-left duration-200">
+          <div className="p-4 border-b border-[#E6DDD3] flex items-center justify-between bg-white shrink-0">
+            <BrandLogo variant="light" />
+            <button
+              onClick={() => setIsMobileMenuOpen(false)}
+              className="w-8 h-8 rounded-full hover:bg-[#F8F3EC] text-[#514744] flex items-center justify-center cursor-pointer"
+              aria-label="Close menu"
+            >
+              <FontAwesomeIcon icon={faXmark} className="text-base" />
+            </button>
+          </div>
 
-            <div className="flex-1 overflow-y-auto p-5 space-y-3">
-              {/* Mobile Member Portal Bar */}
-              <div className="pb-3 border-b border-[#E6DDD3]">
-                {user ? (
-                  <div className="p-3 bg-[#F8F3EC] rounded-xl border border-[#E6DDD3]">
-                    <div className="flex items-center gap-2.5">
-                      <div className="w-8 h-8 rounded-full bg-[#641C22] text-white flex items-center justify-center font-serif text-sm font-semibold">
-                        {user.name.charAt(0)}
-                      </div>
-                      <div className="overflow-hidden">
-                        <p className="font-semibold text-xs text-[#241D1B] truncate">
-                          {user.name}
-                        </p>
-                        <p className="text-[10.5px] text-[#817771] truncate">
-                          {user.email}
-                        </p>
-                      </div>
+          <div className="flex-1 overflow-y-auto p-5 space-y-3 overscroll-contain">
+            {/* Mobile Member Portal Bar */}
+            <div className="pb-3 border-b border-[#E6DDD3]">
+              {user ? (
+                <div className="p-3 bg-[#F8F3EC] rounded-xl border border-[#E6DDD3]">
+                  <div className="flex items-center gap-2.5">
+                    <div className="w-8 h-8 rounded-full bg-[#641C22] text-white flex items-center justify-center font-serif text-sm font-semibold shrink-0">
+                      {user.name.charAt(0)}
                     </div>
-                    <button
-                      onClick={() => {
-                        logout();
-                        setIsMobileMenuOpen(false);
-                      }}
-                      className="mt-2.5 text-xs text-red-700 font-medium hover:underline flex items-center gap-1.5 cursor-pointer"
-                    >
-                      <FontAwesomeIcon icon={faArrowRightFromBracket} className="text-[10px]" />
-                      <span>Sign Out</span>
-                    </button>
+                    <div className="overflow-hidden">
+                      <p className="font-semibold text-xs text-[#241D1B] truncate">
+                        {user.name}
+                      </p>
+                      <p className="text-[10.5px] text-[#817771] truncate">
+                        {user.email}
+                      </p>
+                    </div>
                   </div>
-                ) : (
                   <button
                     onClick={() => {
+                      logout();
                       setIsMobileMenuOpen(false);
-                      setAuthMode("login");
-                      setIsAuthModalOpen(true);
                     }}
-                    className="w-full py-2.5 px-4 bg-[#641C22] text-white text-xs font-semibold rounded-lg flex items-center justify-center gap-2 hover:bg-[#4B151A] transition-colors cursor-pointer shadow-xs"
+                    className="mt-2.5 text-xs text-red-700 font-medium hover:underline flex items-center gap-1.5 cursor-pointer"
                   >
-                    <FontAwesomeIcon icon={faUser} className="text-xs" />
-                    <span>Sign In / Register</span>
+                    <FontAwesomeIcon icon={faArrowRightFromBracket} className="text-[10px]" />
+                    <span>Sign Out</span>
                   </button>
+                </div>
+              ) : (
+                <button
+                  onClick={() => {
+                    setIsMobileMenuOpen(false);
+                    setAuthMode("login");
+                    setIsAuthModalOpen(true);
+                  }}
+                  className="w-full py-2.5 px-4 bg-[#641C22] text-white text-xs font-semibold rounded-lg flex items-center justify-center gap-2 hover:bg-[#4B151A] transition-colors cursor-pointer shadow-xs"
+                >
+                  <FontAwesomeIcon icon={faUser} className="text-xs" />
+                  <span>Sign In / Register</span>
+                </button>
+              )}
+            </div>
+
+            {navLinks.map((link) => (
+              <div key={link.name} className="border-b border-[#E6DDD3]/50 pb-2">
+                <Link
+                  href={link.href}
+                  onClick={() => setIsMobileMenuOpen(false)}
+                  className="block text-sm font-sans font-medium text-[#241D1B] hover:text-[#641C22] py-1"
+                >
+                  {link.name}
+                </Link>
+                {link.hasDropdown && (
+                  <div className="pl-3 mt-1 space-y-1.5 border-l-2 border-[#B18A52]/40">
+                    {link.subItems?.map((sub) => (
+                      <Link
+                        key={sub.name}
+                        href={sub.href}
+                        onClick={() => setIsMobileMenuOpen(false)}
+                        className="block text-xs text-[#817771] hover:text-[#641C22] py-0.5"
+                      >
+                        {sub.name}
+                      </Link>
+                    ))}
+                  </div>
                 )}
               </div>
+            ))}
 
-              {navLinks.map((link) => (
-                <div key={link.name} className="border-b border-[#E6DDD3]/50 pb-2">
-                  <Link
-                    href={link.href}
-                    onClick={() => setIsMobileMenuOpen(false)}
-                    className="block text-sm font-sans font-medium text-[#241D1B] hover:text-[#641C22] py-1"
-                  >
-                    {link.name}
-                  </Link>
-                  {link.hasDropdown && (
-                    <div className="pl-3 mt-1 space-y-1.5 border-l-2 border-[#B18A52]/40">
-                      {link.subItems?.map((sub) => (
-                        <Link
-                          key={sub.name}
-                          href={sub.href}
-                          onClick={() => setIsMobileMenuOpen(false)}
-                          className="block text-xs text-[#817771] hover:text-[#641C22] py-0.5"
-                        >
-                          {sub.name}
-                        </Link>
-                      ))}
-                    </div>
-                  )}
-                </div>
-              ))}
-
-              <div className="pt-4 space-y-2 text-xs text-[#817771]">
-                <div className="flex items-center gap-2">
-                  <FontAwesomeIcon icon={faPhone} className="text-[#B18A52]" />
-                  <span>+91 98765 43210</span>
-                </div>
-                <div className="flex items-center gap-2">
-                  <FontAwesomeIcon icon={faEnvelope} className="text-[#B18A52]" />
-                  <span>care@ruchikacreation.com</span>
-                </div>
+            <div className="pt-4 space-y-2 text-xs text-[#817771]">
+              <div className="flex items-center gap-2">
+                <FontAwesomeIcon icon={faPhone} className="text-[#B18A52]" />
+                <span>+91 98765 43210</span>
+              </div>
+              <div className="flex items-center gap-2">
+                <FontAwesomeIcon icon={faEnvelope} className="text-[#B18A52]" />
+                <span>care@ruchikacreation.com</span>
               </div>
             </div>
+          </div>
 
-            <div className="p-4 bg-white border-t border-[#E6DDD3]">
-              <button
-                onClick={() => {
-                  setIsMobileMenuOpen(false);
-                  setIsCartOpen(true);
-                }}
-                className="w-full bg-[#641C22] text-white text-xs font-sans tracking-wider uppercase font-semibold py-2.5 rounded-lg flex items-center justify-center gap-2 cursor-pointer"
-              >
-                <FontAwesomeIcon icon={faBagShopping} />
-                <span>View Bag ({cartCount})</span>
-              </button>
-            </div>
+          <div className="p-4 bg-white border-t border-[#E6DDD3] shrink-0">
+            <button
+              onClick={() => {
+                setIsMobileMenuOpen(false);
+                setIsCartOpen(true);
+              }}
+              className="w-full bg-[#641C22] text-white text-xs font-sans tracking-wider uppercase font-semibold py-2.5 rounded-lg flex items-center justify-center gap-2 cursor-pointer"
+            >
+              <FontAwesomeIcon icon={faBagShopping} />
+              <span>View Bag ({cartCount})</span>
+            </button>
           </div>
         </div>
-      )}
-    </header>
-  );
+      </div>
+    )}
+  </>
+);
 }
