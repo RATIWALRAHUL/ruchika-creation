@@ -42,6 +42,13 @@ export const metadata: Metadata = {
     "Women Fashion India",
   ],
   authors: [{ name: "Ruchika Creation" }],
+  icons: {
+    icon: [
+      { url: "/icon.png", sizes: "512x512", type: "image/png" },
+      { url: "/favicon.ico", sizes: "any" },
+    ],
+    apple: "/apple-icon.png",
+  },
 };
 
 export const viewport = {
