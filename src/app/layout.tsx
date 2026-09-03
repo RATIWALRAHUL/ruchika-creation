@@ -8,7 +8,7 @@ import CartDrawer from "@/components/ui/CartDrawer";
 import WishlistDrawer from "@/components/ui/WishlistDrawer";
 import SearchModal from "@/components/ui/SearchModal";
 import QuickViewModal from "@/components/ui/QuickViewModal";
-import AuthModal from "@/components/ui/AuthModal";
+import ProfileModal from "@/components/ui/ProfileModal";
 
 // Prevent FontAwesome from adding its CSS automatically since we imported it above
 config.autoAddCss = false;
@@ -73,7 +73,7 @@ export default function RootLayout({
           <WishlistDrawer />
           <SearchModal />
           <QuickViewModal />
-          <AuthModal />
+          <ProfileModal />
         </ShopProvider>
       </body>
     </html>

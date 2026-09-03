@@ -1,7 +1,7 @@
 "use client";
 
 import React, { createContext, useContext, useState, useEffect } from "react";
-import { Product, products } from "@/data/products";
+import { Product } from "@/data/products";
 
 export interface CartItem {
   product: Product;
@@ -9,13 +9,48 @@ export interface CartItem {
   size: string;
 }
 
-export interface UserProfile {
+export interface CustomerProfile {
+  id: string;
   name: string;
-  email: string;
-  phone?: string;
+  mobile: string;
+  mobileVerified: boolean;
+  createdAt: string;
+  email?: string;
+}
+
+export interface OrderItem {
+  productId: string;
+  productName: string;
+  productImage: string;
+  size: string;
+  quantity: number;
+  unitPrice: number;
+  lineTotal: number;
+}
+
+export type OrderStatus =
+  | "ORDER_REQUESTED"
+  | "CONFIRMED"
+  | "PREPARING"
+  | "SHIPPED"
+  | "DELIVERED"
+  | "CANCELLED";
+
+export interface OrderRecord {
+  id: string; // e.g. "RC10001"
+  date: string;
+  customerName: string;
+  customerMobile: string;
+  items: OrderItem[];
+  subtotal: number;
+  shipping: number;
+  total: number;
+  status: OrderStatus;
+  createdAt: string;
 }
 
 interface ShopContextType {
+  // Cart
   cart: CartItem[];
   cartCount: number;
   cartTotal: number;
@@ -26,6 +61,7 @@ interface ShopContextType {
   updateQuantity: (productId: string, size: string, quantity: number) => void;
   clearCart: () => void;
 
+  // Wishlist
   wishlist: Product[];
   wishlistCount: number;
   isWishlistOpen: boolean;
@@ -33,21 +69,34 @@ interface ShopContextType {
   toggleWishlist: (product: Product) => void;
   isInWishlist: (productId: string) => boolean;
 
+  // Search & Quick View
   isSearchOpen: boolean;
   setIsSearchOpen: (open: boolean) => void;
-
   quickViewProduct: Product | null;
   setQuickViewProduct: (product: Product | null) => void;
 
-  // Auth State
-  isAuthModalOpen: boolean;
-  setIsAuthModalOpen: (open: boolean) => void;
-  authMode: "login" | "signup" | "forgot";
-  setAuthMode: (mode: "login" | "signup" | "forgot") => void;
-  user: UserProfile | null;
-  login: (name: string, email: string, phone?: string) => void;
-  logout: () => void;
+  // Customer Profile & OTP Verification
+  customer: CustomerProfile | null;
+  isProfileOpen: boolean;
+  setIsProfileOpen: (open: boolean) => void;
+  profileInitialTab: "profile" | "verify" | "orders";
+  setProfileInitialTab: (tab: "profile" | "verify" | "orders") => void;
+  updateCustomer: (profile: CustomerProfile) => void;
+  logoutCustomer: () => void;
 
+  // Order Management
+  orders: OrderRecord[];
+  selectedOrder: OrderRecord | null;
+  setSelectedOrder: (order: OrderRecord | null) => void;
+  createOrderRequest: (
+    cust: CustomerProfile,
+    items: CartItem[],
+    subtotal: number,
+    shipping: number,
+    total: number
+  ) => OrderRecord;
+
+  // Toasts
   toastMessage: string | null;
   showToast: (msg: string) => void;
 
@@ -55,6 +104,50 @@ interface ShopContextType {
 }
 
 const ShopContext = createContext<ShopContextType | undefined>(undefined);
+
+// Initial starter demo orders for verified profiles
+const DEFAULT_DEMO_ORDERS: OrderRecord[] = [
+  {
+    id: "RC10001",
+    date: "28 Aug 2026",
+    customerName: "Rahul",
+    customerMobile: "9876543210",
+    status: "DELIVERED",
+    createdAt: "2026-08-28T10:30:00.000Z",
+    subtotal: 3497,
+    shipping: 0,
+    total: 3497,
+    items: [
+      {
+        productId: "1",
+        productName: "Black Embroidered Kurti",
+        productImage: "/images/kurti-black-front.jpg",
+        size: "M",
+        quantity: 1,
+        unitPrice: 1499,
+        lineTotal: 1499,
+      },
+      {
+        productId: "2",
+        productName: "Maroon Embroidered Kurti",
+        productImage: "/images/kurti-maroon-festive.jpg",
+        size: "L",
+        quantity: 1,
+        unitPrice: 1299,
+        lineTotal: 1299,
+      },
+      {
+        productId: "4",
+        productName: "Olive Printed Kurti",
+        productImage: "/images/kurti-olive-printed.jpg",
+        size: "M",
+        quantity: 1,
+        unitPrice: 699,
+        lineTotal: 699,
+      },
+    ],
+  },
+];
 
 export const ShopProvider: React.FC<{ children: React.ReactNode }> = ({
   children,
@@ -67,30 +160,44 @@ export const ShopProvider: React.FC<{ children: React.ReactNode }> = ({
   const [quickViewProduct, setQuickViewProduct] = useState<Product | null>(null);
   const [toastMessage, setToastMessage] = useState<string | null>(null);
 
-  // Auth state
-  const [isAuthModalOpen, setIsAuthModalOpen] = useState(false);
-  const [authMode, setAuthMode] = useState<"login" | "signup" | "forgot">("login");
-  const [user, setUser] = useState<UserProfile | null>(null);
+  // Customer Profile state
+  const [customer, setCustomer] = useState<CustomerProfile | null>(null);
+  const [isProfileOpen, setIsProfileOpen] = useState(false);
+  const [profileInitialTab, setProfileInitialTab] = useState<
+    "profile" | "verify" | "orders"
+  >("profile");
+
+  // Orders State
+  const [orders, setOrders] = useState<OrderRecord[]>([]);
+  const [selectedOrder, setSelectedOrder] = useState<OrderRecord | null>(null);
 
   const freeShippingThreshold = 999;
 
-  // Initial dummy/starter items to show interactive states on load
+  // Restore persisted state from localStorage
   useEffect(() => {
     try {
       const savedCart = localStorage.getItem("rc_cart");
-      if (savedCart) {
-        setCart(JSON.parse(savedCart));
-      }
+      if (savedCart) setCart(JSON.parse(savedCart));
+
       const savedWishlist = localStorage.getItem("rc_wishlist");
-      if (savedWishlist) {
-        setWishlist(JSON.parse(savedWishlist));
+      if (savedWishlist) setWishlist(JSON.parse(savedWishlist));
+
+      const savedCustomer = localStorage.getItem("rc_customer");
+      if (savedCustomer) {
+        const parsedCust: CustomerProfile = JSON.parse(savedCustomer);
+        setCustomer(parsedCust);
       }
-      const savedUser = localStorage.getItem("rc_user");
-      if (savedUser) {
-        setUser(JSON.parse(savedUser));
+
+      const savedOrders = localStorage.getItem("rc_orders");
+      if (savedOrders) {
+        setOrders(JSON.parse(savedOrders));
+      } else {
+        // Starter demo order for instant preview
+        setOrders(DEFAULT_DEMO_ORDERS);
+        localStorage.setItem("rc_orders", JSON.stringify(DEFAULT_DEMO_ORDERS));
       }
     } catch {
-      // localStorage may not be accessible in all environments
+      // Storage unavailable in SSR
     }
   }, []);
 
@@ -108,22 +215,65 @@ export const ShopProvider: React.FC<{ children: React.ReactNode }> = ({
     } catch {}
   };
 
-  const login = (name: string, email: string, phone?: string) => {
-    const userProfile: UserProfile = { name, email, phone };
-    setUser(userProfile);
+  const updateCustomer = (profile: CustomerProfile) => {
+    setCustomer(profile);
     try {
-      localStorage.setItem("rc_user", JSON.stringify(userProfile));
+      localStorage.setItem("rc_customer", JSON.stringify(profile));
     } catch {}
-    setIsAuthModalOpen(false);
-    showToast(`Welcome back, ${name}!`);
+    showToast(`Hello, ${profile.name}! Mobile verified.`);
   };
 
-  const logout = () => {
-    setUser(null);
+  const logoutCustomer = () => {
+    setCustomer(null);
     try {
-      localStorage.removeItem("rc_user");
+      localStorage.removeItem("rc_customer");
     } catch {}
-    showToast("Signed out successfully");
+    showToast("Profile disconnected");
+  };
+
+  const createOrderRequest = (
+    cust: CustomerProfile,
+    items: CartItem[],
+    subtotal: number,
+    shipping: number,
+    total: number
+  ): OrderRecord => {
+    const nextOrderNum = 10000 + orders.length + 1;
+    const now = new Date();
+    const dateFormatted = now.toLocaleDateString("en-GB", {
+      day: "numeric",
+      month: "short",
+      year: "numeric",
+    });
+
+    const newOrder: OrderRecord = {
+      id: `RC${nextOrderNum}`,
+      date: dateFormatted,
+      customerName: cust.name,
+      customerMobile: cust.mobile,
+      status: "ORDER_REQUESTED",
+      createdAt: now.toISOString(),
+      subtotal,
+      shipping,
+      total,
+      items: items.map((item) => ({
+        productId: item.product.id,
+        productName: item.product.name,
+        productImage: item.product.image || "/images/kurti-black-front.jpg",
+        size: item.size,
+        quantity: item.quantity,
+        unitPrice: item.product.price,
+        lineTotal: item.product.price * item.quantity,
+      })),
+    };
+
+    const updated = [newOrder, ...orders];
+    setOrders(updated);
+    try {
+      localStorage.setItem("rc_orders", JSON.stringify(updated));
+    } catch {}
+
+    return newOrder;
   };
 
   const showToast = (msg: string) => {
@@ -229,13 +379,17 @@ export const ShopProvider: React.FC<{ children: React.ReactNode }> = ({
         setIsSearchOpen,
         quickViewProduct,
         setQuickViewProduct,
-        isAuthModalOpen,
-        setIsAuthModalOpen,
-        authMode,
-        setAuthMode,
-        user,
-        login,
-        logout,
+        customer,
+        isProfileOpen,
+        setIsProfileOpen,
+        profileInitialTab,
+        setProfileInitialTab,
+        updateCustomer,
+        logoutCustomer,
+        orders,
+        selectedOrder,
+        setSelectedOrder,
+        createOrderRequest,
         toastMessage,
         showToast,
         freeShippingThreshold,
