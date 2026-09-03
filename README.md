@@ -1,36 +1,115 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Ruchika Creation — Luxury Indian Ethnicwear & Kurtis E-Commerce
 
-## Getting Started
+[![Next.js](https://img.shields.io/badge/Next.js-16.3.4-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-19.0.0-blue?style=for-the-badge&logo=react)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 
-First, run the development server:
+An editorial, luxury Indian ethnicwear e-commerce storefront for **Ruchika Creation**, celebrating Rajasthani craftsmanship, contemporary silhouettes, and authentic artisanal kurtis.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+---
+
+## ✨ Key Features
+
+- 🏛️ **Editorial Hero Section**: Full-bleed authentic photography, traditional Jaipur mandala watermarks, italicized Cormorant Garamond typography, and integrated trust features.
+- 🛍️ **Interactive Shopping Bag & Wishlist**: Slide-out cart with free shipping progress bar (threshold: ₹999), size selectors, quantity controls, and persistent local storage.
+- 🔍 **Real-Time Instant Search**: Live fuzzy search modal filtering kurtis by category, fabric, color, and price.
+- 👁️ **Product Quick View Modal**: Fast product inspection with image galleries, size picker, craft details, and direct add-to-bag actions.
+- 🔐 **Luxury Login & Sign Up Modal**:
+  - Member access modal with tabbed Sign In and Create Account screens.
+  - Password and Mobile SMS OTP login alternatives.
+  - Quick Demo test login (`Pooja Sharma`).
+  - Forgot password / reset instructions flow.
+  - Header user status with dropdown menu (My Orders, Saved Kurtis, Sign Out).
+- 🏰 **Heritage Rajasthani Footer**:
+  - Double gold concentric crest vector logo with centered diamond underline (`──◇──`).
+  - Luminous gold Jaipur City Palace architectural skyline background.
+  - Dedicated 6-column editorial layout with zero text wrapping.
+  - 3-part bottom service bar (Free Shipping Above ₹999 & Easy 7-Day Returns).
+- 📱 **100% Responsive Design**: Fluid typography and layout engineered for mobile (320px+), tablet, desktop, and ultra-wide displays.
+
+---
+
+## 🎨 Design System & Palette
+
+| Token | Hex | Role |
+| :--- | :--- | :--- |
+| **Deep Burgundy** | `#4B151A` | Royal footer background, accent elements |
+| **Primary Maroon** | `#641C22` | Primary buttons, active tabs, brand accents |
+| **Antique Gold** | `#D8BF96` | Headings, icons, skyline architectural line art |
+| **Muted Gold** | `#B18A52` | Star accents, dividers, subtle borders |
+| **Warm Ivory** | `#FCFAF7` | Page background, cards, light containers |
+| **Editorial Cream** | `#F5EDE5` | Footer typography, secondary text on dark |
+| **Rich Charcoal** | `#241D1B` | Primary headings, dark body text |
+
+### Typography
+- **Headings & Accents**: `Cormorant Garamond` (Serif)
+- **Body & Navigation**: `DM Sans` (Sans-Serif)
+
+---
+
+## 📁 Project Structure
+
+```text
+ruchika-creation/
+├── public/
+│   └── images/                 # Optimized product photos, logos & skyline assets
+├── src/
+│   ├── app/
+│   │   ├── globals.css         # Design system tokens & utility classes
+│   │   ├── layout.tsx          # Root layout with font definitions & global modals
+│   │   └── page.tsx            # Ruchika Creation homepage assembly
+│   ├── components/
+│   │   ├── home/               # Hero, New Arrivals, Bestsellers, Craftsmanship, etc.
+│   │   ├── layout/             # AnnouncementBar, Header, Footer
+│   │   └── ui/                 # BrandLogo, ProductCard, CartDrawer, AuthModal, etc.
+│   ├── context/
+│   │   └── ShopContext.tsx     # Cart, Wishlist, Search, and Auth state management
+│   └── data/
+│       ├── products.ts         # Catalog of handcrafted kurtis & metadata
+│       └── collections.ts      # Curated ethnicwear collections
+├── .gitignore
+├── package.json
+└── tsconfig.json
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🚀 Getting Started
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Prerequisites
+- **Node.js**: v18.18.0 or higher
+- **npm**, **yarn**, or **pnpm**
 
-## Learn More
+### Installation
 
-To learn more about Next.js, take a look at the following resources:
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/RATIWALRAHUL/ruchika-creation.git
+   cd ruchika-creation
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+3. **Run development server**:
+   ```bash
+   npm run dev
+   ```
 
-## Deploy on Vercel
+4. **Open in browser**:
+   Navigate to [http://localhost:3000](http://localhost:3000)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Production Build
+```bash
+npm run build
+npm run start
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 📄 License
+
+This project is proprietary and confidential to **Ruchika Creation**. All rights reserved.

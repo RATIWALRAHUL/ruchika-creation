@@ -1,26 +1,107 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
+@layer base {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --color-primary-burgundy: #641C22;
+    --color-dark-burgundy: #4B151A;
+    --color-secondary-burgundy: #7A2C32;
+    --color-cream: #F8F3EC;
+    --color-warm-ivory: #FCFAF7;
+    --color-pure-white: #FFFFFF;
+    --color-charcoal: #241D1B;
+    --color-body-text: #514744;
+    --color-muted-text: #817771;
+    --color-border: #E6DDD3;
+    --color-premium-gold: #B18A52;
+    --color-light-gold: #D8BF96;
+    --color-olive: #5C6248;
   }
 }
 
+@theme {
+  --color-burgundy-primary: #641C22;
+  --color-burgundy-dark: #4B151A;
+  --color-burgundy-secondary: #7A2C32;
+  --color-cream: #F8F3EC;
+  --color-ivory: #FCFAF7;
+  --color-charcoal: #241D1B;
+  --color-body: #514744;
+  --color-muted: #817771;
+  --color-border-brand: #E6DDD3;
+  --color-gold-primary: #B18A52;
+  --color-gold-light: #D8BF96;
+  --color-olive-accent: #5C6248;
+
+  --font-serif: var(--font-cormorant), "Playfair Display", Georgia, serif;
+  --font-sans: var(--font-dm-sans), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+
+  --shadow-subtle: 0 4px 18px rgba(60, 35, 30, 0.05);
+  --shadow-hover: 0 8px 24px rgba(60, 35, 30, 0.08);
+  --shadow-card: 0 2px 12px rgba(40, 20, 20, 0.04);
+}
+
+html {
+  scroll-behavior: smooth;
+  background-color: #FCFAF7;
+  color: #241D1B;
+  font-family: var(--font-dm-sans), sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: #FCFAF7;
+  color: #514744;
+  overflow-x: hidden;
+}
+
+/* Custom refined scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #F8F3EC;
+}
+::-webkit-scrollbar-thumb {
+  background: #D8BF96;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #B18A52;
+}
+
+/* Strict Global Container: Perfectly aligned across all sections */
+.site-container {
+  max-width: 1320px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 32px;
+  padding-right: 32px;
+  width: 100%;
+}
+
+@media (max-width: 1024px) {
+  .site-container {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+
+@media (max-width: 640px) {
+  .site-container {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
+
+/* Hide scrollbar for clean carousels */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
 }
