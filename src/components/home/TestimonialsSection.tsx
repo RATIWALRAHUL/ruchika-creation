@@ -39,7 +39,7 @@ export default function TestimonialsSection() {
   };
 
   return (
-    <section className="py-12 sm:py-16 lg:py-20 bg-[#FCFAF7] border-b border-[#E6DDD3]">
+    <section className="py-8 sm:py-11 lg:py-13 bg-[#FCFAF7] border-b border-[#E6DDD3]">
       <div className="site-container">
         <SectionHeading title="What Our Customers Say" />
 

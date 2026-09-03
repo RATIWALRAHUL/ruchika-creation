@@ -34,7 +34,7 @@ export default function StyledByRuchikaSection() {
   ];
 
   return (
-    <section className="py-12 sm:py-16 lg:py-20 bg-white">
+    <section className="py-8 sm:py-11 lg:py-13 bg-white">
       <div className="site-container">
         {/* Section Header with Instagram link */}
         <div className="relative mb-6 sm:mb-10">

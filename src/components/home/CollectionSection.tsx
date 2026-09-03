@@ -31,7 +31,7 @@ export default function CollectionSection() {
   };
 
   return (
-    <section id="collections" className="py-12 sm:py-16 lg:py-20 bg-[#FCFAF7]">
+    <section id="collections" className="py-8 sm:py-11 lg:py-13 bg-[#FCFAF7]">
       <div className="site-container">
         <SectionHeading title="Shop by Collection" />
 

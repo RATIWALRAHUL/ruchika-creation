@@ -23,7 +23,7 @@ export default function SectionHeading({
   const isDark = theme === "dark";
 
   return (
-    <div className={`relative mb-8 sm:mb-10 ${className}`}>
+    <div className={`relative mb-6 sm:mb-8 ${className}`}>
       {/* Centered Heading with delicate ornamental divider */}
       <div className="flex flex-col items-center justify-center text-center">
         {/* Subtle gold ornament on top */}

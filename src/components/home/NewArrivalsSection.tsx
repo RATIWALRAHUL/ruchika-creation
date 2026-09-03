@@ -25,7 +25,7 @@ export default function NewArrivalsSection() {
   };
 
   return (
-    <section id="new-arrivals" className="py-12 sm:py-16 lg:py-20 bg-white border-b border-[#E6DDD3]">
+    <section id="new-arrivals" className="py-8 sm:py-11 lg:py-13 bg-white border-b border-[#E6DDD3]">
       <div className="site-container relative">
         <SectionHeading
           title="New Arrivals"
