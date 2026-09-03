@@ -59,7 +59,7 @@ export default function Footer() {
           1. EXACT JAIPUR HERITAGE PALACE SKYLINE BACKGROUND
           ======================================================= */}
       <div
-        className="absolute bottom-[64px] sm:bottom-[70px] inset-x-0 h-36 sm:h-44 pointer-events-none opacity-30 select-none z-0 overflow-hidden"
+        className="absolute bottom-0 inset-x-0 h-40 sm:h-48 pointer-events-none opacity-20 select-none z-0 overflow-hidden"
         aria-hidden="true"
       >
         <Image
