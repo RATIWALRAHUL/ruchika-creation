@@ -9,6 +9,7 @@ import WishlistDrawer from "@/components/ui/WishlistDrawer";
 import SearchModal from "@/components/ui/SearchModal";
 import QuickViewModal from "@/components/ui/QuickViewModal";
 import ProfileModal from "@/components/ui/ProfileModal";
+import FloatingWhatsAppButton from "@/components/ui/FloatingWhatsAppButton";
 
 // Prevent FontAwesome from adding its CSS automatically since we imported it above
 config.autoAddCss = false;
@@ -74,8 +75,10 @@ export default function RootLayout({
           <SearchModal />
           <QuickViewModal />
           <ProfileModal />
+          <FloatingWhatsAppButton />
         </ShopProvider>
       </body>
     </html>
   );
 }
+

@@ -14,6 +14,8 @@ import {
   faShieldHalved,
 } from "@fortawesome/free-solid-svg-icons";
 import { faHeart as faHeartRegular } from "@fortawesome/free-regular-svg-icons";
+import { faWhatsapp } from "@fortawesome/free-brands-svg-icons";
+import { createWhatsAppQueryUrl } from "@/utils/whatsappOrder";
 
 const SIZES = ["S", "M", "L", "XL", "XXL"];
 
@@ -24,6 +26,7 @@ export default function QuickViewModal() {
     addToCart,
     toggleWishlist,
     isInWishlist,
+    customer,
   } = useShop();
 
   const [selectedSize, setSelectedSize] = useState("M");
@@ -199,17 +202,37 @@ export default function QuickViewModal() {
             )}
           </div>
 
-          {/* Action Button */}
-          <div>
+          {/* Action Buttons */}
+          <div className="space-y-2">
             <button
               onClick={() => {
                 addToCart(quickViewProduct, selectedSize, 1);
                 setQuickViewProduct(null);
               }}
-              className="w-full bg-[#641C22] hover:bg-[#4B151A] text-white text-xs font-sans tracking-wider uppercase font-semibold py-3 px-4 rounded-lg flex items-center justify-center gap-2 transition-colors shadow-xs"
+              className="w-full bg-[#641C22] hover:bg-[#4B151A] text-white text-xs font-sans tracking-wider uppercase font-semibold py-3 px-4 rounded-lg flex items-center justify-center gap-2 transition-colors shadow-xs cursor-pointer"
             >
               <FontAwesomeIcon icon={faBagShopping} className="text-xs" />
               <span>ADD TO BAG</span>
+            </button>
+
+            <button
+              onClick={() => {
+                const queryUrl = createWhatsAppQueryUrl({
+                  customerName: customer?.name,
+                  customerMobile: customer?.mobile,
+                  productName: quickViewProduct.name,
+                  productCode: quickViewProduct.id,
+                  productPrice: quickViewProduct.price,
+                  productSize: selectedSize,
+                  productCategory: quickViewProduct.category,
+                  queryText: `Please confirm availability and delivery timeline for ${quickViewProduct.name} (Size: ${selectedSize}).`,
+                });
+                window.open(queryUrl, "_blank");
+              }}
+              className="w-full bg-[#25D366]/15 hover:bg-[#25D366]/25 text-[#125c2b] border border-[#25D366]/40 text-xs font-sans tracking-wider uppercase font-bold py-2.5 px-4 rounded-lg flex items-center justify-center gap-2 transition-colors cursor-pointer"
+            >
+              <FontAwesomeIcon icon={faWhatsapp} className="text-sm text-[#125c2b]" />
+              <span>INQUIRE ON WHATSAPP</span>
             </button>
 
             <div className="grid grid-cols-3 gap-2 mt-4 pt-3 border-t border-[#E6DDD3] text-[10px] text-center text-[#817771]">

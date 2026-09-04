@@ -254,13 +254,20 @@ export default function Footer() {
             </div>
 
             <div className="space-y-3">
-              {/* Phone */}
+              {/* Phone & WhatsApp */}
               <div className="flex items-center gap-3 text-[#F5EDE5]">
                 <FontAwesomeIcon
                   icon={faPhone}
                   className="text-[#D8BF96] text-[13.5px] shrink-0"
                 />
-                <span className="font-medium tracking-wide">+91 98765 43210</span>
+                <a
+                  href="https://wa.me/917340368544?text=Hello%20Ruchika%20Creation%2C%20I%20have%20a%20query%20about%20your%20products."
+                  target="_blank"
+                  rel="noreferrer"
+                  className="font-medium tracking-wide hover:text-[#D8BF96] transition-colors"
+                >
+                  +91 73403 68544
+                </a>
               </div>
 
               {/* Email */}

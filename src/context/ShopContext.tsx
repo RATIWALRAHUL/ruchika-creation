@@ -75,12 +75,12 @@ interface ShopContextType {
   quickViewProduct: Product | null;
   setQuickViewProduct: (product: Product | null) => void;
 
-  // Customer Profile & OTP Verification
+  // Customer Profile
   customer: CustomerProfile | null;
   isProfileOpen: boolean;
   setIsProfileOpen: (open: boolean) => void;
-  profileInitialTab: "profile" | "verify" | "orders";
-  setProfileInitialTab: (tab: "profile" | "verify" | "orders") => void;
+  profileInitialTab: "profile" | "setup" | "verify" | "orders" | "query";
+  setProfileInitialTab: (tab: "profile" | "setup" | "verify" | "orders" | "query") => void;
   updateCustomer: (profile: CustomerProfile) => void;
   logoutCustomer: () => void;
 
@@ -111,7 +111,7 @@ const DEFAULT_DEMO_ORDERS: OrderRecord[] = [
     id: "RC10001",
     date: "28 Aug 2026",
     customerName: "Rahul",
-    customerMobile: "9876543210",
+    customerMobile: "7340368544",
     status: "DELIVERED",
     createdAt: "2026-08-28T10:30:00.000Z",
     subtotal: 3497,
@@ -164,7 +164,7 @@ export const ShopProvider: React.FC<{ children: React.ReactNode }> = ({
   const [customer, setCustomer] = useState<CustomerProfile | null>(null);
   const [isProfileOpen, setIsProfileOpen] = useState(false);
   const [profileInitialTab, setProfileInitialTab] = useState<
-    "profile" | "verify" | "orders"
+    "profile" | "setup" | "verify" | "orders" | "query"
   >("profile");
 
   // Orders State
@@ -216,11 +216,15 @@ export const ShopProvider: React.FC<{ children: React.ReactNode }> = ({
   };
 
   const updateCustomer = (profile: CustomerProfile) => {
-    setCustomer(profile);
+    const customerWithFlag: CustomerProfile = {
+      ...profile,
+      mobileVerified: true,
+    };
+    setCustomer(customerWithFlag);
     try {
-      localStorage.setItem("rc_customer", JSON.stringify(profile));
+      localStorage.setItem("rc_customer", JSON.stringify(customerWithFlag));
     } catch {}
-    showToast(`Hello, ${profile.name}! Mobile verified.`);
+    showToast(`Hello, ${profile.name}! Details saved.`);
   };
 
   const logoutCustomer = () => {
@@ -398,7 +402,7 @@ export const ShopProvider: React.FC<{ children: React.ReactNode }> = ({
       {children}
       {/* Refined Toast Notification */}
       {toastMessage && (
-        <div className="fixed bottom-6 right-6 z-50 flex items-center gap-3 bg-[#4B151A] text-[#FCFAF7] px-5 py-3 rounded-lg shadow-xl border border-[#B18A52]/40 text-sm animate-bounce-short transition-all">
+        <div className="fixed bottom-6 left-6 z-50 flex items-center gap-3 bg-[#4B151A] text-[#FCFAF7] px-5 py-3 rounded-lg shadow-xl border border-[#B18A52]/40 text-sm animate-bounce-short transition-all">
           <span className="w-2 h-2 rounded-full bg-[#B18A52]"></span>
           <span>{toastMessage}</span>
         </div>
