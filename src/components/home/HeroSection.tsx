@@ -40,12 +40,12 @@ export default function HeroSection() {
           1. TOP-LEFT TRADITIONAL INDIAN MANDALA WATERMARK
           ======================================================= */}
       <div
-        className="absolute -top-16 -left-16 sm:-top-20 sm:-left-20 w-72 sm:w-96 h-72 sm:h-96 pointer-events-none opacity-20 lg:opacity-25 text-[#B18A52] select-none z-0"
+        className="absolute -top-16 -left-16 sm:-top-20 sm:-left-20 w-72 sm:w-96 h-72 sm:h-96 pointer-events-none opacity-20 lg:opacity-25 text-[#B18A52] select-none z-0 overflow-hidden"
         aria-hidden="true"
       >
         <svg
           viewBox="0 0 200 200"
-          className="w-full h-full fill-none stroke-current"
+          className="w-full h-full fill-none stroke-current animate-spin-slow"
           strokeWidth="0.8"
         >
           <circle cx="100" cy="100" r="90" strokeDasharray="3 3" />

@@ -105,3 +105,20 @@ body {
   -ms-overflow-style: none;
   scrollbar-width: none;
 }
+
+/* Smooth Infinite Rotation for Sacred Geometry / Mandala Wheels */
+@keyframes spinSlow {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin-slow {
+  animation: spinSlow 30s linear infinite;
+  transform-origin: center center;
+  will-change: transform;
+}
+
