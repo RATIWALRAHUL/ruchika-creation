@@ -91,19 +91,19 @@ export default function Header() {
       <header
         className={`sticky top-0 z-40 w-full transition-all duration-200 border-b ${
           isScrolled
-            ? "bg-[#FCFAF7]/98 backdrop-blur-md shadow-[0_2px_14px_rgba(60,35,30,0.06)] border-[#E6DDD3] py-2.5 h-[64px] sm:h-[70px]"
-            : "bg-[#FCFAF7] border-[#E6DDD3] py-3.5 sm:py-4 h-[70px] sm:h-[78px]"
+            ? "bg-[#FCFAF7]/98 backdrop-blur-md shadow-[0_2px_14px_rgba(60,35,30,0.06)] border-[#E6DDD3] py-2 h-[60px] sm:h-[68px]"
+            : "bg-[#FCFAF7] border-[#E6DDD3] py-2.5 sm:py-3.5 h-[66px] sm:h-[76px]"
         } flex items-center`}
       >
         <div className="site-container flex items-center justify-between">
           {/* Left: Mobile Menu Toggle & Official Logo */}
-          <div className="flex items-center gap-2 sm:gap-3">
+          <div className="flex items-center gap-1.5 sm:gap-3 min-w-0">
             <button
               onClick={() => setIsMobileMenuOpen(true)}
               aria-label="Open Navigation Menu"
-              className="lg:hidden w-10 h-10 rounded-full flex items-center justify-center text-[#241D1B] hover:text-[#641C22] hover:bg-[#F8F3EC] active:scale-95 transition-all cursor-pointer"
+              className="lg:hidden w-9 h-9 sm:w-10 sm:h-10 rounded-full flex items-center justify-center text-[#241D1B] hover:text-[#641C22] hover:bg-[#F8F3EC] active:scale-95 transition-all cursor-pointer shrink-0"
             >
-              <FontAwesomeIcon icon={faBars} className="text-xl sm:text-[22px]" />
+              <FontAwesomeIcon icon={faBars} className="text-lg sm:text-[21px]" />
             </button>
 
             {/* Official Ruchika Creation Vector Logo */}
@@ -111,7 +111,7 @@ export default function Header() {
           </div>
 
           {/* Desktop Navigation Links */}
-          <nav className="hidden lg:flex items-center gap-7 xl:gap-8">
+          <nav className="hidden lg:flex items-center gap-6 xl:gap-8">
             {navLinks.map((link) => (
               <div key={link.name} className="relative group py-2">
                 <Link
@@ -151,19 +151,19 @@ export default function Header() {
             ))}
           </nav>
 
-          {/* Right Action Icons: Search, Customer Profile, Wishlist, Cart */}
-          <div className="flex items-center gap-1 sm:gap-2">
+          {/* Right Action Icons: Search, Customer Profile (desktop), Wishlist, Cart */}
+          <div className="flex items-center gap-1 sm:gap-1.5 shrink-0">
             {/* Search */}
             <button
               onClick={() => setIsSearchOpen(true)}
               aria-label="Search Collections"
-              className="w-10 h-10 rounded-full flex items-center justify-center text-[#241D1B] hover:text-[#641C22] hover:bg-[#F8F3EC] active:scale-95 transition-all cursor-pointer"
+              className="w-9 h-9 sm:w-10 sm:h-10 rounded-full flex items-center justify-center text-[#241D1B] hover:text-[#641C22] hover:bg-[#F8F3EC] active:scale-95 transition-all cursor-pointer"
             >
-              <FontAwesomeIcon icon={faMagnifyingGlass} className="text-[17px] sm:text-[18px]" />
+              <FontAwesomeIcon icon={faMagnifyingGlass} className="text-[16.5px] sm:text-[18px]" />
             </button>
 
-            {/* Customer Profile Icon */}
-            <div className="relative group">
+            {/* Customer Profile Icon - Desktop only to keep mobile header clean and uncrowded */}
+            <div className="hidden sm:block relative group">
               <button
                 onClick={() => {
                   setProfileInitialTab(customer ? "profile" : ("setup" as any));
@@ -187,7 +187,7 @@ export default function Header() {
 
               {/* Profile Hover Card (Desktop) */}
               {customer && (
-                <div className="hidden lg:block absolute top-full right-0 pt-2 w-56 invisible group-hover:visible opacity-0 group-hover:opacity-100 transition-all duration-200 z-50">
+                <div className="absolute top-full right-0 pt-2 w-56 invisible group-hover:visible opacity-0 group-hover:opacity-100 transition-all duration-200 z-50">
                   <div className="bg-white rounded-xl shadow-xl border border-[#E6DDD3] p-3 text-xs space-y-2">
                     <div className="border-b border-[#E6DDD3]/80 pb-2">
                       <div className="flex items-center gap-1.5 text-emerald-700 font-medium text-[10.5px]">
@@ -252,11 +252,11 @@ export default function Header() {
             <button
               onClick={() => setIsWishlistOpen(true)}
               aria-label="View Wishlist"
-              className="relative w-10 h-10 rounded-full flex items-center justify-center text-[#241D1B] hover:text-[#641C22] hover:bg-[#F8F3EC] active:scale-95 transition-all cursor-pointer"
+              className="relative w-9 h-9 sm:w-10 sm:h-10 rounded-full flex items-center justify-center text-[#241D1B] hover:text-[#641C22] hover:bg-[#F8F3EC] active:scale-95 transition-all cursor-pointer"
             >
-              <FontAwesomeIcon icon={faHeart} className="text-[18px] sm:text-[19px]" />
+              <FontAwesomeIcon icon={faHeart} className="text-[17px] sm:text-[18.5px]" />
               {wishlistCount > 0 && (
-                <span className="absolute top-1 right-0.5 min-w-[18px] h-[18px] px-1 rounded-full bg-[#641C22] text-[#FCFAF7] text-[10px] font-sans font-bold flex items-center justify-center border border-white shadow-xs">
+                <span className="absolute -top-0.5 -right-0.5 min-w-[17px] h-[17px] px-1 rounded-full bg-[#641C22] text-[#FCFAF7] text-[9.5px] font-sans font-bold flex items-center justify-center border border-white shadow-xs">
                   {wishlistCount}
                 </span>
               )}
@@ -266,10 +266,10 @@ export default function Header() {
             <button
               onClick={() => setIsCartOpen(true)}
               aria-label="Open Shopping Bag"
-              className="relative w-10 h-10 rounded-full flex items-center justify-center text-[#241D1B] hover:text-[#641C22] hover:bg-[#F8F3EC] active:scale-95 transition-all cursor-pointer"
+              className="relative w-9 h-9 sm:w-10 sm:h-10 rounded-full flex items-center justify-center text-[#241D1B] hover:text-[#641C22] hover:bg-[#F8F3EC] active:scale-95 transition-all cursor-pointer"
             >
-              <FontAwesomeIcon icon={faBagShopping} className="text-[19px] sm:text-[20px]" />
-              <span className="absolute top-1 right-0.5 min-w-[18px] h-[18px] px-1 rounded-full bg-[#641C22] text-[#FCFAF7] text-[10px] font-sans font-bold flex items-center justify-center border border-white shadow-xs">
+              <FontAwesomeIcon icon={faBagShopping} className="text-[18px] sm:text-[19.5px]" />
+              <span className="absolute -top-0.5 -right-0.5 min-w-[17px] h-[17px] px-1 rounded-full bg-[#641C22] text-[#FCFAF7] text-[9.5px] font-sans font-bold flex items-center justify-center border border-white shadow-xs">
                 {cartCount}
               </span>
             </button>

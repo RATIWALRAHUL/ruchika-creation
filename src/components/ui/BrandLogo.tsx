@@ -62,13 +62,13 @@ export default function BrandLogo({
       className={`inline-flex items-center group focus:outline-none ${className}`}
       aria-label="Ruchika Creation - Home"
     >
-      <div className="relative h-9 w-36 sm:h-11 sm:w-44 md:h-12 md:w-48 transition-transform duration-200 group-hover:opacity-95">
+      <div className="relative h-8 w-28 xs:h-8.5 xs:w-32 sm:h-11 sm:w-44 md:h-12 md:w-48 transition-transform duration-200 group-hover:opacity-95">
         <Image
           src="/images/logo-transparent.png"
           alt="Ruchika Creation"
           fill
           priority
-          sizes="(max-width: 640px) 144px, (max-width: 768px) 176px, 192px"
+          sizes="(max-width: 640px) 128px, (max-width: 768px) 176px, 192px"
           className="object-contain object-left"
         />
       </div>

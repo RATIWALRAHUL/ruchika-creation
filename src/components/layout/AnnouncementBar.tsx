@@ -8,13 +8,16 @@ import {
 
 export default function AnnouncementBar() {
   return (
-    <aside aria-label="Announcement" className="bg-[#641C22] text-[#FCFAF7] text-[10px] sm:text-[11px] font-sans tracking-wider py-2 sm:py-2.5 px-4 border-b border-[#7A2C32]/50 relative z-30">
-      <div className="site-container flex items-center justify-center">
-        <div className="flex items-center justify-center gap-5 sm:gap-8 md:gap-10">
-          <div className="flex items-center gap-2">
-            <FontAwesomeIcon icon={faTruck} className="text-[#D8BF96] text-[10px]" />
-            <span className="font-medium uppercase tracking-[0.08em]">
-              Free Shipping on Orders Above ₹999
+    <aside
+      aria-label="Announcement"
+      className="w-full bg-[#641C22] text-[#FCFAF7] text-[10px] sm:text-[11px] font-sans tracking-wider py-2 sm:py-2.5 px-3 sm:px-4 border-b border-[#7A2C32]/50 relative z-30 overflow-hidden"
+    >
+      <div className="site-container flex items-center justify-center text-center">
+        <div className="flex items-center justify-center gap-4 sm:gap-8 md:gap-10">
+          <div className="flex items-center gap-1.5 sm:gap-2">
+            <FontAwesomeIcon icon={faTruck} className="text-[#D8BF96] text-[10.5px]" />
+            <span className="font-medium uppercase tracking-[0.06em] sm:tracking-[0.08em] whitespace-nowrap">
+              Free Shipping Above ₹999
             </span>
           </div>
 
