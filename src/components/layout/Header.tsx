@@ -24,6 +24,7 @@ import BrandLogo from "@/components/ui/BrandLogo";
 import {
   RUCHIKA_WHATSAPP_DISPLAY,
   RUCHIKA_WHATSAPP_NUMBER,
+  RUCHIKA_EMAIL,
 } from "@/config/whatsapp";
 
 export default function Header() {
@@ -444,7 +445,7 @@ export default function Header() {
                   </div>
                   <div className="flex items-center gap-2">
                     <FontAwesomeIcon icon={faEnvelope} className="text-[#B18A52]" />
-                    <span>care@ruchikacreation.com</span>
+                    <a href={`mailto:${RUCHIKA_EMAIL}`} className="hover:text-[#641C22] transition-colors">{RUCHIKA_EMAIL}</a>
                   </div>
                 </div>
               </div>

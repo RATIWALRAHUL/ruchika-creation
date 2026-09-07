@@ -44,7 +44,9 @@ export default function CareersPage() {
             </p>
             <div className="flex items-center gap-2 text-[#641C22] font-semibold">
               <FontAwesomeIcon icon={faEnvelope} />
-              <span>careers@ruchikacreation.com</span>
+              <a href="mailto:ruchikacreation29@gmail.com" className="hover:underline">
+                ruchikacreation29@gmail.com
+              </a>
             </div>
           </div>
         </div>

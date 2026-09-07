@@ -152,7 +152,7 @@ const DEFAULT_DEMO_ORDERS: OrderRecord[] = [
         productId: "RC-3PC-001",
         productCode: "RC-3PC-001",
         productName: "Mustard Yellow Festive Dupatta 3-Piece Ensemble",
-        productImage: "/images/kurti/kurti-page-1.jpg",
+        productImage: "/images/kurti/kurti-page-14.jpg",
         size: "L",
         color: "Mustard Yellow",
         quantity: 1,

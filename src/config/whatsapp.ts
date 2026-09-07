@@ -5,4 +5,4 @@ export const RUCHIKA_WHATSAPP_NUMBER =
 
 export const RUCHIKA_WHATSAPP_DISPLAY = "+91 87339 76665";
 export const RUCHIKA_BRAND_NAME = "Ruchika Creation";
-
+export const RUCHIKA_EMAIL = "ruchikacreation29@gmail.com";

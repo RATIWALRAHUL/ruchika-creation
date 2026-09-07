@@ -49,7 +49,7 @@ export default function PrivacyPolicyPage() {
           <section className="space-y-2">
             <h2 className="font-serif text-xl text-[#241D1B] font-semibold">3. Contact Us</h2>
             <p>
-              For any privacy-related questions, contact us at <strong>care@ruchikacreation.com</strong>.
+              For any privacy-related questions, contact us at <strong>ruchikacreation29@gmail.com</strong>.
             </p>
           </section>
         </div>

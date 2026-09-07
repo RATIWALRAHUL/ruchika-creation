@@ -24,7 +24,7 @@ export default function StyledByRuchikaSection() {
       alt: "Styled by Ruchika - Jaipuri Floral Printed Kurti Set",
     },
     {
-      src: "/images/kurti/kurti-page-54.jpg",
+      src: "/images/kurti/kurti-page-54.png",
       alt: "Styled by Ruchika - Royal Blue Printed Co-ord Set",
     },
     {

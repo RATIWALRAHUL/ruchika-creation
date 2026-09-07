@@ -12,6 +12,7 @@ import { faWhatsapp } from "@fortawesome/free-brands-svg-icons";
 import {
   RUCHIKA_WHATSAPP_DISPLAY,
   RUCHIKA_WHATSAPP_NUMBER,
+  RUCHIKA_EMAIL,
 } from "@/config/whatsapp";
 
 export const metadata: Metadata = {
@@ -106,7 +107,9 @@ export default function ContactPage() {
                     Email Inquiries
                   </h4>
                   <p className="font-sans font-medium text-sm sm:text-base text-[#241D1B] mt-0.5">
-                    care@ruchikacreation.com
+                    <a href={`mailto:${RUCHIKA_EMAIL}`} className="hover:text-[#641C22] transition-colors">
+                      {RUCHIKA_EMAIL}
+                    </a>
                   </p>
                   <p className="text-xs text-[#817771]">For corporate &amp; bulk orders</p>
                 </div>

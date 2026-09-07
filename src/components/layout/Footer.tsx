@@ -20,9 +20,11 @@ import {
 import {
   RUCHIKA_WHATSAPP_DISPLAY,
   RUCHIKA_WHATSAPP_NUMBER,
+  RUCHIKA_EMAIL,
 } from "@/config/whatsapp";
 
 export default function Footer() {
+  const currentYear = new Date().getFullYear();
   const shopLinks = [
     { name: "Shop All Collections", href: "/shop" },
     { name: "Kurtis (₹499)", href: "/shop/kurtis" },
@@ -282,10 +284,10 @@ export default function Footer() {
                   className="text-[#D8BF96] text-[13.5px] shrink-0"
                 />
                 <a
-                  href="mailto:hello@ruchikacreation.com"
+                  href={`mailto:${RUCHIKA_EMAIL}`}
                   className="hover:text-[#D8BF96] transition-colors text-[13px] whitespace-nowrap"
                 >
-                  hello@ruchikacreation.com
+                  {RUCHIKA_EMAIL}
                 </a>
               </div>
 
@@ -321,7 +323,7 @@ export default function Footer() {
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4 text-[11px] font-sans text-[#C9B8AF] text-center sm:text-left w-full">
           {/* Left: Copyright */}
           <div>
-            <p>© 2024 Ruchika Creation. All rights reserved.</p>
+            <p>© {currentYear} Ruchika Creation. All rights reserved.</p>
           </div>
 
           {/* Desktop Separator */}
