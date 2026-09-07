@@ -2,6 +2,7 @@
 
 import React, { useState, useEffect } from "react";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faMagnifyingGlass,
@@ -20,9 +21,13 @@ import {
 import { faWhatsapp } from "@fortawesome/free-brands-svg-icons";
 import { useShop } from "@/context/ShopContext";
 import BrandLogo from "@/components/ui/BrandLogo";
-import { RUCHIKA_WHATSAPP_DISPLAY } from "@/config/whatsapp";
+import {
+  RUCHIKA_WHATSAPP_DISPLAY,
+  RUCHIKA_WHATSAPP_NUMBER,
+} from "@/config/whatsapp";
 
 export default function Header() {
+  const pathname = usePathname();
   const {
     cartCount,
     setIsCartOpen,
@@ -67,23 +72,28 @@ export default function Header() {
   }, [isMobileMenuOpen]);
 
   const navLinks = [
-    { name: "Home", href: "/", active: true },
-    { name: "New Arrivals", href: "#new-arrivals" },
+    { name: "Home", href: "/", active: pathname === "/" },
+    { name: "Shop All", href: "/shop", active: pathname === "/shop" },
+    { name: "New Arrivals", href: "/shop/new-arrivals", active: pathname === "/shop/new-arrivals" },
+    { name: "Kurtis", href: "/shop/kurtis", active: pathname === "/shop/kurtis" },
     {
       name: "Collections",
-      href: "#collections",
+      href: "/collections",
       hasDropdown: true,
       subItems: [
-        { name: "Everyday Kurtis", href: "#collections" },
-        { name: "Festive Edit", href: "#collections" },
-        { name: "Embroidered Collection", href: "#collections" },
-        { name: "Chikankari Edit", href: "#collections" },
+        { name: "All Collections", href: "/collections" },
+        { name: "Kurtis (Single Piece)", href: "/shop/kurtis" },
+        { name: "Two Piece Sets", href: "/shop/two-piece" },
+        { name: "Three Piece Sets", href: "/shop/three-piece" },
+        { name: "Embroidered Edit", href: "/shop/embroidered" },
+        { name: "Printed Collection", href: "/shop/printed" },
+        { name: "Festive Edit", href: "/shop/festive" },
+        { name: "Everyday Edit", href: "/shop/everyday" },
       ],
     },
-    { name: "Bestsellers", href: "#bestsellers" },
-    { name: "Our Heritage", href: "#heritage" },
-    { name: "About Us", href: "#heritage" },
-    { name: "Contact Us", href: "#footer" },
+    { name: "Bestsellers", href: "/shop/best-sellers", active: pathname === "/shop/best-sellers" },
+    { name: "About Us", href: "/about", active: pathname === "/about" },
+    { name: "Contact", href: "/contact", active: pathname === "/contact" },
   ];
 
   return (
@@ -409,7 +419,7 @@ export default function Header() {
               {/* WhatsApp & Contact Help Box */}
               <div className="pt-2">
                 <a
-                  href={`https://wa.me/917340368544?text=Hello%20Ruchika%20Creation%2C%20I%20have%20a%20query%20about%20your%20products.`}
+                  href={`https://wa.me/${RUCHIKA_WHATSAPP_NUMBER}?text=Hello%20Ruchika%20Creation%2C%20I%20have%20a%20query%20about%20your%20products.`}
                   target="_blank"
                   rel="noreferrer"
                   className="p-3 bg-emerald-50 rounded-xl border border-emerald-200 flex items-center gap-3 hover:bg-emerald-100 transition-colors"

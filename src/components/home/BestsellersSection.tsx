@@ -29,7 +29,7 @@ export default function BestsellersSection() {
       <div className="site-container relative">
         <SectionHeading
           title="Bestsellers"
-          viewAllLink="#bestsellers"
+          viewAllLink="/shop/best-sellers"
           viewAllText="VIEW ALL"
         />
 

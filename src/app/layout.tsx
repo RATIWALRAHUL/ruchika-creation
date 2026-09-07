@@ -4,6 +4,9 @@ import "@fortawesome/fontawesome-svg-core/styles.css";
 import { config } from "@fortawesome/fontawesome-svg-core";
 import "./globals.css";
 import { ShopProvider } from "@/context/ShopContext";
+import AnnouncementBar from "@/components/layout/AnnouncementBar";
+import Header from "@/components/layout/Header";
+import Footer from "@/components/layout/Footer";
 import CartDrawer from "@/components/ui/CartDrawer";
 import WishlistDrawer from "@/components/ui/WishlistDrawer";
 import SearchModal from "@/components/ui/SearchModal";
@@ -67,9 +70,23 @@ export default function RootLayout({
       lang="en"
       className={`${cormorantGaramond.variable} ${dmSans.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col font-sans bg-[#FCFAF7] text-[#514744]">
+      <body className="min-h-full flex flex-col font-sans bg-[#FCFAF7] text-[#514744] selection:bg-[#641C22] selection:text-white">
         <ShopProvider>
-          {children}
+          {/* Global Announcement Strip */}
+          <AnnouncementBar />
+
+          {/* Global Navigation Header */}
+          <Header />
+
+          {/* Page Content */}
+          <main className="flex-1">
+            {children}
+          </main>
+
+          {/* Global Heritage Footer */}
+          <Footer />
+
+          {/* Global Drawers & Modals */}
           <CartDrawer />
           <WishlistDrawer />
           <SearchModal />

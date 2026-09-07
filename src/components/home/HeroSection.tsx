@@ -71,7 +71,7 @@ export default function HeroSection() {
       <div className="hidden lg:block absolute top-0 right-0 bottom-0 w-[58%] xl:w-[57%] h-full z-0 pointer-events-none select-none">
         <div className="relative w-full h-full">
           <Image
-            src="/images/kurti-black-back.jpg"
+            src="/images/kurti/kurti-hero-8678.jpg"
             alt="Ruchika Creation black embroidered kurti"
             fill
             priority
@@ -135,7 +135,7 @@ export default function HeroSection() {
           <div className="block lg:hidden w-full mb-6">
             <div className="relative w-full h-[290px] xs:h-[330px] sm:h-[380px] rounded-[14px] overflow-hidden shadow-md border border-[#E6DDD3] group">
               <Image
-                src="/images/kurti-black-back.jpg"
+                src="/images/kurti/kurti-hero-8678.jpg"
                 alt="Ruchika Creation black embroidered kurti"
                 fill
                 priority
@@ -166,7 +166,7 @@ export default function HeroSection() {
           <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-3 sm:gap-4 mb-6 sm:mb-8 lg:mb-10">
             {/* Primary CTA */}
             <Link
-              href="#new-arrivals"
+              href="/shop/new-arrivals"
               className="bg-[#641C22] hover:bg-[#4B151A] text-white text-[12px] sm:text-[12.5px] font-sans tracking-[0.04em] uppercase font-semibold h-[46px] sm:h-[50px] px-6 sm:px-7 rounded-[8px] flex items-center justify-center gap-2 transition-colors duration-200 shadow-xs cursor-pointer text-center sm:min-w-[200px]"
             >
               <span>SHOP NEW ARRIVALS</span>
@@ -175,7 +175,7 @@ export default function HeroSection() {
 
             {/* Secondary CTA */}
             <Link
-              href="#collections"
+              href="/collections"
               className="bg-[#FAF6F0] hover:bg-[#641C22]/5 text-[#641C22] border border-[#641C22] text-[12px] sm:text-[12.5px] font-sans tracking-[0.04em] uppercase font-semibold h-[46px] sm:h-[50px] px-6 sm:px-7 rounded-[8px] flex items-center justify-center transition-colors duration-200 cursor-pointer text-center sm:min-w-[200px]"
             >
               <span>EXPLORE COLLECTION</span>

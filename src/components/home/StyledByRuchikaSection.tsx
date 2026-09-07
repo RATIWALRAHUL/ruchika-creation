@@ -8,28 +8,28 @@ import { faInstagram } from "@fortawesome/free-brands-svg-icons";
 export default function StyledByRuchikaSection() {
   const galleryImages = [
     {
-      src: "/images/kurti-black-back.jpg",
-      alt: "Styled by Ruchika - Black Embroidered Kurti Back Motif",
+      src: "/images/kurti/kurti-page-181.jpg",
+      alt: "Styled by Ruchika - Black Paisley Embroidered Kurti",
     },
     {
-      src: "/images/kurti-maroon-festive.jpg",
-      alt: "Styled by Ruchika - Festive Maroon Silk Kurti in Rajasthan",
+      src: "/images/kurti/kurti-page-2.jpg",
+      alt: "Styled by Ruchika - Festive Maroon Heritage Kurti Set",
     },
     {
-      src: "/images/kurti-ivory-chikankari.jpg",
-      alt: "Styled by Ruchika - Ivory Mulmul Chikankari Kurti",
+      src: "/images/kurti/kurti-page-6.jpg",
+      alt: "Styled by Ruchika - Emerald Green Embroidered Ensemble",
     },
     {
-      src: "/images/kurti-olive-printed.jpg",
-      alt: "Styled by Ruchika - Olive Green Jaipuri Printed Kurti",
+      src: "/images/kurti/kurti-page-10.jpg",
+      alt: "Styled by Ruchika - Jaipuri Floral Printed Kurti Set",
     },
     {
-      src: "/images/kurti-black-front.jpg",
-      alt: "Styled by Ruchika - Black Straight Embroidered Kurti Front",
+      src: "/images/kurti/kurti-page-54.jpg",
+      alt: "Styled by Ruchika - Royal Blue Printed Co-ord Set",
     },
     {
-      src: "/images/kurti-ivory-chikankari.jpg",
-      alt: "Styled by Ruchika - Handcrafted Ethnic Kurti Silhouette",
+      src: "/images/kurti/kurti-page-14.jpg",
+      alt: "Styled by Ruchika - Mustard Yellow Festive Kurti Set",
     },
   ];
 

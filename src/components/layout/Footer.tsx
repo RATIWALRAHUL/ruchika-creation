@@ -17,37 +17,42 @@ import {
   faPinterestP,
   faYoutube,
 } from "@fortawesome/free-brands-svg-icons";
+import {
+  RUCHIKA_WHATSAPP_DISPLAY,
+  RUCHIKA_WHATSAPP_NUMBER,
+} from "@/config/whatsapp";
 
 export default function Footer() {
   const shopLinks = [
-    { name: "New Arrivals", href: "#new-arrivals" },
-    { name: "Kurtis", href: "#collections" },
-    { name: "Collections", href: "#collections" },
-    { name: "Best Sellers", href: "#bestsellers" },
-    { name: "Gift Cards", href: "#" },
+    { name: "Shop All Collections", href: "/shop" },
+    { name: "Kurtis (₹499)", href: "/shop/kurtis" },
+    { name: "Two Piece Sets (₹899)", href: "/shop/two-piece" },
+    { name: "Three Piece Sets (₹1,099+)", href: "/shop/three-piece" },
+    { name: "New Arrivals", href: "/shop/new-arrivals" },
+    { name: "Best Sellers", href: "/shop/best-sellers" },
   ];
 
   const customerCareLinks = [
-    { name: "Shipping Policy", href: "#" },
-    { name: "Returns & Refunds", href: "#" },
-    { name: "Size Guide", href: "#" },
-    { name: "Track Order", href: "#" },
-    { name: "FAQs", href: "#" },
+    { name: "Shipping Policy", href: "/shipping-policy" },
+    { name: "Returns & Refunds", href: "/returns" },
+    { name: "Size Guide", href: "/size-guide" },
+    { name: "Track Order", href: "/track-order" },
+    { name: "FAQs", href: "/faqs" },
   ];
 
   const aboutLinks = [
-    { name: "Our Story", href: "#heritage" },
-    { name: "Craftsmanship", href: "#heritage" },
-    { name: "Sustainability", href: "#" },
-    { name: "Careers", href: "#" },
-    { name: "Blog", href: "#" },
+    { name: "Our Story", href: "/about" },
+    { name: "Craftsmanship", href: "/craftsmanship" },
+    { name: "Sustainability", href: "/sustainability" },
+    { name: "Careers", href: "/careers" },
+    { name: "All Collections", href: "/collections" },
   ];
 
   const helpLinks = [
-    { name: "Contact Us", href: "#" },
-    { name: "Store Locator", href: "#" },
-    { name: "Privacy Policy", href: "#" },
-    { name: "Terms & Conditions", href: "#" },
+    { name: "Contact Us", href: "/contact" },
+    { name: "Search Catalog", href: "/search" },
+    { name: "Privacy Policy", href: "/privacy-policy" },
+    { name: "Terms & Conditions", href: "/terms" },
   ];
 
   return (
@@ -74,9 +79,9 @@ export default function Footer() {
         {/* =======================================================
             2. 6-COLUMN FOOTER NAVIGATION WITH DEDICATED WIDTHS
             ======================================================= */}
-        <div className="flex flex-wrap lg:flex-nowrap justify-between items-start gap-y-9 gap-x-6 lg:gap-x-5 xl:gap-x-8 pb-10 sm:pb-12">
+        <div className="flex flex-wrap xl:flex-nowrap justify-between items-start gap-y-9 gap-x-6 lg:gap-x-6 xl:gap-x-8 pb-10 sm:pb-12">
           {/* Column 1: Brand Info (~280-300px) */}
-          <div className="w-full lg:w-[280px] xl:w-[300px] shrink-0 space-y-4">
+          <div className="w-full md:w-[280px] lg:w-[280px] xl:w-[300px] shrink-0 space-y-4">
             {/* Real Ruchika Creation Logo with transparent background */}
             <BrandLogo variant="dark" />
 
@@ -169,7 +174,7 @@ export default function Footer() {
           </div>
 
           {/* Column 3: CUSTOMER CARE */}
-          <div className="w-[calc(50%-12px)] sm:w-auto shrink-0 sm:min-w-[150px]">
+          <div className="w-[calc(50%-12px)] sm:w-auto shrink-0 sm:min-w-[140px]">
             <h3 className="text-[11.5px] font-sans tracking-[0.14em] uppercase font-semibold text-[#D8BF96] mb-1.5">
               CUSTOMER CARE
             </h3>
@@ -193,7 +198,7 @@ export default function Footer() {
           </div>
 
           {/* Column 4: ABOUT US */}
-          <div className="w-[calc(50%-12px)] sm:w-auto shrink-0 sm:min-w-[130px]">
+          <div className="w-[calc(50%-12px)] sm:w-auto shrink-0 sm:min-w-[125px]">
             <h3 className="text-[11.5px] font-sans tracking-[0.14em] uppercase font-semibold text-[#D8BF96] mb-1.5">
               ABOUT US
             </h3>
@@ -217,7 +222,7 @@ export default function Footer() {
           </div>
 
           {/* Column 5: HELP */}
-          <div className="w-[calc(50%-12px)] sm:w-auto shrink-0 sm:min-w-[150px]">
+          <div className="w-[calc(50%-12px)] sm:w-auto shrink-0 sm:min-w-[135px]">
             <h3 className="text-[11.5px] font-sans tracking-[0.14em] uppercase font-semibold text-[#D8BF96] mb-1.5">
               HELP
             </h3>
@@ -241,7 +246,7 @@ export default function Footer() {
           </div>
 
           {/* Column 6: CONTACT US */}
-          <div className="w-full sm:w-auto shrink-0 sm:min-w-[245px] sm:max-w-[260px] space-y-3 text-[13px] font-sans">
+          <div className="w-full sm:w-auto shrink-0 min-w-[220px] max-w-full space-y-3 text-[13px] font-sans">
             <div>
               <h3 className="text-[11.5px] font-sans tracking-[0.14em] uppercase font-semibold text-[#D8BF96] mb-1.5">
                 CONTACT US
@@ -255,51 +260,51 @@ export default function Footer() {
 
             <div className="space-y-3">
               {/* Phone & WhatsApp */}
-              <div className="flex items-center gap-3 text-[#F5EDE5]">
+              <div className="flex items-center gap-2.5 sm:gap-3 text-[#F5EDE5]">
                 <FontAwesomeIcon
                   icon={faPhone}
                   className="text-[#D8BF96] text-[13.5px] shrink-0"
                 />
                 <a
-                  href="https://wa.me/917340368544?text=Hello%20Ruchika%20Creation%2C%20I%20have%20a%20query%20about%20your%20products."
+                  href={`https://wa.me/${RUCHIKA_WHATSAPP_NUMBER}?text=Hello%20Ruchika%20Creation%2C%20I%20have%20a%20query%20about%20your%20products.`}
                   target="_blank"
                   rel="noreferrer"
-                  className="font-medium tracking-wide hover:text-[#D8BF96] transition-colors"
+                  className="font-medium tracking-wide hover:text-[#D8BF96] transition-colors whitespace-nowrap"
                 >
-                  +91 73403 68544
+                  {RUCHIKA_WHATSAPP_DISPLAY}
                 </a>
               </div>
 
               {/* Email */}
-              <div className="flex items-center gap-3 text-[#F5EDE5]">
+              <div className="flex items-center gap-2.5 sm:gap-3 text-[#F5EDE5]">
                 <FontAwesomeIcon
                   icon={faEnvelope}
                   className="text-[#D8BF96] text-[13.5px] shrink-0"
                 />
                 <a
                   href="mailto:hello@ruchikacreation.com"
-                  className="hover:text-[#D8BF96] transition-colors break-all sm:break-normal"
+                  className="hover:text-[#D8BF96] transition-colors text-[13px] whitespace-nowrap"
                 >
                   hello@ruchikacreation.com
                 </a>
               </div>
 
               {/* Hours */}
-              <div className="flex items-center gap-3 text-[#F5EDE5]">
+              <div className="flex items-center gap-2.5 sm:gap-3 text-[#F5EDE5]">
                 <FontAwesomeIcon
                   icon={faClock}
                   className="text-[#D8BF96] text-[13.5px] shrink-0"
                 />
-                <span>Mon – Sat: 10am – 7pm</span>
+                <span className="whitespace-nowrap">Mon – Sat: 10am – 7pm</span>
               </div>
 
               {/* Location */}
-              <div className="flex items-center gap-3 text-[#F5EDE5]">
+              <div className="flex items-center gap-2.5 sm:gap-3 text-[#F5EDE5]">
                 <FontAwesomeIcon
                   icon={faLocationDot}
                   className="text-[#D8BF96] text-[13.5px] shrink-0"
                 />
-                <span>Jaipur, Rajasthan, India</span>
+                <span className="whitespace-nowrap">Jaipur, Rajasthan, India</span>
               </div>
             </div>
           </div>

@@ -2,13 +2,14 @@
 
 import React, { useState } from "react";
 import Image from "next/image";
+import Link from "next/link";
 import { Product } from "@/data/products";
 import { useShop } from "@/context/ShopContext";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faHeart as faHeartSolid,
-  faStar,
   faBagShopping,
+  faCheck,
 } from "@fortawesome/free-solid-svg-icons";
 import { faHeart as faHeartRegular } from "@fortawesome/free-regular-svg-icons";
 
@@ -21,12 +22,33 @@ export default function ProductCard({
   product,
   className = "",
 }: ProductCardProps) {
-  const { addToCart, toggleWishlist, isInWishlist, setQuickViewProduct } = useShop();
+  const { addToCart, toggleWishlist, isInWishlist } = useShop();
   const [isHovered, setIsHovered] = useState(false);
+  const [isAdded, setIsAdded] = useState(false);
   const wishlisted = isInWishlist(product.id);
 
   const displayImage =
-    isHovered && product.hoverImage ? product.hoverImage : product.image;
+    isHovered && product.hoverImage ? product.hoverImage : product.primaryImage || product.image;
+
+  // Format type subtitle
+  const typeSubtitle =
+    product.productType === "SINGLE_PIECE"
+      ? "Single Piece · Kurti"
+      : product.productType === "TWO_PIECE"
+      ? "Two Piece · Kurti Set"
+      : product.productType === "THREE_PIECE"
+      ? (product.premiumTier ? "Festive Three Piece Set" : "Three Piece · Kurti Set")
+      : Array.isArray(product.style) && product.style.length > 0
+      ? product.style[0]
+      : "Indian Ethnicwear";
+
+  const handleAddToCart = (e: React.MouseEvent) => {
+    e.preventDefault();
+    e.stopPropagation();
+    addToCart(product, "M", 1);
+    setIsAdded(true);
+    setTimeout(() => setIsAdded(false), 1400);
+  };
 
   return (
     <div
@@ -35,35 +57,39 @@ export default function ProductCard({
       onMouseLeave={() => setIsHovered(false)}
     >
       {/* Top Image Container: Exact 4:5 Aspect Ratio */}
-      <div
-        className="relative w-full aspect-[4/5] bg-[#F8F3EC] overflow-hidden cursor-pointer"
-        onClick={() => setQuickViewProduct(product)}
-      >
-        <Image
-          src={displayImage}
-          alt={product.name}
-          fill
-          sizes="(max-width: 640px) 45vw, (max-width: 1024px) 33vw, 25vw"
-          className="object-cover object-top transition-transform duration-350 ease-out group-hover:scale-[1.02]"
-        />
+      <div className="relative w-full aspect-[4/5] bg-[#F8F3EC] overflow-hidden">
+        <Link
+          href={`/product/${product.slug}`}
+          className="relative block w-full h-full cursor-pointer"
+          aria-label={`View details for ${product.name}`}
+        >
+          <Image
+            src={displayImage}
+            alt={`Ruchika Creation ${product.name}`}
+            fill
+            sizes="(max-width: 640px) 48vw, (max-width: 1024px) 33vw, 25vw"
+            className="object-cover object-top transition-transform duration-350 ease-out group-hover:scale-[1.02]"
+          />
+        </Link>
 
-        {/* Top-Left: NEW Badge */}
+        {/* Top-Left: Badge */}
         {product.badge && (
-          <div className="absolute top-2 left-2 sm:top-3 sm:left-3 z-10">
+          <div className="absolute top-2 left-2 sm:top-2.5 sm:left-2.5 z-10 pointer-events-none">
             <span className="bg-[#641C22] text-[#FCFAF7] text-[9px] sm:text-[10px] tracking-[0.06em] sm:tracking-[0.08em] uppercase font-semibold px-1.5 sm:px-2 py-0.5 rounded-[3px] sm:rounded-[4px] shadow-xs">
               {product.badge}
             </span>
           </div>
         )}
 
-        {/* Top-Right: Heart Icon */}
+        {/* Top-Right: Wishlist Heart Icon */}
         <button
           onClick={(e) => {
+            e.preventDefault();
             e.stopPropagation();
             toggleWishlist(product);
           }}
-          aria-label={wishlisted ? "Remove from wishlist" : "Add to wishlist"}
-          className="absolute top-2 right-2 sm:top-3 sm:right-3 z-10 w-7 h-7 sm:w-8 sm:h-8 rounded-full bg-white/95 backdrop-blur-xs flex items-center justify-center text-[#641C22] transition-transform duration-200 hover:scale-108 shadow-2xs cursor-pointer"
+          aria-label={wishlisted ? `Remove ${product.name} from wishlist` : `Add ${product.name} to wishlist`}
+          className="absolute top-2 right-2 sm:top-2.5 sm:right-2.5 z-10 w-7 h-7 sm:w-8 sm:h-8 rounded-full bg-white/95 backdrop-blur-xs flex items-center justify-center text-[#641C22] transition-transform duration-200 hover:scale-108 shadow-2xs cursor-pointer"
         >
           <FontAwesomeIcon
             icon={wishlisted ? faHeartSolid : faHeartRegular}
@@ -74,64 +100,58 @@ export default function ProductCard({
         </button>
       </div>
 
-      {/* Card Content with strict 4px-system spacing and fluid responsive sizing */}
-      <div className="p-2.5 sm:p-4 lg:p-4.5 flex flex-col flex-1 justify-between">
+      {/* Card Content with strict spacing and fluid responsive typography */}
+      <div className="p-2.5 sm:p-3.5 lg:p-4 flex flex-col flex-1 justify-between">
         <div className="flex flex-col">
-          {/* Product Name */}
-          <h3
-            onClick={() => setQuickViewProduct(product)}
+          {/* Product Name (DM Sans 14-15px font-semibold) */}
+          <Link
+            href={`/product/${product.slug}`}
             className="font-sans font-semibold text-[13px] sm:text-[14px] lg:text-[14.5px] text-[#241D1B] line-clamp-1 hover:text-[#641C22] cursor-pointer transition-colors duration-150 leading-tight"
             title={product.name}
           >
             {product.name}
-          </h3>
+          </Link>
 
-          {/* Short Description */}
-          <p className="text-[11px] sm:text-[12px] lg:text-[12.5px] text-[#817771] line-clamp-1 font-normal leading-tight sm:leading-[1.5] mt-1 mb-1.5 sm:mb-2">
-            {product.description}
-          </p>
-
-          {/* Rating */}
-          <div className="flex items-center gap-1 sm:gap-1.5 text-[#B18A52] text-[10.5px] sm:text-[12px] mb-2 sm:mb-2.5">
-            <div className="flex items-center gap-0.5">
-              {[...Array(5)].map((_, i) => (
-                <FontAwesomeIcon
-                  key={i}
-                  icon={faStar}
-                  className={`text-[8.5px] sm:text-[10px] ${
-                    i < Math.floor(product.rating)
-                      ? "text-[#B18A52]"
-                      : "text-[#E6DDD3]"
-                  }`}
-                />
-              ))}
-            </div>
-            <span className="text-[10px] sm:text-[11.5px] text-[#817771] font-sans font-normal">
-              ({product.reviewCount})
+          {/* Product Code */}
+          <div className="flex items-center justify-between gap-1.5 mt-1">
+            <span className="text-[9.5px] sm:text-[10px] font-mono tracking-[0.08em] uppercase text-[#817771] font-medium">
+              CODE: {product.productCode}
             </span>
           </div>
 
-          {/* Price */}
-          <div className="flex items-baseline gap-1.5 sm:gap-2 mb-2.5 sm:mb-3">
+          {/* Style / Product Type */}
+          <p className="text-[11px] sm:text-[11.5px] text-[#817771] line-clamp-1 font-normal leading-tight mt-1 mb-1.5">
+            {typeSubtitle}
+          </p>
+
+          {/* Price (15-17px font-semibold in Indian format) */}
+          <div className="flex items-baseline gap-1.5 sm:gap-2 mb-2.5 sm:mb-3 mt-0.5">
             <span className="font-sans font-semibold text-[14px] sm:text-[16px] text-[#241D1B]">
               ₹{product.price.toLocaleString("en-IN")}
             </span>
             {product.compareAtPrice && product.compareAtPrice > product.price && (
-              <span className="text-[10.5px] sm:text-[12px] text-[#817771] line-through font-normal">
+              <span className="text-[11px] sm:text-[12px] text-[#817771] line-through font-normal">
                 ₹{product.compareAtPrice.toLocaleString("en-IN")}
               </span>
             )}
           </div>
         </div>
 
-        {/* CTA Button */}
+        {/* CTA Button: Add to Bag (40-44px height, #641C22, 7px radius, faBagShopping) */}
         <button
-          onClick={() => addToCart(product, "M", 1)}
-          className="w-full bg-[#641C22] hover:bg-[#4B151A] text-white text-[10.5px] sm:text-[12px] font-sans tracking-[0.04em] sm:tracking-[0.06em] uppercase font-semibold h-[34px] sm:h-[40px] px-2 sm:px-3 rounded-[6px] sm:rounded-[8px] flex items-center justify-center gap-1.5 sm:gap-2 transition-colors duration-200 shadow-2xs cursor-pointer focus:outline-none focus:ring-2 focus:ring-[#B18A52]/40"
+          onClick={handleAddToCart}
+          className={`w-full text-[10.5px] sm:text-[12px] font-sans tracking-[0.04em] sm:tracking-[0.06em] uppercase font-semibold h-[36px] sm:h-[40px] px-2 sm:px-3 rounded-[7px] flex items-center justify-center gap-1.5 sm:gap-2 transition-colors duration-200 shadow-2xs cursor-pointer focus:outline-none focus:ring-2 focus:ring-[#B18A52]/40 ${
+            isAdded
+              ? "bg-emerald-800 text-white"
+              : "bg-[#641C22] hover:bg-[#4B151A] text-white"
+          }`}
           aria-label={`Add ${product.name} to bag`}
         >
-          <FontAwesomeIcon icon={faBagShopping} className="text-[10px] sm:text-[11px]" />
-          <span>ADD TO BAG</span>
+          <FontAwesomeIcon
+            icon={isAdded ? faCheck : faBagShopping}
+            className="text-[10px] sm:text-[11px]"
+          />
+          <span>{isAdded ? "ADDED ✓" : "ADD TO BAG"}</span>
         </button>
       </div>
     </div>

@@ -11,6 +11,8 @@ import {
   faMinus,
   faBagShopping,
   faCircleCheck,
+  faCheck,
+  faTruck,
   faShieldHalved,
   faPen,
   faCommentDots,
@@ -94,7 +96,7 @@ export default function CartDrawer() {
 
     // 2. Validate Cart Total
     const calculatedSubtotal = cart.reduce(
-      (sum, item) => sum + item.product.price * item.quantity,
+      (sum, item) => sum + (item.variantPrice ?? item.product.price) * item.quantity,
       0
     );
     if (calculatedSubtotal !== cartTotal) {
@@ -111,7 +113,7 @@ export default function CartDrawer() {
       estimatedTotal
     );
 
-    // 4. Generate URL-encoded WhatsApp Link with seller number (7340368544) and optional queries
+    // 4. Generate URL-encoded WhatsApp Link with seller number and optional queries
     const whatsappUrl = createWhatsAppOrderUrl({
       orderId: createdOrder.id,
       customerName: activeCustomer.name,
@@ -144,18 +146,14 @@ export default function CartDrawer() {
       />
 
       {/* Drawer */}
-      <div className="relative w-full max-w-md bg-[#FCFAF7] h-full shadow-2xl flex flex-col z-10 animate-in slide-in-from-right duration-200">
+      <div className="relative w-full max-w-md bg-[#FCFAF7] h-full shadow-2xl flex flex-col z-10 animate-in slide-in-from-right duration-300">
         {/* Header */}
-        <div className="p-4 sm:p-5 border-b border-[#E6DDD3] flex items-center justify-between bg-white shrink-0">
-          <div className="flex items-center gap-2.5">
-            <FontAwesomeIcon
-              icon={faBagShopping}
-              className="text-[#641C22] text-lg"
-            />
-            <h2 className="font-serif text-lg sm:text-xl font-semibold text-[#241D1B] tracking-tight">
-              Shopping Bag
+        <div className="flex items-center justify-between p-4 sm:p-5 border-b border-[#E6DDD3] bg-white">
+          <div className="flex items-center gap-2">
+            <h2 className="font-serif text-lg sm:text-xl font-medium text-[#241D1B] tracking-wide">
+              SHOPPING BAG
             </h2>
-            <span className="text-xs font-sans text-[#817771] bg-[#FAF6F0] border border-[#E6DDD3] px-2 py-0.5 rounded-full">
+            <span className="text-xs bg-[#FAF6F0] text-[#641C22] px-2 py-0.5 rounded-full font-semibold border border-[#E6DDD3]">
               {cartCount} {cartCount === 1 ? "item" : "items"}
             </span>
           </div>
@@ -164,7 +162,7 @@ export default function CartDrawer() {
               setIsCartOpen(false);
               setOrderPlacedSuccess(null);
             }}
-            className="w-8 h-8 rounded-full hover:bg-[#F8F3EC] text-[#514744] flex items-center justify-center cursor-pointer transition-colors"
+            className="w-8 h-8 rounded-full hover:bg-[#FAF6F0] flex items-center justify-center text-[#817771] hover:text-[#241D1B] transition-colors cursor-pointer"
             aria-label="Close cart"
           >
             <FontAwesomeIcon icon={faXmark} className="text-base" />
@@ -173,68 +171,61 @@ export default function CartDrawer() {
 
         {/* Free Shipping Progress Bar */}
         {cart.length > 0 && !orderPlacedSuccess && (
-          <div className="bg-[#F8F3EC] px-4 sm:px-5 py-2.5 border-b border-[#E6DDD3] text-xs font-sans shrink-0">
-            {remainingForFreeShipping > 0 ? (
-              <p className="text-[#514744]">
-                Add{" "}
-                <span className="font-semibold text-[#641C22]">
-                  ₹{remainingForFreeShipping.toLocaleString("en-IN")}
-                </span>{" "}
-                more to unlock <strong className="text-emerald-800">FREE SHIPPING</strong>
-              </p>
-            ) : (
-              <p className="text-emerald-800 font-medium flex items-center gap-1.5">
-                <FontAwesomeIcon icon={faCircleCheck} className="text-emerald-700" />
-                <span>You unlocked <strong>FREE SHIPPING</strong> on this order!</span>
-              </p>
-            )}
-            <div className="w-full bg-[#E6DDD3] h-1.5 rounded-full mt-2 overflow-hidden">
+          <div className="bg-[#FAF6F0] px-4 py-2.5 border-b border-[#E6DDD3]">
+            <div className="flex items-center justify-between text-xs text-[#514744] mb-1.5">
+              <span className="flex items-center gap-1.5 font-medium">
+                <FontAwesomeIcon icon={faTruck} className="text-[#B18A52] text-[11px]" />
+                {cartTotal >= freeShippingThreshold
+                  ? "Congratulations! You get Free Delivery"
+                  : `Add ₹${remainingForFreeShipping} more for FREE Delivery`}
+              </span>
+              <span className="font-semibold text-[#641C22]">
+                {Math.min(100, Math.round((cartTotal / freeShippingThreshold) * 100))}%
+              </span>
+            </div>
+            <div className="w-full h-1.5 bg-[#E6DDD3] rounded-full overflow-hidden">
               <div
-                className="bg-[#641C22] h-full transition-all duration-300 rounded-full"
+                className="h-full bg-[#641C22] rounded-full transition-all duration-300"
                 style={{
-                  width: `${Math.min(
-                    100,
-                    (cartTotal / freeShippingThreshold) * 100
-                  )}%`,
+                  width: `${Math.min(100, (cartTotal / freeShippingThreshold) * 100)}%`,
                 }}
               />
             </div>
           </div>
         )}
 
-        {/* Items List or Order Request Success */}
-        <div className="flex-1 overflow-y-auto p-4 sm:p-5 space-y-3.5">
+        {/* Content Body */}
+        <div className="flex-1 overflow-y-auto p-4 sm:p-5 space-y-4">
           {orderPlacedSuccess ? (
-            /* Order Placed on WhatsApp Confirmation */
-            <div className="py-8 px-4 text-center space-y-4 bg-white rounded-xl border border-[#E6DDD3] shadow-xs">
-              <div className="w-14 h-14 rounded-full bg-emerald-50 border border-emerald-200 text-emerald-700 mx-auto flex items-center justify-center">
-                <FontAwesomeIcon icon={faCircleCheck} className="text-2xl" />
+            /* Order Success State */
+            <div className="h-full flex flex-col items-center justify-center text-center p-6 space-y-4">
+              <div className="w-16 h-16 rounded-full bg-emerald-50 border border-emerald-200 flex items-center justify-center text-emerald-700">
+                <FontAwesomeIcon icon={faCheck} className="text-2xl" />
               </div>
-
-              <div>
-                <span className="text-[11px] font-sans font-bold uppercase tracking-widest text-[#B18A52] block mb-1">
-                  ORDER REQUESTED VIA WHATSAPP
-                </span>
-                <h3 className="font-serif text-xl font-semibold text-[#241D1B]">
-                  Order #{orderPlacedSuccess.orderId}
+              <div className="space-y-1">
+                <h3 className="font-serif text-xl font-medium text-[#241D1B]">
+                  Order Request Generated!
                 </h3>
-                <p className="text-xs text-[#817771] mt-1.5 max-w-xs mx-auto">
-                  Your order summary and query have been sent to WhatsApp ({RUCHIKA_WHATSAPP_DISPLAY}). Please tap Send in the opened chat to finalize your booking with our team.
+                <p className="text-xs text-[#817771]">
+                  Order Ref: <span className="font-mono font-bold text-[#641C22]">{orderPlacedSuccess.orderId}</span>
+                </p>
+                <p className="text-xs text-[#514744] max-w-[280px] pt-2">
+                  We opened WhatsApp with your exact order details. Please tap <strong>Send</strong> in WhatsApp to finalize with Ruchika Creation.
                 </p>
               </div>
 
-              <div className="pt-2 flex flex-col gap-2">
+              <div className="pt-4 w-full space-y-2">
                 <button
                   onClick={() => {
                     setIsCartOpen(false);
+                    setOrderPlacedSuccess(null);
                     setProfileInitialTab("orders");
                     setIsProfileOpen(true);
                   }}
                   className="w-full py-2.5 bg-[#FAF6F0] hover:bg-[#F8F3EC] text-[#641C22] border border-[#E6DDD3] text-xs font-semibold rounded-lg transition-colors cursor-pointer"
                 >
-                  View in My Orders History
+                  View in Order History
                 </button>
-
                 <button
                   onClick={() => {
                     clearCart();
@@ -243,7 +234,7 @@ export default function CartDrawer() {
                   }}
                   className="w-full py-2.5 bg-[#641C22] hover:bg-[#4B151A] text-white text-xs font-semibold rounded-lg transition-colors cursor-pointer"
                 >
-                  Clear Bag & Continue Shopping
+                  Clear Bag & Continue
                 </button>
               </div>
             </div>
@@ -262,7 +253,7 @@ export default function CartDrawer() {
                 </p>
               </div>
               <Link
-                href="#collections"
+                href="/shop"
                 onClick={() => setIsCartOpen(false)}
                 className="bg-[#641C22] hover:bg-[#4B151A] text-white text-xs font-sans tracking-wider uppercase font-semibold py-2.5 px-6 rounded-lg transition-colors cursor-pointer"
               >
@@ -271,79 +262,98 @@ export default function CartDrawer() {
             </div>
           ) : (
             /* Cart Product Cards */
-            cart.map((item) => (
-              <div
-                key={`${item.product.id}-${item.size}`}
-                className="flex gap-3.5 p-3 sm:p-3.5 bg-white rounded-xl border border-[#E6DDD3] shadow-2xs"
-              >
-                {/* Product Image */}
-                <div className="relative w-20 h-24 sm:w-22 sm:h-28 rounded-lg overflow-hidden bg-[#FAF6F0] shrink-0 border border-[#E6DDD3]">
-                  <Image
-                    src={item.product.image || "/images/kurti-black-front.jpg"}
-                    alt={item.product.name}
-                    fill
-                    className="object-cover"
-                  />
-                </div>
+            cart.map((item) => {
+              const itemPrice = item.variantPrice ?? item.product.price;
+              const itemCode = item.variantCode || item.product.productCode;
+              const itemImage = item.variantImage || item.product.primaryImage || item.product.image || "/images/kurti/kurti-page-181.jpg";
+              const itemColor = item.color || item.product.color;
 
-                {/* Details */}
-                <div className="flex-1 flex flex-col justify-between min-w-0">
-                  <div className="flex items-start justify-between gap-2">
-                    <div>
-                      <h4 className="font-serif text-sm font-semibold text-[#241D1B] truncate leading-tight">
-                        {item.product.name}
-                      </h4>
-                      <div className="flex items-center gap-2 mt-1">
-                        <span className="text-[11px] text-[#817771] bg-[#FAF6F0] px-2 py-0.5 rounded border border-[#E6DDD3]">
-                          Size: {item.size}
-                        </span>
-                        <span className="text-[11px] text-[#817771]">
-                          ₹{item.product.price.toLocaleString("en-IN")} each
-                        </span>
+              return (
+                <div
+                  key={`${item.product.id}-${item.size}-${itemColor || "default"}`}
+                  className="flex gap-3.5 p-3 sm:p-3.5 bg-white rounded-xl border border-[#E6DDD3] shadow-2xs"
+                >
+                  {/* Product Image */}
+                  <div className="relative w-20 h-24 sm:w-22 sm:h-28 rounded-lg overflow-hidden bg-[#FAF6F0] shrink-0 border border-[#E6DDD3]">
+                    <Image
+                      src={itemImage}
+                      alt={item.product.name}
+                      fill
+                      className="object-cover"
+                    />
+                  </div>
+
+                  {/* Details */}
+                  <div className="flex-1 flex flex-col justify-between min-w-0">
+                    <div className="flex items-start justify-between gap-2">
+                      <div className="min-w-0 flex-1">
+                        <Link
+                          href={`/product/${item.product.slug}`}
+                          onClick={() => setIsCartOpen(false)}
+                          className="font-serif text-sm font-semibold text-[#241D1B] hover:text-[#641C22] truncate block leading-tight"
+                        >
+                          {item.product.name}
+                        </Link>
+                        <p className="text-[10px] font-sans uppercase tracking-wider text-[#817771] mt-0.5">
+                          CODE: <span className="font-semibold text-[#514744]">{itemCode}</span>
+                        </p>
+                        <div className="flex items-center gap-1.5 mt-1 flex-wrap">
+                          {itemColor && (
+                            <span className="text-[10.5px] text-[#514744] bg-[#FAF6F0] px-1.5 py-0.5 rounded border border-[#E6DDD3]">
+                              Color: {itemColor}
+                            </span>
+                          )}
+                          <span className="text-[10.5px] text-[#514744] bg-[#FAF6F0] px-1.5 py-0.5 rounded border border-[#E6DDD3]">
+                            Size: {item.size}
+                          </span>
+                          <span className="text-[11px] text-[#817771]">
+                            ₹{itemPrice.toLocaleString("en-IN")} each
+                          </span>
+                        </div>
                       </div>
-                    </div>
-                    <button
-                      onClick={() => removeFromCart(item.product.id, item.size)}
-                      className="text-[#A39791] hover:text-[#641C22] p-1 cursor-pointer transition-colors"
-                      aria-label="Remove item"
-                    >
-                      <FontAwesomeIcon icon={faTrashCan} className="text-xs" />
-                    </button>
-                  </div>
-
-                  {/* Quantity & Line Total */}
-                  <div className="flex items-center justify-between pt-2 border-t border-[#E6DDD3]/50">
-                    <div className="flex items-center border border-[#E6DDD3] rounded-md bg-[#FAF6F0] overflow-hidden">
                       <button
-                        onClick={() =>
-                          updateQuantity(item.product.id, item.size, item.quantity - 1)
-                        }
-                        className="w-6 h-6 flex items-center justify-center text-[#514744] hover:bg-[#E6DDD3] text-[10px] cursor-pointer"
-                        aria-label="Decrease quantity"
+                        onClick={() => removeFromCart(item.product.id, item.size, item.color)}
+                        className="text-[#A39791] hover:text-[#641C22] p-1 cursor-pointer transition-colors"
+                        aria-label="Remove item"
                       >
-                        <FontAwesomeIcon icon={faMinus} />
+                        <FontAwesomeIcon icon={faTrashCan} className="text-xs" />
                       </button>
-                      <span className="w-7 text-center text-xs font-semibold text-[#241D1B]">
-                        {item.quantity}
+                    </div>
+
+                    {/* Quantity & Line Total */}
+                    <div className="flex items-center justify-between pt-2 border-t border-[#E6DDD3]/50">
+                      <div className="flex items-center border border-[#E6DDD3] rounded-md bg-[#FAF6F0] overflow-hidden">
+                        <button
+                          onClick={() =>
+                            updateQuantity(item.product.id, item.size, item.quantity - 1, item.color)
+                          }
+                          className="w-6 h-6 flex items-center justify-center text-[#514744] hover:bg-[#E6DDD3] text-[10px] cursor-pointer"
+                          aria-label="Decrease quantity"
+                        >
+                          <FontAwesomeIcon icon={faMinus} />
+                        </button>
+                        <span className="w-7 text-center text-xs font-semibold text-[#241D1B]">
+                          {item.quantity}
+                        </span>
+                        <button
+                          onClick={() =>
+                            updateQuantity(item.product.id, item.size, item.quantity + 1, item.color)
+                          }
+                          className="w-6 h-6 flex items-center justify-center text-[#514744] hover:bg-[#E6DDD3] text-[10px] cursor-pointer"
+                          aria-label="Increase quantity"
+                        >
+                          <FontAwesomeIcon icon={faPlus} />
+                        </button>
+                      </div>
+
+                      <span className="text-sm font-semibold text-[#641C22]">
+                        ₹{(itemPrice * item.quantity).toLocaleString("en-IN")}
                       </span>
-                      <button
-                        onClick={() =>
-                          updateQuantity(item.product.id, item.size, item.quantity + 1)
-                        }
-                        className="w-6 h-6 flex items-center justify-center text-[#514744] hover:bg-[#E6DDD3] text-[10px] cursor-pointer"
-                        aria-label="Increase quantity"
-                      >
-                        <FontAwesomeIcon icon={faPlus} />
-                      </button>
                     </div>
-
-                    <span className="text-sm font-semibold text-[#641C22]">
-                      ₹{(item.product.price * item.quantity).toLocaleString("en-IN")}
-                    </span>
                   </div>
                 </div>
-              </div>
-            ))
+              );
+            })
           )}
         </div>
 

@@ -7,6 +7,10 @@ export interface CartItem {
   product: Product;
   quantity: number;
   size: string;
+  color?: string;
+  variantCode?: string;
+  variantPrice?: number;
+  variantImage?: string;
 }
 
 export interface CustomerProfile {
@@ -20,9 +24,11 @@ export interface CustomerProfile {
 
 export interface OrderItem {
   productId: string;
+  productCode: string;
   productName: string;
   productImage: string;
   size: string;
+  color?: string;
   quantity: number;
   unitPrice: number;
   lineTotal: number;
@@ -37,7 +43,7 @@ export type OrderStatus =
   | "CANCELLED";
 
 export interface OrderRecord {
-  id: string; // e.g. "RC10001"
+  id: string; // e.g. "RC-ORD-20260907-001"
   date: string;
   customerName: string;
   customerMobile: string;
@@ -56,9 +62,22 @@ interface ShopContextType {
   cartTotal: number;
   isCartOpen: boolean;
   setIsCartOpen: (open: boolean) => void;
-  addToCart: (product: Product, size?: string, quantity?: number) => void;
-  removeFromCart: (productId: string, size: string) => void;
-  updateQuantity: (productId: string, size: string, quantity: number) => void;
+  addToCart: (
+    product: Product,
+    size?: string,
+    quantity?: number,
+    color?: string,
+    variantCode?: string,
+    variantPrice?: number,
+    variantImage?: string
+  ) => void;
+  removeFromCart: (productId: string, size: string, color?: string) => void;
+  updateQuantity: (
+    productId: string,
+    size: string,
+    quantity: number,
+    color?: string
+  ) => void;
   clearCart: () => void;
 
   // Wishlist
@@ -108,7 +127,7 @@ const ShopContext = createContext<ShopContextType | undefined>(undefined);
 // Initial starter demo orders for verified profiles
 const DEFAULT_DEMO_ORDERS: OrderRecord[] = [
   {
-    id: "RC10001",
+    id: "RC-ORD-20260828-001",
     date: "28 Aug 2026",
     customerName: "Rahul",
     customerMobile: "7340368544",
@@ -119,31 +138,37 @@ const DEFAULT_DEMO_ORDERS: OrderRecord[] = [
     total: 3497,
     items: [
       {
-        productId: "1",
-        productName: "Black Embroidered Kurti",
-        productImage: "/images/kurti-black-front.jpg",
+        productId: "RC-KRT-001",
+        productCode: "RC-KRT-001",
+        productName: "Black Paisley Embroidered Kurti",
+        productImage: "/images/kurti/kurti-hero-8678.jpg",
         size: "M",
+        color: "Black",
         quantity: 1,
-        unitPrice: 1499,
-        lineTotal: 1499,
+        unitPrice: 499,
+        lineTotal: 499,
       },
       {
-        productId: "2",
-        productName: "Maroon Embroidered Kurti",
-        productImage: "/images/kurti-maroon-festive.jpg",
+        productId: "RC-3PC-001",
+        productCode: "RC-3PC-001",
+        productName: "Mustard Yellow Festive Dupatta 3-Piece Ensemble",
+        productImage: "/images/kurti/kurti-page-1.jpg",
         size: "L",
+        color: "Mustard Yellow",
         quantity: 1,
         unitPrice: 1299,
         lineTotal: 1299,
       },
       {
-        productId: "4",
-        productName: "Olive Printed Kurti",
-        productImage: "/images/kurti-olive-printed.jpg",
+        productId: "RC-2PC-001",
+        productCode: "RC-2PC-001",
+        productName: "Royal Blue Botanical Printed Co-ord Set",
+        productImage: "/images/kurti/kurti-coord-blue.png",
         size: "M",
+        color: "Royal Blue",
         quantity: 1,
-        unitPrice: 699,
-        lineTotal: 699,
+        unitPrice: 899,
+        lineTotal: 899,
       },
     ],
   },
@@ -242,8 +267,13 @@ export const ShopProvider: React.FC<{ children: React.ReactNode }> = ({
     shipping: number,
     total: number
   ): OrderRecord => {
-    const nextOrderNum = 10000 + orders.length + 1;
     const now = new Date();
+    const yyyy = now.getFullYear();
+    const mm = String(now.getMonth() + 1).padStart(2, "0");
+    const dd = String(now.getDate()).padStart(2, "0");
+    const seq = String(orders.length + 1).padStart(3, "0");
+    const orderId = `RC-ORD-${yyyy}${mm}${dd}-${seq}`;
+
     const dateFormatted = now.toLocaleDateString("en-GB", {
       day: "numeric",
       month: "short",
@@ -251,7 +281,7 @@ export const ShopProvider: React.FC<{ children: React.ReactNode }> = ({
     });
 
     const newOrder: OrderRecord = {
-      id: `RC${nextOrderNum}`,
+      id: orderId,
       date: dateFormatted,
       customerName: cust.name,
       customerMobile: cust.mobile,
@@ -260,15 +290,20 @@ export const ShopProvider: React.FC<{ children: React.ReactNode }> = ({
       subtotal,
       shipping,
       total,
-      items: items.map((item) => ({
-        productId: item.product.id,
-        productName: item.product.name,
-        productImage: item.product.image || "/images/kurti-black-front.jpg",
-        size: item.size,
-        quantity: item.quantity,
-        unitPrice: item.product.price,
-        lineTotal: item.product.price * item.quantity,
-      })),
+      items: items.map((item) => {
+        const itemPrice = item.variantPrice ?? item.product.price;
+        return {
+          productId: item.product.id,
+          productCode: item.variantCode || item.product.productCode,
+          productName: item.product.name,
+          productImage: item.variantImage || item.product.primaryImage || item.product.images[0] || item.product.image || "/images/kurti/kurti-page-181.jpg",
+          size: item.size,
+          color: item.color || item.product.color,
+          quantity: item.quantity,
+          unitPrice: itemPrice,
+          lineTotal: itemPrice * item.quantity,
+        };
+      }),
     };
 
     const updated = [newOrder, ...orders];
@@ -290,10 +325,18 @@ export const ShopProvider: React.FC<{ children: React.ReactNode }> = ({
   const addToCart = (
     product: Product,
     size: string = "M",
-    quantity: number = 1
+    quantity: number = 1,
+    color?: string,
+    variantCode?: string,
+    variantPrice?: number,
+    variantImage?: string
   ) => {
+    const chosenColor = color || product.color;
     const existingIndex = cart.findIndex(
-      (item) => item.product.id === product.id && item.size === size
+      (item) =>
+        item.product.id === product.id &&
+        item.size === size &&
+        (item.color === chosenColor || (!item.color && !chosenColor))
     );
 
     let newCart: CartItem[];
@@ -301,16 +344,32 @@ export const ShopProvider: React.FC<{ children: React.ReactNode }> = ({
       newCart = [...cart];
       newCart[existingIndex].quantity += quantity;
     } else {
-      newCart = [...cart, { product, quantity, size }];
+      newCart = [
+        ...cart,
+        {
+          product,
+          quantity,
+          size,
+          color: chosenColor,
+          variantCode: variantCode || product.productCode,
+          variantPrice: variantPrice ?? product.price,
+          variantImage: variantImage || product.primaryImage || product.images[0] || product.image,
+        },
+      ];
     }
     saveCart(newCart);
-    showToast(`Added "${product.name}" to Bag`);
+    showToast(`Added "${product.name}" (${chosenColor ? chosenColor + ", " : ""}Size ${size}) to Bag`);
     setIsCartOpen(true);
   };
 
-  const removeFromCart = (productId: string, size: string) => {
+  const removeFromCart = (productId: string, size: string, color?: string) => {
     const newCart = cart.filter(
-      (item) => !(item.product.id === productId && item.size === size)
+      (item) =>
+        !(
+          item.product.id === productId &&
+          item.size === size &&
+          (color ? item.color === color : true)
+        )
     );
     saveCart(newCart);
   };
@@ -318,14 +377,19 @@ export const ShopProvider: React.FC<{ children: React.ReactNode }> = ({
   const updateQuantity = (
     productId: string,
     size: string,
-    quantity: number
+    quantity: number,
+    color?: string
   ) => {
     if (quantity <= 0) {
-      removeFromCart(productId, size);
+      removeFromCart(productId, size, color);
       return;
     }
     const newCart = cart.map((item) => {
-      if (item.product.id === productId && item.size === size) {
+      if (
+        item.product.id === productId &&
+        item.size === size &&
+        (color ? item.color === color : true)
+      ) {
         return { ...item, quantity };
       }
       return item;
@@ -356,7 +420,7 @@ export const ShopProvider: React.FC<{ children: React.ReactNode }> = ({
 
   const cartCount = cart.reduce((acc, item) => acc + item.quantity, 0);
   const cartTotal = cart.reduce(
-    (acc, item) => acc + item.product.price * item.quantity,
+    (acc, item) => acc + (item.variantPrice ?? item.product.price) * item.quantity,
     0
   );
   const wishlistCount = wishlist.length;

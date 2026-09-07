@@ -74,7 +74,28 @@ export default function QuickViewModal() {
             />
           </div>
 
-          {quickViewProduct.hoverImage && (
+          {quickViewProduct.images && quickViewProduct.images.length > 1 ? (
+            <div className="flex gap-2 mt-3 overflow-x-auto max-w-full no-scrollbar py-1">
+              {quickViewProduct.images.map((imgSrc, i) => (
+                <button
+                  key={i}
+                  onClick={() => setSelectedImage(imgSrc)}
+                  className={`relative w-12 h-14 rounded-md overflow-hidden border-2 transition-all shrink-0 cursor-pointer ${
+                    (selectedImage || quickViewProduct.image) === imgSrc
+                      ? "border-[#641C22] shadow-xs"
+                      : "border-transparent opacity-70 hover:opacity-100"
+                  }`}
+                >
+                  <Image
+                    src={imgSrc}
+                    alt={`View ${i + 1}`}
+                    fill
+                    className="object-cover"
+                  />
+                </button>
+              ))}
+            </div>
+          ) : quickViewProduct.hoverImage ? (
             <div className="flex gap-2 mt-3">
               <button
                 onClick={() => setSelectedImage(quickViewProduct.image)}
@@ -107,19 +128,32 @@ export default function QuickViewModal() {
                 />
               </button>
             </div>
-          )}
+          ) : null}
         </div>
 
         {/* Right: Product Details */}
         <div className="md:w-1/2 p-6 overflow-y-auto flex flex-col justify-between">
           <div>
             <div className="flex items-center justify-between gap-2 mb-1.5">
-              <span className="text-[11px] font-sans tracking-widest uppercase text-[#B18A52] font-medium">
-                {quickViewProduct.category}
-              </span>
+              <div className="flex items-center gap-2 flex-wrap">
+                <span className="text-[11px] font-sans tracking-widest uppercase text-[#B18A52] font-medium">
+                  {Array.isArray(quickViewProduct.category)
+                    ? quickViewProduct.category.slice(0, 2).join(" · ")
+                    : quickViewProduct.category}
+                </span>
+                {quickViewProduct.productType && (
+                  <span className="text-[10px] font-sans uppercase font-semibold bg-[#FAF6F0] text-[#641C22] px-2 py-0.5 rounded border border-[#E6DDD3]">
+                    {quickViewProduct.productType === "SINGLE_PIECE"
+                      ? "Single Piece (₹499)"
+                      : quickViewProduct.productType === "TWO_PIECE"
+                      ? "Two Piece Set (₹899)"
+                      : "Three Piece Set"}
+                  </span>
+                )}
+              </div>
               <button
                 onClick={() => toggleWishlist(quickViewProduct)}
-                className="text-[#641C22] p-1 text-sm hover:scale-110 transition-transform"
+                className="text-[#641C22] p-1 text-sm hover:scale-110 transition-transform cursor-pointer"
                 aria-label="Wishlist toggle"
               >
                 <FontAwesomeIcon
@@ -128,7 +162,7 @@ export default function QuickViewModal() {
               </button>
             </div>
 
-            <h2 className="font-serif text-2xl text-[#241D1B] font-normal leading-tight">
+            <h2 className="font-serif text-2xl text-[#241D1B] font-medium leading-tight">
               {quickViewProduct.name}
             </h2>
 

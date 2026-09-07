@@ -1,6 +1,4 @@
 import React from "react";
-import AnnouncementBar from "@/components/layout/AnnouncementBar";
-import Header from "@/components/layout/Header";
 import HeroSection from "@/components/home/HeroSection";
 import HeroTrustStrip from "@/components/home/HeroTrustStrip";
 import CollectionSection from "@/components/home/CollectionSection";
@@ -10,49 +8,36 @@ import BestsellersSection from "@/components/home/BestsellersSection";
 import TrustFeaturesSection from "@/components/home/TrustFeaturesSection";
 import TestimonialsSection from "@/components/home/TestimonialsSection";
 import StyledByRuchikaSection from "@/components/home/StyledByRuchikaSection";
-import Footer from "@/components/layout/Footer";
 
 export default function HomePage() {
   return (
-    <div className="flex flex-col min-h-screen bg-[#FCFAF7] text-[#514744] selection:bg-[#641C22] selection:text-white">
-      {/* 1. Announcement Bar */}
-      <AnnouncementBar />
+    <>
+      {/* 1. Hero Section */}
+      <HeroSection />
 
-      {/* 2. Main Navigation Header */}
-      <Header />
+      {/* 2. Hero Trust Features */}
+      <HeroTrustStrip />
 
-      {/* Main Content Area */}
-      <main className="flex-1">
-        {/* 3. Hero Section */}
-        <HeroSection />
+      {/* 3. Shop by Collection */}
+      <CollectionSection />
 
-        {/* 4. Hero Trust Features */}
-        <HeroTrustStrip />
+      {/* 4. New Arrivals */}
+      <NewArrivalsSection />
 
-        {/* 5. Shop by Collection */}
-        <CollectionSection />
+      {/* 5. The Art of Indian Craft */}
+      <CraftsmanshipSection />
 
-        {/* 6. New Arrivals */}
-        <NewArrivalsSection />
+      {/* 6. Bestsellers */}
+      <BestsellersSection />
 
-        {/* 7. The Art of Indian Craft */}
-        <CraftsmanshipSection />
+      {/* 7. Why Choose Ruchika Creation */}
+      <TrustFeaturesSection />
 
-        {/* 8. Bestsellers */}
-        <BestsellersSection />
+      {/* 8. What Our Customers Say */}
+      <TestimonialsSection />
 
-        {/* 9. Why Choose Ruchika Creation */}
-        <TrustFeaturesSection />
-
-        {/* 10. What Our Customers Say */}
-        <TestimonialsSection />
-
-        {/* 11. Styled by Ruchika */}
-        <StyledByRuchikaSection />
-      </main>
-
-      {/* 12. Premium Footer (No Newsletter, No Payment Badges) */}
-      <Footer />
-    </div>
+      {/* 9. Styled by Ruchika */}
+      <StyledByRuchikaSection />
+    </>
   );
 }

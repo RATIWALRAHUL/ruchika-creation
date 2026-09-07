@@ -73,7 +73,7 @@ export default function CraftsmanshipSection() {
 
             <div className="pt-0.5">
               <Link
-                href="#collections"
+                href="/collections"
                 className="inline-flex items-center justify-center gap-2 bg-[#D8BF96] hover:bg-[#B18A52] text-[#241D1B] text-[11.5px] sm:text-[12px] font-sans tracking-[0.08em] uppercase font-semibold h-[40px] sm:h-[42px] px-5 sm:px-6 rounded-[8px] transition-all duration-200 shadow-xs cursor-pointer w-full sm:w-auto text-center"
               >
                 <span>EXPLORE COLLECTION</span>
@@ -103,7 +103,7 @@ export default function CraftsmanshipSection() {
           <div className="lg:col-span-5 flex justify-center lg:justify-end">
             <div className="relative w-full max-w-[380px] h-[340px] sm:h-[370px] lg:h-[390px] rounded-[10px] sm:rounded-[12px] overflow-hidden shadow-xl border border-[#D8BF96]/25 group">
               <Image
-                src="/images/kurti-maroon-festive.jpg"
+                src="/images/kurti/kurti-page-2.jpg"
                 alt="The Art of Indian Craft - Ruchika Creation Artisan Kurti"
                 fill
                 sizes="(max-width: 1024px) 100vw, 380px"

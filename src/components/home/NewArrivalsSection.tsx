@@ -29,7 +29,7 @@ export default function NewArrivalsSection() {
       <div className="site-container relative">
         <SectionHeading
           title="New Arrivals"
-          viewAllLink="#new-arrivals"
+          viewAllLink="/shop/new-arrivals"
           viewAllText="VIEW ALL"
         />
 
