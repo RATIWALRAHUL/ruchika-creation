@@ -78,7 +78,7 @@ export default function QuickViewModal() {
             <div className="flex gap-2 mt-3 overflow-x-auto max-w-full no-scrollbar py-1">
               {quickViewProduct.images.map((imgSrc, i) => (
                 <button
-                  key={i}
+                  key={`${quickViewProduct.id}-qv-${i}`}
                   onClick={() => setSelectedImage(imgSrc)}
                   className={`relative w-12 h-14 rounded-md overflow-hidden border-2 transition-all shrink-0 cursor-pointer ${
                     (selectedImage || quickViewProduct.image) === imgSrc
@@ -95,7 +95,7 @@ export default function QuickViewModal() {
                 </button>
               ))}
             </div>
-          ) : quickViewProduct.hoverImage ? (
+          ) : quickViewProduct.hoverImage && quickViewProduct.hoverImage !== quickViewProduct.image ? (
             <div className="flex gap-2 mt-3">
               <button
                 onClick={() => setSelectedImage(quickViewProduct.image)}

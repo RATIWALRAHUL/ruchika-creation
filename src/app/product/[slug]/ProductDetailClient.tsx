@@ -39,6 +39,12 @@ export default function ProductDetailClient({ product }: ProductDetailClientProp
   const [selectedImage, setSelectedImage] = useState<string>(
     activeImages[0] || product.primaryImage || product.image
   );
+
+  // Guarantee that navigating to another product completely resets the gallery state
+  useEffect(() => {
+    setSelectedImage(activeImages[0] || product.primaryImage || product.image);
+  }, [product.id, activeImages]);
+
   const [selectedSize, setSelectedSize] = useState<string>("M");
   const [quantity, setQuantity] = useState<number>(1);
   const [copiedCode, setCopiedCode] = useState<boolean>(false);
@@ -168,7 +174,7 @@ export default function ProductDetailClient({ product }: ProductDetailClientProp
               <div className="flex gap-3 overflow-x-auto no-scrollbar py-1">
                 {activeImages.map((imgSrc, i) => (
                   <button
-                    key={i}
+                    key={`${product.id}-thumb-${i}`}
                     onClick={() => setSelectedImage(imgSrc)}
                     className={`relative w-20 h-24 sm:w-24 sm:h-28 rounded-xl overflow-hidden border-2 transition-all shrink-0 cursor-pointer ${
                       selectedImage === imgSrc

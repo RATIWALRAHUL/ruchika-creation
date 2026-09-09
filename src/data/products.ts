@@ -2573,12 +2573,10 @@ export const products: Product[] = [
       "Contemporary"
     ],
     "images": [
-      "/images/kurti/kurti-page-76.jpg",
-      "/images/kurti/kurti-page-76.png"
+      "/images/kurti/kurti-page-76.jpg"
     ],
     "primaryImage": "/images/kurti/kurti-page-76.jpg",
     "image": "/images/kurti/kurti-page-76.jpg",
-    "hoverImage": "/images/kurti/kurti-page-76.png",
     "sizes": [
       "S",
       "M",
@@ -2618,12 +2616,10 @@ export const products: Product[] = [
       "Traditional"
     ],
     "images": [
-      "/images/kurti/kurti-page-77.jpg",
-      "/images/kurti/kurti-page-77.png"
+      "/images/kurti/kurti-page-77.jpg"
     ],
     "primaryImage": "/images/kurti/kurti-page-77.jpg",
     "image": "/images/kurti/kurti-page-77.jpg",
-    "hoverImage": "/images/kurti/kurti-page-77.png",
     "sizes": [
       "S",
       "M",
@@ -2663,12 +2659,10 @@ export const products: Product[] = [
       "Chikankari"
     ],
     "images": [
-      "/images/kurti/kurti-page-78.jpg",
-      "/images/kurti/kurti-page-78.png"
+      "/images/kurti/kurti-page-78.jpg"
     ],
     "primaryImage": "/images/kurti/kurti-page-78.jpg",
     "image": "/images/kurti/kurti-page-78.jpg",
-    "hoverImage": "/images/kurti/kurti-page-78.png",
     "sizes": [
       "S",
       "M",
@@ -6687,12 +6681,10 @@ export const products: Product[] = [
       "Contemporary"
     ],
     "images": [
-      "/images/kurti/kurti-page-177.jpg",
-      "/images/kurti/kurti-page-177.png"
+      "/images/kurti/kurti-page-177.jpg"
     ],
     "primaryImage": "/images/kurti/kurti-page-177.jpg",
     "image": "/images/kurti/kurti-page-177.jpg",
-    "hoverImage": "/images/kurti/kurti-page-177.png",
     "sizes": [
       "S",
       "M",
@@ -9322,6 +9314,28696 @@ export const products: Product[] = [
     "isBestseller": true,
     "premiumTier": false,
     "createdAt": "2026-02-04T06:17:12.723Z"
+  },
+  {
+    "id": "rc-krt-100",
+    "productCode": "RC-KRT-100",
+    "slug": "pink-floral-printed-short-kurti-top-rc-krt-100",
+    "name": "Pink Floral Printed Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink floral printed short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Pink",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.34 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.34 PM (1).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.34 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:08.979Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-101",
+    "productCode": "RC-KRT-101",
+    "slug": "wine-heritage-zari-work-short-kurti-top-rc-krt-101",
+    "name": "Wine Heritage Zari Work Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted wine heritage zari work short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Wine",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.34 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.34 PM.jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.34 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:08.983Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-102",
+    "productCode": "RC-KRT-102",
+    "slug": "brown-festive-embellished-short-kurti-top-rc-krt-102",
+    "name": "Brown Festive Embellished Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown festive embellished short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Brown",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.35 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.35 PM (1).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.35 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:08.984Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-103",
+    "productCode": "RC-KRT-103",
+    "slug": "mustard-floral-printed-short-kurti-top-rc-krt-103",
+    "name": "Mustard Floral Printed Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard floral printed short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Mustard",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.35 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.35 PM (2).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.35 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:08.985Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-104",
+    "productCode": "RC-KRT-104",
+    "slug": "maroon-heritage-zari-work-short-kurti-top-rc-krt-104",
+    "name": "Maroon Heritage Zari Work Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted maroon heritage zari work short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Maroon",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.35 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.35 PM (3).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.35 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:08.986Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-105",
+    "productCode": "RC-KRT-105",
+    "slug": "navy-festive-embellished-short-kurti-top-rc-krt-105",
+    "name": "Navy Festive Embellished Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy festive embellished short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Navy",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.35 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.35 PM.jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.35 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:08.987Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-106",
+    "productCode": "RC-KRT-106",
+    "slug": "green-floral-printed-short-kurti-top-rc-krt-106",
+    "name": "Green Floral Printed Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green floral printed short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Green",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.36 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.36 PM (1).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.36 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:08.987Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-107",
+    "productCode": "RC-KRT-107",
+    "slug": "ivory-heritage-zari-work-short-kurti-top-rc-krt-107",
+    "name": "Ivory Heritage Zari Work Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted ivory heritage zari work short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Ivory",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.36 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.36 PM (2).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.36 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:08.988Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-108",
+    "productCode": "RC-KRT-108",
+    "slug": "beige-festive-embellished-short-kurti-top-rc-krt-108",
+    "name": "Beige Festive Embellished Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige festive embellished short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Beige",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.36 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.36 PM.jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.36 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:08.989Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-109",
+    "productCode": "RC-KRT-109",
+    "slug": "peach-floral-printed-short-kurti-top-rc-krt-109",
+    "name": "Peach Floral Printed Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach floral printed short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Peach",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.37 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.37 PM (1).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.37 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:08.990Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-110",
+    "productCode": "RC-KRT-110",
+    "slug": "rust-heritage-zari-work-short-kurti-top-rc-krt-110",
+    "name": "Rust Heritage Zari Work Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted rust heritage zari work short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Rust",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.37 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.37 PM (2).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.37 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:08.991Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-111",
+    "productCode": "RC-KRT-111",
+    "slug": "teal-festive-embellished-short-kurti-top-rc-krt-111",
+    "name": "Teal Festive Embellished Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal festive embellished short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Teal",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.37 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.37 PM (3).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.37 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:08.992Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-112",
+    "productCode": "RC-KRT-112",
+    "slug": "olive-floral-printed-short-kurti-top-rc-krt-112",
+    "name": "Olive Floral Printed Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive floral printed short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Olive",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.37 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.37 PM.jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.37 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:08.993Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-113",
+    "productCode": "RC-KRT-113",
+    "slug": "blue-heritage-zari-work-short-kurti-top-rc-krt-113",
+    "name": "Blue Heritage Zari Work Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted blue heritage zari work short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Blue",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.38 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.38 PM (1).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.38 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:08.994Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-114",
+    "productCode": "RC-KRT-114",
+    "slug": "black-festive-embellished-short-kurti-top-rc-krt-114",
+    "name": "Black Festive Embellished Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black festive embellished short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Black",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.38 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.38 PM (2).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.38 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:08.996Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-115",
+    "productCode": "RC-KRT-115",
+    "slug": "pink-floral-printed-short-kurti-top-rc-krt-115",
+    "name": "Pink Floral Printed Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink floral printed short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Pink",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.38 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.38 PM.jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.38 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:08.997Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-116",
+    "productCode": "RC-KRT-116",
+    "slug": "wine-heritage-zari-work-short-kurti-top-rc-krt-116",
+    "name": "Wine Heritage Zari Work Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted wine heritage zari work short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Wine",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.39 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.39 PM (1).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.39 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:08.998Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-117",
+    "productCode": "RC-KRT-117",
+    "slug": "brown-festive-embellished-short-kurti-top-rc-krt-117",
+    "name": "Brown Festive Embellished Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown festive embellished short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Brown",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.39 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.39 PM (2).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.39 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:08.999Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-118",
+    "productCode": "RC-KRT-118",
+    "slug": "mustard-floral-printed-short-kurti-top-rc-krt-118",
+    "name": "Mustard Floral Printed Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard floral printed short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Mustard",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.39 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.39 PM (3).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.39 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.000Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-119",
+    "productCode": "RC-KRT-119",
+    "slug": "maroon-heritage-zari-work-short-kurti-top-rc-krt-119",
+    "name": "Maroon Heritage Zari Work Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted maroon heritage zari work short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Maroon",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.39 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.39 PM.jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.39 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.001Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-120",
+    "productCode": "RC-KRT-120",
+    "slug": "navy-festive-embellished-short-kurti-top-rc-krt-120",
+    "name": "Navy Festive Embellished Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy festive embellished short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Navy",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.40 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.40 PM (1).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.40 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.002Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-121",
+    "productCode": "RC-KRT-121",
+    "slug": "green-floral-printed-short-kurti-top-rc-krt-121",
+    "name": "Green Floral Printed Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green floral printed short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Green",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.40 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.40 PM (2).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.40 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.002Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-122",
+    "productCode": "RC-KRT-122",
+    "slug": "ivory-heritage-zari-work-short-kurti-top-rc-krt-122",
+    "name": "Ivory Heritage Zari Work Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted ivory heritage zari work short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Ivory",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.40 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.40 PM (3).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.40 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.003Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-123",
+    "productCode": "RC-KRT-123",
+    "slug": "beige-festive-embellished-short-kurti-top-rc-krt-123",
+    "name": "Beige Festive Embellished Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige festive embellished short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Beige",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.40 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.40 PM.jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.40 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.004Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-124",
+    "productCode": "RC-KRT-124",
+    "slug": "peach-floral-printed-short-kurti-top-rc-krt-124",
+    "name": "Peach Floral Printed Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach floral printed short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Peach",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.41 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.41 PM (1).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.41 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.005Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-125",
+    "productCode": "RC-KRT-125",
+    "slug": "rust-heritage-zari-work-short-kurti-top-rc-krt-125",
+    "name": "Rust Heritage Zari Work Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted rust heritage zari work short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Rust",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.41 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.41 PM.jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.41 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.006Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-126",
+    "productCode": "RC-KRT-126",
+    "slug": "teal-festive-embellished-short-kurti-top-rc-krt-126",
+    "name": "Teal Festive Embellished Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal festive embellished short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Teal",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.42 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.42 PM (1).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.42 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.007Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-127",
+    "productCode": "RC-KRT-127",
+    "slug": "olive-floral-printed-short-kurti-top-rc-krt-127",
+    "name": "Olive Floral Printed Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive floral printed short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Olive",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.42 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.42 PM (2).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.42 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.007Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-128",
+    "productCode": "RC-KRT-128",
+    "slug": "blue-heritage-zari-work-short-kurti-top-rc-krt-128",
+    "name": "Blue Heritage Zari Work Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted blue heritage zari work short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Blue",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.42 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.42 PM.jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.42 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.008Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-129",
+    "productCode": "RC-KRT-129",
+    "slug": "black-festive-embellished-short-kurti-top-rc-krt-129",
+    "name": "Black Festive Embellished Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black festive embellished short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Black",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.43 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.43 PM (1).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.43 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.009Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-130",
+    "productCode": "RC-KRT-130",
+    "slug": "pink-floral-printed-short-kurti-top-rc-krt-130",
+    "name": "Pink Floral Printed Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink floral printed short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Pink",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.43 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.43 PM.jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.43 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.010Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-131",
+    "productCode": "RC-KRT-131",
+    "slug": "wine-heritage-zari-work-short-kurti-top-rc-krt-131",
+    "name": "Wine Heritage Zari Work Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted wine heritage zari work short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Wine",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.44 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.44 PM (1).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.44 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.011Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-132",
+    "productCode": "RC-KRT-132",
+    "slug": "brown-festive-embellished-short-kurti-top-rc-krt-132",
+    "name": "Brown Festive Embellished Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown festive embellished short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Brown",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.44 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.44 PM (2).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.44 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.011Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-133",
+    "productCode": "RC-KRT-133",
+    "slug": "mustard-floral-printed-short-kurti-top-rc-krt-133",
+    "name": "Mustard Floral Printed Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard floral printed short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Mustard",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.44 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.44 PM (3).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.44 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.012Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-134",
+    "productCode": "RC-KRT-134",
+    "slug": "maroon-heritage-zari-work-short-kurti-top-rc-krt-134",
+    "name": "Maroon Heritage Zari Work Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted maroon heritage zari work short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Maroon",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.44 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.44 PM.jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.44 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.013Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-135",
+    "productCode": "RC-KRT-135",
+    "slug": "navy-festive-embellished-short-kurti-top-rc-krt-135",
+    "name": "Navy Festive Embellished Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy festive embellished short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Navy",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.45 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.45 PM (1).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.45 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.013Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-136",
+    "productCode": "RC-KRT-136",
+    "slug": "green-floral-printed-short-kurti-top-rc-krt-136",
+    "name": "Green Floral Printed Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green floral printed short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Green",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.45 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.45 PM (2).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.45 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.014Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-137",
+    "productCode": "RC-KRT-137",
+    "slug": "ivory-heritage-zari-work-short-kurti-top-rc-krt-137",
+    "name": "Ivory Heritage Zari Work Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted ivory heritage zari work short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Ivory",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.45 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.45 PM (3).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.45 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.015Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-138",
+    "productCode": "RC-KRT-138",
+    "slug": "beige-festive-embellished-short-kurti-top-rc-krt-138",
+    "name": "Beige Festive Embellished Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige festive embellished short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Beige",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.45 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.45 PM.jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.45 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.016Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-139",
+    "productCode": "RC-KRT-139",
+    "slug": "peach-floral-printed-short-kurti-top-rc-krt-139",
+    "name": "Peach Floral Printed Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach floral printed short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Peach",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.46 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.46 PM (1).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.46 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.017Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-140",
+    "productCode": "RC-KRT-140",
+    "slug": "rust-heritage-zari-work-short-kurti-top-rc-krt-140",
+    "name": "Rust Heritage Zari Work Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted rust heritage zari work short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Rust",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.46 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.46 PM (2).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.46 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.018Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-141",
+    "productCode": "RC-KRT-141",
+    "slug": "teal-festive-embellished-short-kurti-top-rc-krt-141",
+    "name": "Teal Festive Embellished Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal festive embellished short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Teal",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.46 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.46 PM.jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.46 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.018Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-142",
+    "productCode": "RC-KRT-142",
+    "slug": "olive-floral-printed-short-kurti-top-rc-krt-142",
+    "name": "Olive Floral Printed Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive floral printed short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Olive",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.47 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.47 PM (1).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.47 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.019Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-143",
+    "productCode": "RC-KRT-143",
+    "slug": "blue-heritage-zari-work-short-kurti-top-rc-krt-143",
+    "name": "Blue Heritage Zari Work Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted blue heritage zari work short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Blue",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.47 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.47 PM (2).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.47 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.020Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-144",
+    "productCode": "RC-KRT-144",
+    "slug": "black-festive-embellished-short-kurti-top-rc-krt-144",
+    "name": "Black Festive Embellished Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black festive embellished short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Black",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.47 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.47 PM (3).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.47 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.021Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-145",
+    "productCode": "RC-KRT-145",
+    "slug": "pink-floral-printed-short-kurti-top-rc-krt-145",
+    "name": "Pink Floral Printed Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink floral printed short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Pink",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.47 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.47 PM.jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.47 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.021Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-146",
+    "productCode": "RC-KRT-146",
+    "slug": "wine-heritage-zari-work-short-kurti-top-rc-krt-146",
+    "name": "Wine Heritage Zari Work Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted wine heritage zari work short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Wine",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.48 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.48 PM (1).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.48 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.022Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-147",
+    "productCode": "RC-KRT-147",
+    "slug": "brown-festive-embellished-short-kurti-top-rc-krt-147",
+    "name": "Brown Festive Embellished Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown festive embellished short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Brown",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.48 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.48 PM (2).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.48 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.023Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-148",
+    "productCode": "RC-KRT-148",
+    "slug": "mustard-floral-printed-short-kurti-top-rc-krt-148",
+    "name": "Mustard Floral Printed Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard floral printed short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Mustard",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.48 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.48 PM.jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.48 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.024Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-149",
+    "productCode": "RC-KRT-149",
+    "slug": "maroon-heritage-zari-work-short-kurti-top-rc-krt-149",
+    "name": "Maroon Heritage Zari Work Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted maroon heritage zari work short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Maroon",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.49 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.49 PM (1).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.49 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.025Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-150",
+    "productCode": "RC-KRT-150",
+    "slug": "navy-festive-embellished-short-kurti-top-rc-krt-150",
+    "name": "Navy Festive Embellished Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy festive embellished short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Navy",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.49 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.49 PM (2).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.49 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.026Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-151",
+    "productCode": "RC-KRT-151",
+    "slug": "green-floral-printed-short-kurti-top-rc-krt-151",
+    "name": "Green Floral Printed Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green floral printed short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Green",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.49 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.49 PM (3).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.49 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.027Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-152",
+    "productCode": "RC-KRT-152",
+    "slug": "ivory-heritage-zari-work-short-kurti-top-rc-krt-152",
+    "name": "Ivory Heritage Zari Work Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted ivory heritage zari work short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Ivory",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.49 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.49 PM.jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.49 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.028Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-153",
+    "productCode": "RC-KRT-153",
+    "slug": "beige-festive-embellished-short-kurti-top-rc-krt-153",
+    "name": "Beige Festive Embellished Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige festive embellished short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Beige",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.50 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.50 PM (1).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.50 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.029Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-154",
+    "productCode": "RC-KRT-154",
+    "slug": "peach-floral-printed-short-kurti-top-rc-krt-154",
+    "name": "Peach Floral Printed Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach floral printed short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Peach",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.50 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.50 PM (2).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.50 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.030Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-155",
+    "productCode": "RC-KRT-155",
+    "slug": "rust-heritage-zari-work-short-kurti-top-rc-krt-155",
+    "name": "Rust Heritage Zari Work Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted rust heritage zari work short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Rust",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.50 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.50 PM.jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.50 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.031Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-156",
+    "productCode": "RC-KRT-156",
+    "slug": "teal-festive-embellished-short-kurti-top-rc-krt-156",
+    "name": "Teal Festive Embellished Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal festive embellished short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Teal",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.51 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.51 PM (1).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.51 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.032Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-157",
+    "productCode": "RC-KRT-157",
+    "slug": "olive-floral-printed-short-kurti-top-rc-krt-157",
+    "name": "Olive Floral Printed Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive floral printed short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Olive",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.51 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.51 PM.jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.51 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.032Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-158",
+    "productCode": "RC-KRT-158",
+    "slug": "blue-heritage-zari-work-short-kurti-top-rc-krt-158",
+    "name": "Blue Heritage Zari Work Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted blue heritage zari work short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Blue",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.52 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.52 PM (1).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.52 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.033Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-159",
+    "productCode": "RC-KRT-159",
+    "slug": "black-festive-embellished-short-kurti-top-rc-krt-159",
+    "name": "Black Festive Embellished Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black festive embellished short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Black",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.52 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.52 PM (2).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.52 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.035Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-160",
+    "productCode": "RC-KRT-160",
+    "slug": "pink-floral-printed-short-kurti-top-rc-krt-160",
+    "name": "Pink Floral Printed Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink floral printed short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Pink",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.52 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.52 PM.jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.52 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.036Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-161",
+    "productCode": "RC-KRT-161",
+    "slug": "wine-heritage-zari-work-short-kurti-top-rc-krt-161",
+    "name": "Wine Heritage Zari Work Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted wine heritage zari work short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Wine",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.53 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.53 PM (1).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.53 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.037Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-162",
+    "productCode": "RC-KRT-162",
+    "slug": "brown-festive-embellished-short-kurti-top-rc-krt-162",
+    "name": "Brown Festive Embellished Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown festive embellished short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Brown",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.53 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.53 PM (2).jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.53 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.038Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-163",
+    "productCode": "RC-KRT-163",
+    "slug": "mustard-floral-printed-short-kurti-top-rc-krt-163",
+    "name": "Mustard Floral Printed Short Kurti Top",
+    "shortDescription": "Curated short kurti top crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard floral printed short kurti top, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 399,
+    "compareAtPrice": 799,
+    "color": "Mustard",
+    "style": [
+      "Printed",
+      "Everyday",
+      "Casual Ethnic"
+    ],
+    "images": [
+      "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.53 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.53 PM.jpeg",
+    "image": "/images/products/399/WhatsApp Image 2026-09-08 at 12.47.53 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.038Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-164",
+    "productCode": "RC-KRT-164",
+    "slug": "brown-floral-printed-tailored-cotton-trouser-rc-krt-164",
+    "name": "Brown Floral Printed Tailored Cotton Trouser",
+    "shortDescription": "Curated tailored cotton trouser crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown floral printed tailored cotton trouser, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 499,
+    "compareAtPrice": 899,
+    "color": "Brown",
+    "style": [
+      "Everyday",
+      "Contemporary",
+      "Solid Ethnic"
+    ],
+    "images": [
+      "/images/products/499/WhatsApp Image 2026-09-08 at 1.04.11 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/499/WhatsApp Image 2026-09-08 at 1.04.11 PM.jpeg",
+    "image": "/images/products/499/WhatsApp Image 2026-09-08 at 1.04.11 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.039Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-165",
+    "productCode": "RC-KRT-165",
+    "slug": "mustard-heritage-zari-work-tailored-cotton-trouser-rc-krt-165",
+    "name": "Mustard Heritage Zari Work Tailored Cotton Trouser",
+    "shortDescription": "Curated tailored cotton trouser crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard heritage zari work tailored cotton trouser, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 499,
+    "compareAtPrice": 899,
+    "color": "Mustard",
+    "style": [
+      "Everyday",
+      "Contemporary",
+      "Solid Ethnic"
+    ],
+    "images": [
+      "/images/products/499/WhatsApp Image 2026-09-08 at 1.04.12 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/499/WhatsApp Image 2026-09-08 at 1.04.12 PM.jpeg",
+    "image": "/images/products/499/WhatsApp Image 2026-09-08 at 1.04.12 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.039Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-166",
+    "productCode": "RC-KRT-166",
+    "slug": "maroon-festive-embellished-tailored-cotton-trouser-rc-krt-166",
+    "name": "Maroon Festive Embellished Tailored Cotton Trouser",
+    "shortDescription": "Curated tailored cotton trouser crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted maroon festive embellished tailored cotton trouser, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 499,
+    "compareAtPrice": 899,
+    "color": "Maroon",
+    "style": [
+      "Everyday",
+      "Contemporary",
+      "Solid Ethnic"
+    ],
+    "images": [
+      "/images/products/499/WhatsApp Image 2026-09-08 at 12.47.17 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/499/WhatsApp Image 2026-09-08 at 12.47.17 PM.jpeg",
+    "image": "/images/products/499/WhatsApp Image 2026-09-08 at 12.47.17 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.039Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-167",
+    "productCode": "RC-KRT-167",
+    "slug": "navy-floral-printed-tailored-cotton-trouser-rc-krt-167",
+    "name": "Navy Floral Printed Tailored Cotton Trouser",
+    "shortDescription": "Curated tailored cotton trouser crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy floral printed tailored cotton trouser, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 499,
+    "compareAtPrice": 899,
+    "color": "Navy",
+    "style": [
+      "Everyday",
+      "Contemporary",
+      "Solid Ethnic"
+    ],
+    "images": [
+      "/images/products/499/WhatsApp Image 2026-09-08 at 12.47.18 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/499/WhatsApp Image 2026-09-08 at 12.47.18 PM (1).jpeg",
+    "image": "/images/products/499/WhatsApp Image 2026-09-08 at 12.47.18 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.039Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-168",
+    "productCode": "RC-KRT-168",
+    "slug": "green-heritage-zari-work-tailored-cotton-trouser-rc-krt-168",
+    "name": "Green Heritage Zari Work Tailored Cotton Trouser",
+    "shortDescription": "Curated tailored cotton trouser crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green heritage zari work tailored cotton trouser, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 499,
+    "compareAtPrice": 899,
+    "color": "Green",
+    "style": [
+      "Everyday",
+      "Contemporary",
+      "Solid Ethnic"
+    ],
+    "images": [
+      "/images/products/499/WhatsApp Image 2026-09-08 at 12.47.18 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/499/WhatsApp Image 2026-09-08 at 12.47.18 PM (2).jpeg",
+    "image": "/images/products/499/WhatsApp Image 2026-09-08 at 12.47.18 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.040Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-169",
+    "productCode": "RC-KRT-169",
+    "slug": "ivory-festive-embellished-tailored-cotton-trouser-rc-krt-169",
+    "name": "Ivory Festive Embellished Tailored Cotton Trouser",
+    "shortDescription": "Curated tailored cotton trouser crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted ivory festive embellished tailored cotton trouser, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 499,
+    "compareAtPrice": 899,
+    "color": "Ivory",
+    "style": [
+      "Everyday",
+      "Contemporary",
+      "Solid Ethnic"
+    ],
+    "images": [
+      "/images/products/499/WhatsApp Image 2026-09-08 at 12.47.18 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/499/WhatsApp Image 2026-09-08 at 12.47.18 PM (3).jpeg",
+    "image": "/images/products/499/WhatsApp Image 2026-09-08 at 12.47.18 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.041Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-170",
+    "productCode": "RC-KRT-170",
+    "slug": "beige-floral-printed-tailored-cotton-trouser-rc-krt-170",
+    "name": "Beige Floral Printed Tailored Cotton Trouser",
+    "shortDescription": "Curated tailored cotton trouser crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige floral printed tailored cotton trouser, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 499,
+    "compareAtPrice": 899,
+    "color": "Beige",
+    "style": [
+      "Everyday",
+      "Contemporary",
+      "Solid Ethnic"
+    ],
+    "images": [
+      "/images/products/499/WhatsApp Image 2026-09-08 at 12.47.18 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/499/WhatsApp Image 2026-09-08 at 12.47.18 PM.jpeg",
+    "image": "/images/products/499/WhatsApp Image 2026-09-08 at 12.47.18 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.041Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-171",
+    "productCode": "RC-KRT-171",
+    "slug": "peach-heritage-zari-work-tailored-cotton-trouser-rc-krt-171",
+    "name": "Peach Heritage Zari Work Tailored Cotton Trouser",
+    "shortDescription": "Curated tailored cotton trouser crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach heritage zari work tailored cotton trouser, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Everyday"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 499,
+    "compareAtPrice": 899,
+    "color": "Peach",
+    "style": [
+      "Everyday",
+      "Contemporary",
+      "Solid Ethnic"
+    ],
+    "images": [
+      "/images/products/499/WhatsApp Image 2026-09-08 at 12.47.19 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/499/WhatsApp Image 2026-09-08 at 12.47.19 PM.jpeg",
+    "image": "/images/products/499/WhatsApp Image 2026-09-08 at 12.47.19 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.042Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-172",
+    "productCode": "RC-KRT-172",
+    "slug": "green-floral-printed-tiered-maxi-kurti-dress-rc-krt-172",
+    "name": "Green Floral Printed Tiered Maxi Kurti Dress",
+    "shortDescription": "Curated tiered maxi kurti dress crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green floral printed tiered maxi kurti dress, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday",
+      "New Arrivals"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 599,
+    "compareAtPrice": 1099,
+    "color": "Green",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Fusion Ethnic"
+    ],
+    "images": [
+      "/images/products/599/WhatsApp Image 2026-09-08 at 12.44.00 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/599/WhatsApp Image 2026-09-08 at 12.44.00 PM (1).jpeg",
+    "image": "/images/products/599/WhatsApp Image 2026-09-08 at 12.44.00 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.042Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-173",
+    "productCode": "RC-KRT-173",
+    "slug": "ivory-heritage-zari-work-tiered-maxi-kurti-dress-rc-krt-173",
+    "name": "Ivory Heritage Zari Work Tiered Maxi Kurti Dress",
+    "shortDescription": "Curated tiered maxi kurti dress crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted ivory heritage zari work tiered maxi kurti dress, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday",
+      "New Arrivals"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 599,
+    "compareAtPrice": 1099,
+    "color": "Ivory",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Fusion Ethnic"
+    ],
+    "images": [
+      "/images/products/599/WhatsApp Image 2026-09-08 at 12.44.00 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/599/WhatsApp Image 2026-09-08 at 12.44.00 PM (2).jpeg",
+    "image": "/images/products/599/WhatsApp Image 2026-09-08 at 12.44.00 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.042Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-174",
+    "productCode": "RC-KRT-174",
+    "slug": "beige-festive-embellished-tiered-maxi-kurti-dress-rc-krt-174",
+    "name": "Beige Festive Embellished Tiered Maxi Kurti Dress",
+    "shortDescription": "Curated tiered maxi kurti dress crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige festive embellished tiered maxi kurti dress, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday",
+      "New Arrivals"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 599,
+    "compareAtPrice": 1099,
+    "color": "Beige",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Fusion Ethnic"
+    ],
+    "images": [
+      "/images/products/599/WhatsApp Image 2026-09-08 at 12.44.00 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/599/WhatsApp Image 2026-09-08 at 12.44.00 PM.jpeg",
+    "image": "/images/products/599/WhatsApp Image 2026-09-08 at 12.44.00 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.043Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-175",
+    "productCode": "RC-KRT-175",
+    "slug": "peach-floral-printed-tiered-maxi-kurti-dress-rc-krt-175",
+    "name": "Peach Floral Printed Tiered Maxi Kurti Dress",
+    "shortDescription": "Curated tiered maxi kurti dress crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach floral printed tiered maxi kurti dress, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday",
+      "New Arrivals"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 599,
+    "compareAtPrice": 1099,
+    "color": "Peach",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Fusion Ethnic"
+    ],
+    "images": [
+      "/images/products/599/WhatsApp Image 2026-09-08 at 12.44.01 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/599/WhatsApp Image 2026-09-08 at 12.44.01 PM (1).jpeg",
+    "image": "/images/products/599/WhatsApp Image 2026-09-08 at 12.44.01 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.044Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-176",
+    "productCode": "RC-KRT-176",
+    "slug": "rust-heritage-zari-work-tiered-maxi-kurti-dress-rc-krt-176",
+    "name": "Rust Heritage Zari Work Tiered Maxi Kurti Dress",
+    "shortDescription": "Curated tiered maxi kurti dress crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted rust heritage zari work tiered maxi kurti dress, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday",
+      "New Arrivals"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 599,
+    "compareAtPrice": 1099,
+    "color": "Rust",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Fusion Ethnic"
+    ],
+    "images": [
+      "/images/products/599/WhatsApp Image 2026-09-08 at 12.44.01 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/599/WhatsApp Image 2026-09-08 at 12.44.01 PM (2).jpeg",
+    "image": "/images/products/599/WhatsApp Image 2026-09-08 at 12.44.01 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.044Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-177",
+    "productCode": "RC-KRT-177",
+    "slug": "teal-festive-embellished-tiered-maxi-kurti-dress-rc-krt-177",
+    "name": "Teal Festive Embellished Tiered Maxi Kurti Dress",
+    "shortDescription": "Curated tiered maxi kurti dress crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal festive embellished tiered maxi kurti dress, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday",
+      "New Arrivals"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 599,
+    "compareAtPrice": 1099,
+    "color": "Teal",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Fusion Ethnic"
+    ],
+    "images": [
+      "/images/products/599/WhatsApp Image 2026-09-08 at 12.44.01 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/599/WhatsApp Image 2026-09-08 at 12.44.01 PM.jpeg",
+    "image": "/images/products/599/WhatsApp Image 2026-09-08 at 12.44.01 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.045Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-178",
+    "productCode": "RC-KRT-178",
+    "slug": "olive-floral-printed-tiered-maxi-kurti-dress-rc-krt-178",
+    "name": "Olive Floral Printed Tiered Maxi Kurti Dress",
+    "shortDescription": "Curated tiered maxi kurti dress crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive floral printed tiered maxi kurti dress, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday",
+      "New Arrivals"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 599,
+    "compareAtPrice": 1099,
+    "color": "Olive",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Fusion Ethnic"
+    ],
+    "images": [
+      "/images/products/599/WhatsApp Image 2026-09-08 at 12.44.02 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/599/WhatsApp Image 2026-09-08 at 12.44.02 PM (1).jpeg",
+    "image": "/images/products/599/WhatsApp Image 2026-09-08 at 12.44.02 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.045Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-179",
+    "productCode": "RC-KRT-179",
+    "slug": "blue-heritage-zari-work-tiered-maxi-kurti-dress-rc-krt-179",
+    "name": "Blue Heritage Zari Work Tiered Maxi Kurti Dress",
+    "shortDescription": "Curated tiered maxi kurti dress crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted blue heritage zari work tiered maxi kurti dress, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday",
+      "New Arrivals"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 599,
+    "compareAtPrice": 1099,
+    "color": "Blue",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Fusion Ethnic"
+    ],
+    "images": [
+      "/images/products/599/WhatsApp Image 2026-09-08 at 12.44.02 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/599/WhatsApp Image 2026-09-08 at 12.44.02 PM (2).jpeg",
+    "image": "/images/products/599/WhatsApp Image 2026-09-08 at 12.44.02 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.046Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-krt-180",
+    "productCode": "RC-KRT-180",
+    "slug": "black-festive-embellished-tiered-maxi-kurti-dress-rc-krt-180",
+    "name": "Black Festive Embellished Tiered Maxi Kurti Dress",
+    "shortDescription": "Curated tiered maxi kurti dress crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black festive embellished tiered maxi kurti dress, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Kurtis",
+    "category": [
+      "Kurtis",
+      "Printed",
+      "Everyday",
+      "New Arrivals"
+    ],
+    "productType": "SINGLE_PIECE",
+    "price": 599,
+    "compareAtPrice": 1099,
+    "color": "Black",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Fusion Ethnic"
+    ],
+    "images": [
+      "/images/products/599/WhatsApp Image 2026-09-08 at 12.44.02 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/599/WhatsApp Image 2026-09-08 at 12.44.02 PM.jpeg",
+    "image": "/images/products/599/WhatsApp Image 2026-09-08 at 12.44.02 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.046Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-036",
+    "productCode": "RC-3PC-036",
+    "slug": "blue-floral-printed-three-piece-kurti-pant-set-with-dupatta-rc-3pc-036",
+    "name": "Blue Floral Printed Three-Piece Kurti Pant Set with Dupatta",
+    "shortDescription": "Curated three-piece kurti pant set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted blue floral printed three-piece kurti pant set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Blue",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.12 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.12 PM (1).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.12 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.050Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-082",
+    "productCode": "RC-2PC-082",
+    "slug": "black-lace-bordered-two-piece-co-ord-kurti-trouser-set-rc-2pc-082",
+    "name": "Black Lace Bordered Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black lace bordered two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Black",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.12 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.12 PM.jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.12 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.051Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-083",
+    "productCode": "RC-2PC-083",
+    "slug": "pink-artisanal-handblock-two-piece-co-ord-kurti-trouser-set-rc-2pc-083",
+    "name": "Pink Artisanal Handblock Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink artisanal handblock two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Pink",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.13 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.13 PM (1).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.13 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.051Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-037",
+    "productCode": "RC-3PC-037",
+    "slug": "pink-traditional-booti-three-piece-kurti-pant-set-with-dupatta-rc-3pc-037",
+    "name": "Pink Traditional Booti Three-Piece Kurti Pant Set with Dupatta",
+    "shortDescription": "Curated three-piece kurti pant set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink traditional booti three-piece kurti pant set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Pink",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.13 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.13 PM (2).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.13 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.052Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-084",
+    "productCode": "RC-2PC-084",
+    "slug": "peach-heritage-zari-work-two-piece-co-ord-kurti-trouser-set-rc-2pc-084",
+    "name": "Peach Heritage Zari Work Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach heritage zari work two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Peach",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.13 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.13 PM.jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.13 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.054Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-085",
+    "productCode": "RC-2PC-085",
+    "slug": "rust-festive-embellished-two-piece-co-ord-kurti-trouser-set-rc-2pc-085",
+    "name": "Rust Festive Embellished Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted rust festive embellished two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Rust",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.14 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.14 PM (1).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.14 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.055Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-038",
+    "productCode": "RC-3PC-038",
+    "slug": "brown-floral-printed-three-piece-kurti-pant-set-with-dupatta-rc-3pc-038",
+    "name": "Brown Floral Printed Three-Piece Kurti Pant Set with Dupatta",
+    "shortDescription": "Curated three-piece kurti pant set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown floral printed three-piece kurti pant set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Brown",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.14 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.14 PM (2).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.14 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.056Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-086",
+    "productCode": "RC-2PC-086",
+    "slug": "maroon-botanical-motif-two-piece-co-ord-kurti-trouser-set-rc-2pc-086",
+    "name": "Maroon Botanical Motif Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted maroon botanical motif two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Maroon",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.14 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.14 PM.jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.14 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.057Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-087",
+    "productCode": "RC-2PC-087",
+    "slug": "navy-bandhani-art-two-piece-co-ord-kurti-trouser-set-rc-2pc-087",
+    "name": "Navy Bandhani Art Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy bandhani art two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Navy",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.15 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.15 PM (1).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.15 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.057Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-039",
+    "productCode": "RC-3PC-039",
+    "slug": "maroon-traditional-booti-three-piece-kurti-pant-set-with-dupatta-rc-3pc-039",
+    "name": "Maroon Traditional Booti Three-Piece Kurti Pant Set with Dupatta",
+    "shortDescription": "Curated three-piece kurti pant set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted maroon traditional booti three-piece kurti pant set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Maroon",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.15 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.15 PM (2).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.15 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.058Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-088",
+    "productCode": "RC-2PC-088",
+    "slug": "ivory-artisanal-handblock-two-piece-co-ord-kurti-trouser-set-rc-2pc-088",
+    "name": "Ivory Artisanal Handblock Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted ivory artisanal handblock two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Ivory",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.15 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.15 PM.jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.15 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.060Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-040",
+    "productCode": "RC-3PC-040",
+    "slug": "green-floral-printed-three-piece-kurti-pant-set-with-dupatta-rc-3pc-040",
+    "name": "Green Floral Printed Three-Piece Kurti Pant Set with Dupatta",
+    "shortDescription": "Curated three-piece kurti pant set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green floral printed three-piece kurti pant set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Green",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.16 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.16 PM (1).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.16 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.060Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-089",
+    "productCode": "RC-2PC-089",
+    "slug": "wine-heritage-zari-work-two-piece-co-ord-kurti-trouser-set-rc-2pc-089",
+    "name": "Wine Heritage Zari Work Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted wine heritage zari work two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Wine",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.16 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.16 PM (2).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.16 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.061Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-090",
+    "productCode": "RC-2PC-090",
+    "slug": "brown-festive-embellished-two-piece-co-ord-kurti-trouser-set-rc-2pc-090",
+    "name": "Brown Festive Embellished Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown festive embellished two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Brown",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.16 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.16 PM.jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.16 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.061Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-041",
+    "productCode": "RC-3PC-041",
+    "slug": "beige-traditional-booti-three-piece-kurti-pant-set-with-dupatta-rc-3pc-041",
+    "name": "Beige Traditional Booti Three-Piece Kurti Pant Set with Dupatta",
+    "shortDescription": "Curated three-piece kurti pant set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige traditional booti three-piece kurti pant set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Beige",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.17 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.17 PM (1).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.17 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.062Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-091",
+    "productCode": "RC-2PC-091",
+    "slug": "teal-botanical-motif-two-piece-co-ord-kurti-trouser-set-rc-2pc-091",
+    "name": "Teal Botanical Motif Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal botanical motif two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Teal",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.17 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.17 PM (2).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.17 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.062Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-092",
+    "productCode": "RC-2PC-092",
+    "slug": "olive-bandhani-art-two-piece-co-ord-kurti-trouser-set-rc-2pc-092",
+    "name": "Olive Bandhani Art Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive bandhani art two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Olive",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.17 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.17 PM (3).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.17 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.063Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-042",
+    "productCode": "RC-3PC-042",
+    "slug": "rust-floral-printed-three-piece-kurti-pant-set-with-dupatta-rc-3pc-042",
+    "name": "Rust Floral Printed Three-Piece Kurti Pant Set with Dupatta",
+    "shortDescription": "Curated three-piece kurti pant set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted rust floral printed three-piece kurti pant set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Rust",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.17 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.17 PM.jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.17 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.064Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-093",
+    "productCode": "RC-2PC-093",
+    "slug": "green-abstract-printed-two-piece-co-ord-kurti-trouser-set-rc-2pc-093",
+    "name": "Green Abstract Printed Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green abstract printed two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Green",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.18 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.18 PM (1).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.18 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.064Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-094",
+    "productCode": "RC-2PC-094",
+    "slug": "ivory-chikankari-embroidered-two-piece-co-ord-kurti-trouser-set-rc-2pc-094",
+    "name": "Ivory Chikankari Embroidered Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted ivory chikankari embroidered two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Ivory",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.18 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.18 PM (2).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.18 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.065Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-043",
+    "productCode": "RC-3PC-043",
+    "slug": "olive-traditional-booti-three-piece-kurti-pant-set-with-dupatta-rc-3pc-043",
+    "name": "Olive Traditional Booti Three-Piece Kurti Pant Set with Dupatta",
+    "shortDescription": "Curated three-piece kurti pant set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive traditional booti three-piece kurti pant set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Olive",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.18 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.18 PM.jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.18 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.065Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-095",
+    "productCode": "RC-2PC-095",
+    "slug": "wine-lace-bordered-two-piece-co-ord-kurti-trouser-set-rc-2pc-095",
+    "name": "Wine Lace Bordered Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted wine lace bordered two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Wine",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.19 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.19 PM (1).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.19 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.066Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-096",
+    "productCode": "RC-2PC-096",
+    "slug": "mustard-botanical-motif-two-piece-co-ord-kurti-trouser-set-rc-2pc-096",
+    "name": "Mustard Botanical Motif Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard botanical motif two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Mustard",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.19 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.19 PM.jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.19 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.068Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-044",
+    "productCode": "RC-3PC-044",
+    "slug": "beige-geometric-block-printed-three-piece-kurti-pant-set-with-dupatta-rc-3pc-044",
+    "name": "Beige Geometric Block Printed Three-Piece Kurti Pant Set with Dupatta",
+    "shortDescription": "Curated three-piece kurti pant set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige geometric block printed three-piece kurti pant set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Beige",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.20 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.20 PM (2).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.20 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.069Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-097",
+    "productCode": "RC-2PC-097",
+    "slug": "navy-lace-bordered-two-piece-co-ord-kurti-trouser-set-rc-2pc-097",
+    "name": "Navy Lace Bordered Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy lace bordered two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Navy",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.20 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.20 PM.jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.20 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.070Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-098",
+    "productCode": "RC-2PC-098",
+    "slug": "peach-bandhani-art-two-piece-co-ord-kurti-trouser-set-rc-2pc-098",
+    "name": "Peach Bandhani Art Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach bandhani art two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Peach",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.22 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.22 PM (3).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.22 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.075Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-099",
+    "productCode": "RC-2PC-099",
+    "slug": "mustard-abstract-printed-two-piece-co-ord-kurti-trouser-set-rc-2pc-099",
+    "name": "Mustard Abstract Printed Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard abstract printed two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Mustard",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.23 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.23 PM (1).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.23 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.077Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-100",
+    "productCode": "RC-2PC-100",
+    "slug": "maroon-chikankari-embroidered-two-piece-co-ord-kurti-trouser-set-rc-2pc-100",
+    "name": "Maroon Chikankari Embroidered Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted maroon chikankari embroidered two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Maroon",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.23 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.23 PM (2).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.23 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.077Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-045",
+    "productCode": "RC-3PC-045",
+    "slug": "ivory-traditional-booti-three-piece-kurti-pant-set-with-dupatta-rc-3pc-045",
+    "name": "Ivory Traditional Booti Three-Piece Kurti Pant Set with Dupatta",
+    "shortDescription": "Curated three-piece kurti pant set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted ivory traditional booti three-piece kurti pant set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Ivory",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.23 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.23 PM.jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.23 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.078Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-101",
+    "productCode": "RC-2PC-101",
+    "slug": "blue-lace-bordered-two-piece-co-ord-kurti-trouser-set-rc-2pc-101",
+    "name": "Blue Lace Bordered Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted blue lace bordered two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Blue",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.24 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.24 PM (1).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.24 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.079Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-102",
+    "productCode": "RC-2PC-102",
+    "slug": "black-artisanal-handblock-two-piece-co-ord-kurti-trouser-set-rc-2pc-102",
+    "name": "Black Artisanal Handblock Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black artisanal handblock two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Black",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.24 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.24 PM (2).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.24 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.079Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-046",
+    "productCode": "RC-3PC-046",
+    "slug": "peach-floral-printed-three-piece-kurti-pant-set-with-dupatta-rc-3pc-046",
+    "name": "Peach Floral Printed Three-Piece Kurti Pant Set with Dupatta",
+    "shortDescription": "Curated three-piece kurti pant set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach floral printed three-piece kurti pant set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Peach",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.24 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.24 PM (3).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.24 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.080Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-103",
+    "productCode": "RC-2PC-103",
+    "slug": "beige-heritage-zari-work-two-piece-co-ord-kurti-trouser-set-rc-2pc-103",
+    "name": "Beige Heritage Zari Work Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige heritage zari work two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Beige",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.24 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.24 PM.jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.24 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.081Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-104",
+    "productCode": "RC-2PC-104",
+    "slug": "rust-abstract-printed-two-piece-co-ord-kurti-trouser-set-rc-2pc-104",
+    "name": "Rust Abstract Printed Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted rust abstract printed two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Rust",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.25 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.25 PM.jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.45.25 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.082Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-105",
+    "productCode": "RC-2PC-105",
+    "slug": "olive-heritage-zari-work-two-piece-co-ord-kurti-trouser-set-rc-2pc-105",
+    "name": "Olive Heritage Zari Work Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive heritage zari work two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Olive",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.46.45 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.46.45 PM.jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.46.45 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.084Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-106",
+    "productCode": "RC-2PC-106",
+    "slug": "blue-festive-embellished-two-piece-co-ord-kurti-trouser-set-rc-2pc-106",
+    "name": "Blue Festive Embellished Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted blue festive embellished two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Blue",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.32 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.32 PM (1).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.32 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.084Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-047",
+    "productCode": "RC-3PC-047",
+    "slug": "black-floral-printed-three-piece-kurti-pant-set-with-dupatta-rc-3pc-047",
+    "name": "Black Floral Printed Three-Piece Kurti Pant Set with Dupatta",
+    "shortDescription": "Curated three-piece kurti pant set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black floral printed three-piece kurti pant set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Black",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.32 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.32 PM (2).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.32 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.085Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-107",
+    "productCode": "RC-2PC-107",
+    "slug": "ivory-botanical-motif-two-piece-co-ord-kurti-trouser-set-rc-2pc-107",
+    "name": "Ivory Botanical Motif Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted ivory botanical motif two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Ivory",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.32 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.32 PM.jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.32 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.086Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-108",
+    "productCode": "RC-2PC-108",
+    "slug": "beige-bandhani-art-two-piece-co-ord-kurti-trouser-set-rc-2pc-108",
+    "name": "Beige Bandhani Art Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige bandhani art two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Beige",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.33 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.33 PM (1).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.33 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.086Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-048",
+    "productCode": "RC-3PC-048",
+    "slug": "wine-traditional-booti-three-piece-kurti-pant-set-with-dupatta-rc-3pc-048",
+    "name": "Wine Traditional Booti Three-Piece Kurti Pant Set with Dupatta",
+    "shortDescription": "Curated three-piece kurti pant set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted wine traditional booti three-piece kurti pant set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Wine",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.33 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.33 PM (2).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.33 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.087Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-109",
+    "productCode": "RC-2PC-109",
+    "slug": "brown-abstract-printed-two-piece-co-ord-kurti-trouser-set-rc-2pc-109",
+    "name": "Brown Abstract Printed Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown abstract printed two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Brown",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.33 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.33 PM (3).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.33 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.088Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-110",
+    "productCode": "RC-2PC-110",
+    "slug": "mustard-chikankari-embroidered-two-piece-co-ord-kurti-trouser-set-rc-2pc-110",
+    "name": "Mustard Chikankari Embroidered Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard chikankari embroidered two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Mustard",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.33 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.33 PM.jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.33 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.088Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-049",
+    "productCode": "RC-3PC-049",
+    "slug": "mustard-floral-printed-three-piece-kurti-pant-set-with-dupatta-rc-3pc-049",
+    "name": "Mustard Floral Printed Three-Piece Kurti Pant Set with Dupatta",
+    "shortDescription": "Curated three-piece kurti pant set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard floral printed three-piece kurti pant set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Mustard",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.34 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.34 PM (1).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.34 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.091Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-111",
+    "productCode": "RC-2PC-111",
+    "slug": "olive-lace-bordered-two-piece-co-ord-kurti-trouser-set-rc-2pc-111",
+    "name": "Olive Lace Bordered Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive lace bordered two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Olive",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.34 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.34 PM (2).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.34 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.091Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-112",
+    "productCode": "RC-2PC-112",
+    "slug": "blue-artisanal-handblock-two-piece-co-ord-kurti-trouser-set-rc-2pc-112",
+    "name": "Blue Artisanal Handblock Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted blue artisanal handblock two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Blue",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.34 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.34 PM.jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.34 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.092Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-050",
+    "productCode": "RC-3PC-050",
+    "slug": "navy-traditional-booti-three-piece-kurti-pant-set-with-dupatta-rc-3pc-050",
+    "name": "Navy Traditional Booti Three-Piece Kurti Pant Set with Dupatta",
+    "shortDescription": "Curated three-piece kurti pant set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy traditional booti three-piece kurti pant set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Navy",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.35 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.35 PM (1).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.35 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.093Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-113",
+    "productCode": "RC-2PC-113",
+    "slug": "ivory-heritage-zari-work-two-piece-co-ord-kurti-trouser-set-rc-2pc-113",
+    "name": "Ivory Heritage Zari Work Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted ivory heritage zari work two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Ivory",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.35 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.35 PM (2).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.35 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.093Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-114",
+    "productCode": "RC-2PC-114",
+    "slug": "beige-festive-embellished-two-piece-co-ord-kurti-trouser-set-rc-2pc-114",
+    "name": "Beige Festive Embellished Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige festive embellished two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Beige",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.35 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.35 PM (3).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.35 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.094Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-051",
+    "productCode": "RC-3PC-051",
+    "slug": "ivory-floral-printed-three-piece-kurti-pant-set-with-dupatta-rc-3pc-051",
+    "name": "Ivory Floral Printed Three-Piece Kurti Pant Set with Dupatta",
+    "shortDescription": "Curated three-piece kurti pant set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted ivory floral printed three-piece kurti pant set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Ivory",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.35 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.35 PM.jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.35 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.095Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-115",
+    "productCode": "RC-2PC-115",
+    "slug": "brown-botanical-motif-two-piece-co-ord-kurti-trouser-set-rc-2pc-115",
+    "name": "Brown Botanical Motif Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown botanical motif two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Brown",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.36 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.36 PM (1).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.36 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.096Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-116",
+    "productCode": "RC-2PC-116",
+    "slug": "mustard-bandhani-art-two-piece-co-ord-kurti-trouser-set-rc-2pc-116",
+    "name": "Mustard Bandhani Art Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard bandhani art two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Mustard",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.36 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.36 PM (2).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.36 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.097Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-052",
+    "productCode": "RC-3PC-052",
+    "slug": "peach-traditional-booti-three-piece-kurti-pant-set-with-dupatta-rc-3pc-052",
+    "name": "Peach Traditional Booti Three-Piece Kurti Pant Set with Dupatta",
+    "shortDescription": "Curated three-piece kurti pant set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach traditional booti three-piece kurti pant set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Peach",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.36 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.36 PM.jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.36 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.097Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-117",
+    "productCode": "RC-2PC-117",
+    "slug": "olive-abstract-printed-two-piece-co-ord-kurti-trouser-set-rc-2pc-117",
+    "name": "Olive Abstract Printed Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive abstract printed two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Olive",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.37 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.37 PM (1).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.37 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.098Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-118",
+    "productCode": "RC-2PC-118",
+    "slug": "blue-chikankari-embroidered-two-piece-co-ord-kurti-trouser-set-rc-2pc-118",
+    "name": "Blue Chikankari Embroidered Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted blue chikankari embroidered two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Blue",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.37 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.37 PM (2).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.37 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.099Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-053",
+    "productCode": "RC-3PC-053",
+    "slug": "teal-floral-printed-three-piece-kurti-pant-set-with-dupatta-rc-3pc-053",
+    "name": "Teal Floral Printed Three-Piece Kurti Pant Set with Dupatta",
+    "shortDescription": "Curated three-piece kurti pant set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal floral printed three-piece kurti pant set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Teal",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.37 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.37 PM (3).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.37 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.100Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-119",
+    "productCode": "RC-2PC-119",
+    "slug": "ivory-lace-bordered-two-piece-co-ord-kurti-trouser-set-rc-2pc-119",
+    "name": "Ivory Lace Bordered Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted ivory lace bordered two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Ivory",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.37 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.37 PM.jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.37 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.101Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-120",
+    "productCode": "RC-2PC-120",
+    "slug": "beige-artisanal-handblock-two-piece-co-ord-kurti-trouser-set-rc-2pc-120",
+    "name": "Beige Artisanal Handblock Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige artisanal handblock two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Beige",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.38 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.38 PM (1).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.38 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.102Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-054",
+    "productCode": "RC-3PC-054",
+    "slug": "blue-traditional-booti-three-piece-kurti-pant-set-with-dupatta-rc-3pc-054",
+    "name": "Blue Traditional Booti Three-Piece Kurti Pant Set with Dupatta",
+    "shortDescription": "Curated three-piece kurti pant set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted blue traditional booti three-piece kurti pant set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Blue",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.38 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.38 PM (2).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.38 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.103Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-121",
+    "productCode": "RC-2PC-121",
+    "slug": "brown-heritage-zari-work-two-piece-co-ord-kurti-trouser-set-rc-2pc-121",
+    "name": "Brown Heritage Zari Work Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown heritage zari work two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Brown",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.38 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.38 PM.jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.38 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.103Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-122",
+    "productCode": "RC-2PC-122",
+    "slug": "mustard-festive-embellished-two-piece-co-ord-kurti-trouser-set-rc-2pc-122",
+    "name": "Mustard Festive Embellished Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard festive embellished two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Mustard",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.39 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.39 PM (1).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.39 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.104Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-055",
+    "productCode": "RC-3PC-055",
+    "slug": "pink-floral-printed-three-piece-kurti-pant-set-with-dupatta-rc-3pc-055",
+    "name": "Pink Floral Printed Three-Piece Kurti Pant Set with Dupatta",
+    "shortDescription": "Curated three-piece kurti pant set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink floral printed three-piece kurti pant set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Pink",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.39 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.39 PM (2).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.39 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.105Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-123",
+    "productCode": "RC-2PC-123",
+    "slug": "olive-botanical-motif-two-piece-co-ord-kurti-trouser-set-rc-2pc-123",
+    "name": "Olive Botanical Motif Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive botanical motif two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Olive",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.39 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.39 PM.jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.39 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.105Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-124",
+    "productCode": "RC-2PC-124",
+    "slug": "blue-bandhani-art-two-piece-co-ord-kurti-trouser-set-rc-2pc-124",
+    "name": "Blue Bandhani Art Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted blue bandhani art two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Blue",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.40 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.40 PM (1).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.40 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.106Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-056",
+    "productCode": "RC-3PC-056",
+    "slug": "brown-traditional-booti-three-piece-kurti-pant-set-with-dupatta-rc-3pc-056",
+    "name": "Brown Traditional Booti Three-Piece Kurti Pant Set with Dupatta",
+    "shortDescription": "Curated three-piece kurti pant set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown traditional booti three-piece kurti pant set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Brown",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.40 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.40 PM (2).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.40 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.106Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-125",
+    "productCode": "RC-2PC-125",
+    "slug": "ivory-abstract-printed-two-piece-co-ord-kurti-trouser-set-rc-2pc-125",
+    "name": "Ivory Abstract Printed Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted ivory abstract printed two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Ivory",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.40 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.40 PM.jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.40 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.107Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-126",
+    "productCode": "RC-2PC-126",
+    "slug": "beige-chikankari-embroidered-two-piece-co-ord-kurti-trouser-set-rc-2pc-126",
+    "name": "Beige Chikankari Embroidered Two-Piece Co-ord Kurti & Trouser Set",
+    "shortDescription": "Curated two-piece co-ord kurti & trouser set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige chikankari embroidered two-piece co-ord kurti & trouser set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 699,
+    "compareAtPrice": 1399,
+    "color": "Beige",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.41 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.41 PM (1).jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.41 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.108Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-057",
+    "productCode": "RC-3PC-057",
+    "slug": "maroon-floral-printed-three-piece-kurti-pant-set-with-dupatta-rc-3pc-057",
+    "name": "Maroon Floral Printed Three-Piece Kurti Pant Set with Dupatta",
+    "shortDescription": "Curated three-piece kurti pant set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted maroon floral printed three-piece kurti pant set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Maroon",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Co-ord Set"
+    ],
+    "images": [
+      "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.41 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.41 PM.jpeg",
+    "image": "/images/products/699or999/WhatsApp Image 2026-09-08 at 12.48.41 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.109Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-127",
+    "productCode": "RC-2PC-127",
+    "slug": "green-paisley-embroidered-two-piece-coordinated-kurti-set-rc-2pc-127",
+    "name": "Green Paisley Embroidered Two-Piece Coordinated Kurti Set",
+    "shortDescription": "Curated two-piece coordinated kurti set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green paisley embroidered two-piece coordinated kurti set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 899,
+    "compareAtPrice": 1499,
+    "color": "Green",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Tailored Set"
+    ],
+    "images": [
+      "/images/products/899/WhatsApp Image 2026-09-08 at 1.04.39 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/899/WhatsApp Image 2026-09-08 at 1.04.39 PM.jpeg",
+    "image": "/images/products/899/WhatsApp Image 2026-09-08 at 1.04.39 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.109Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-128",
+    "productCode": "RC-2PC-128",
+    "slug": "ivory-botanical-motif-two-piece-coordinated-kurti-set-rc-2pc-128",
+    "name": "Ivory Botanical Motif Two-Piece Coordinated Kurti Set",
+    "shortDescription": "Curated two-piece coordinated kurti set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted ivory botanical motif two-piece coordinated kurti set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 899,
+    "compareAtPrice": 1499,
+    "color": "Ivory",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Tailored Set"
+    ],
+    "images": [
+      "/images/products/899/WhatsApp Image 2026-09-08 at 1.04.40 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/899/WhatsApp Image 2026-09-08 at 1.04.40 PM (1).jpeg",
+    "image": "/images/products/899/WhatsApp Image 2026-09-08 at 1.04.40 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.110Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-129",
+    "productCode": "RC-2PC-129",
+    "slug": "beige-bandhani-art-two-piece-coordinated-kurti-set-rc-2pc-129",
+    "name": "Beige Bandhani Art Two-Piece Coordinated Kurti Set",
+    "shortDescription": "Curated two-piece coordinated kurti set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige bandhani art two-piece coordinated kurti set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 899,
+    "compareAtPrice": 1499,
+    "color": "Beige",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Tailored Set"
+    ],
+    "images": [
+      "/images/products/899/WhatsApp Image 2026-09-08 at 1.04.40 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/899/WhatsApp Image 2026-09-08 at 1.04.40 PM.jpeg",
+    "image": "/images/products/899/WhatsApp Image 2026-09-08 at 1.04.40 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.111Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-130",
+    "productCode": "RC-2PC-130",
+    "slug": "peach-paisley-embroidered-two-piece-coordinated-kurti-set-rc-2pc-130",
+    "name": "Peach Paisley Embroidered Two-Piece Coordinated Kurti Set",
+    "shortDescription": "Curated two-piece coordinated kurti set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach paisley embroidered two-piece coordinated kurti set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 899,
+    "compareAtPrice": 1499,
+    "color": "Peach",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Tailored Set"
+    ],
+    "images": [
+      "/images/products/899/WhatsApp Image 2026-09-08 at 1.04.41 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/899/WhatsApp Image 2026-09-08 at 1.04.41 PM.jpeg",
+    "image": "/images/products/899/WhatsApp Image 2026-09-08 at 1.04.41 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.111Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-131",
+    "productCode": "RC-2PC-131",
+    "slug": "rust-botanical-motif-two-piece-coordinated-kurti-set-rc-2pc-131",
+    "name": "Rust Botanical Motif Two-Piece Coordinated Kurti Set",
+    "shortDescription": "Curated two-piece coordinated kurti set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted rust botanical motif two-piece coordinated kurti set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 899,
+    "compareAtPrice": 1499,
+    "color": "Rust",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Tailored Set"
+    ],
+    "images": [
+      "/images/products/899/WhatsApp Image 2026-09-08 at 1.05.07 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/899/WhatsApp Image 2026-09-08 at 1.05.07 PM.jpeg",
+    "image": "/images/products/899/WhatsApp Image 2026-09-08 at 1.05.07 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.112Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-132",
+    "productCode": "RC-2PC-132",
+    "slug": "teal-bandhani-art-two-piece-coordinated-kurti-set-rc-2pc-132",
+    "name": "Teal Bandhani Art Two-Piece Coordinated Kurti Set",
+    "shortDescription": "Curated two-piece coordinated kurti set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal bandhani art two-piece coordinated kurti set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 899,
+    "compareAtPrice": 1499,
+    "color": "Teal",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Tailored Set"
+    ],
+    "images": [
+      "/images/products/899/WhatsApp Image 2026-09-08 at 12.52.03 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/899/WhatsApp Image 2026-09-08 at 12.52.03 PM (1).jpeg",
+    "image": "/images/products/899/WhatsApp Image 2026-09-08 at 12.52.03 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.112Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-133",
+    "productCode": "RC-2PC-133",
+    "slug": "olive-paisley-embroidered-two-piece-coordinated-kurti-set-rc-2pc-133",
+    "name": "Olive Paisley Embroidered Two-Piece Coordinated Kurti Set",
+    "shortDescription": "Curated two-piece coordinated kurti set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive paisley embroidered two-piece coordinated kurti set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 899,
+    "compareAtPrice": 1499,
+    "color": "Olive",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Tailored Set"
+    ],
+    "images": [
+      "/images/products/899/WhatsApp Image 2026-09-08 at 12.52.03 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/899/WhatsApp Image 2026-09-08 at 12.52.03 PM.jpeg",
+    "image": "/images/products/899/WhatsApp Image 2026-09-08 at 12.52.03 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.113Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-134",
+    "productCode": "RC-2PC-134",
+    "slug": "blue-botanical-motif-two-piece-coordinated-kurti-set-rc-2pc-134",
+    "name": "Blue Botanical Motif Two-Piece Coordinated Kurti Set",
+    "shortDescription": "Curated two-piece coordinated kurti set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted blue botanical motif two-piece coordinated kurti set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 899,
+    "compareAtPrice": 1499,
+    "color": "Blue",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Tailored Set"
+    ],
+    "images": [
+      "/images/products/899/WhatsApp Image 2026-09-08 at 12.52.04 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/899/WhatsApp Image 2026-09-08 at 12.52.04 PM (1).jpeg",
+    "image": "/images/products/899/WhatsApp Image 2026-09-08 at 12.52.04 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.113Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-135",
+    "productCode": "RC-2PC-135",
+    "slug": "black-bandhani-art-two-piece-coordinated-kurti-set-rc-2pc-135",
+    "name": "Black Bandhani Art Two-Piece Coordinated Kurti Set",
+    "shortDescription": "Curated two-piece coordinated kurti set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black bandhani art two-piece coordinated kurti set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 899,
+    "compareAtPrice": 1499,
+    "color": "Black",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Tailored Set"
+    ],
+    "images": [
+      "/images/products/899/WhatsApp Image 2026-09-08 at 12.52.04 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/899/WhatsApp Image 2026-09-08 at 12.52.04 PM (2).jpeg",
+    "image": "/images/products/899/WhatsApp Image 2026-09-08 at 12.52.04 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.114Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-136",
+    "productCode": "RC-2PC-136",
+    "slug": "pink-paisley-embroidered-two-piece-coordinated-kurti-set-rc-2pc-136",
+    "name": "Pink Paisley Embroidered Two-Piece Coordinated Kurti Set",
+    "shortDescription": "Curated two-piece coordinated kurti set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink paisley embroidered two-piece coordinated kurti set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 899,
+    "compareAtPrice": 1499,
+    "color": "Pink",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Tailored Set"
+    ],
+    "images": [
+      "/images/products/899/WhatsApp Image 2026-09-08 at 12.52.04 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/899/WhatsApp Image 2026-09-08 at 12.52.04 PM.jpeg",
+    "image": "/images/products/899/WhatsApp Image 2026-09-08 at 12.52.04 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.115Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-137",
+    "productCode": "RC-2PC-137",
+    "slug": "wine-botanical-motif-two-piece-coordinated-kurti-set-rc-2pc-137",
+    "name": "Wine Botanical Motif Two-Piece Coordinated Kurti Set",
+    "shortDescription": "Curated two-piece coordinated kurti set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted wine botanical motif two-piece coordinated kurti set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 899,
+    "compareAtPrice": 1499,
+    "color": "Wine",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Tailored Set"
+    ],
+    "images": [
+      "/images/products/899/WhatsApp Image 2026-09-08 at 12.52.05 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/899/WhatsApp Image 2026-09-08 at 12.52.05 PM (1).jpeg",
+    "image": "/images/products/899/WhatsApp Image 2026-09-08 at 12.52.05 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.115Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-138",
+    "productCode": "RC-2PC-138",
+    "slug": "brown-bandhani-art-two-piece-coordinated-kurti-set-rc-2pc-138",
+    "name": "Brown Bandhani Art Two-Piece Coordinated Kurti Set",
+    "shortDescription": "Curated two-piece coordinated kurti set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown bandhani art two-piece coordinated kurti set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Everyday",
+      "Printed"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 899,
+    "compareAtPrice": 1499,
+    "color": "Brown",
+    "style": [
+      "Printed",
+      "Contemporary",
+      "Tailored Set"
+    ],
+    "images": [
+      "/images/products/899/WhatsApp Image 2026-09-08 at 12.52.05 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/899/WhatsApp Image 2026-09-08 at 12.52.05 PM (2).jpeg",
+    "image": "/images/products/899/WhatsApp Image 2026-09-08 at 12.52.05 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.116Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-058",
+    "productCode": "RC-3PC-058",
+    "slug": "peach-traditional-booti-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-058",
+    "name": "Peach Traditional Booti Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach traditional booti three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.03.38 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.03.38 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.03.38 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.117Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-139",
+    "productCode": "RC-2PC-139",
+    "slug": "navy-abstract-printed-two-piece-embroidered-kurti-pant-set-rc-2pc-139",
+    "name": "Navy Abstract Printed Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy abstract printed two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Navy",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.03.39 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.03.39 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.03.39 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.118Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-059",
+    "productCode": "RC-3PC-059",
+    "slug": "mustard-artisanal-handblock-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-059",
+    "name": "Mustard Artisanal Handblock Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard artisanal handblock three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.03.39 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.03.39 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.03.39 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.118Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-140",
+    "productCode": "RC-2PC-140",
+    "slug": "black-geometric-block-printed-two-piece-embroidered-kurti-pant-set-rc-2pc-140",
+    "name": "Black Geometric Block Printed Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black geometric block printed two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.03.39 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.03.39 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.03.39 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.119Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-060",
+    "productCode": "RC-3PC-060",
+    "slug": "olive-heritage-zari-work-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-060",
+    "name": "Olive Heritage Zari Work Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive heritage zari work three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.03.40 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.03.40 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.03.40 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.120Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-141",
+    "productCode": "RC-2PC-141",
+    "slug": "beige-festive-embellished-two-piece-embroidered-kurti-pant-set-rc-2pc-141",
+    "name": "Beige Festive Embellished Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige festive embellished two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.03.40 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.03.40 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.03.40 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.120Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-061",
+    "productCode": "RC-3PC-061",
+    "slug": "green-paisley-embroidered-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-061",
+    "name": "Green Paisley Embroidered Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green paisley embroidered three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.03.40 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.03.40 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.03.40 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.121Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-142",
+    "productCode": "RC-2PC-142",
+    "slug": "brown-botanical-motif-two-piece-embroidered-kurti-pant-set-rc-2pc-142",
+    "name": "Brown Botanical Motif Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown botanical motif two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.03.41 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.03.41 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.03.41 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.121Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-062",
+    "productCode": "RC-3PC-062",
+    "slug": "pink-chikankari-embroidered-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-062",
+    "name": "Pink Chikankari Embroidered Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink chikankari embroidered three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.22 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.22 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.22 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.122Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-143",
+    "productCode": "RC-2PC-143",
+    "slug": "teal-traditional-booti-two-piece-embroidered-kurti-pant-set-rc-2pc-143",
+    "name": "Teal Traditional Booti Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal traditional booti two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Teal",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.22 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.22 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.22 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.122Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-063",
+    "productCode": "RC-3PC-063",
+    "slug": "peach-lace-bordered-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-063",
+    "name": "Peach Lace Bordered Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach lace bordered three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.23 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.23 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.23 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.123Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-144",
+    "productCode": "RC-2PC-144",
+    "slug": "navy-artisanal-handblock-two-piece-embroidered-kurti-pant-set-rc-2pc-144",
+    "name": "Navy Artisanal Handblock Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy artisanal handblock two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Navy",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.23 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.23 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.23 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.124Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-064",
+    "productCode": "RC-3PC-064",
+    "slug": "mustard-floral-printed-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-064",
+    "name": "Mustard Floral Printed Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard floral printed three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.23 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.23 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.23 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.124Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-145",
+    "productCode": "RC-2PC-145",
+    "slug": "black-heritage-zari-work-two-piece-embroidered-kurti-pant-set-rc-2pc-145",
+    "name": "Black Heritage Zari Work Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black heritage zari work two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.24 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.24 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.24 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.125Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-065",
+    "productCode": "RC-3PC-065",
+    "slug": "olive-bandhani-art-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-065",
+    "name": "Olive Bandhani Art Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive bandhani art three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.24 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.24 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.24 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.126Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-146",
+    "productCode": "RC-2PC-146",
+    "slug": "beige-paisley-embroidered-two-piece-embroidered-kurti-pant-set-rc-2pc-146",
+    "name": "Beige Paisley Embroidered Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige paisley embroidered two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.24 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.24 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.24 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.126Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-066",
+    "productCode": "RC-3PC-066",
+    "slug": "green-abstract-printed-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-066",
+    "name": "Green Abstract Printed Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green abstract printed three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.25 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.25 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.25 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.127Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-147",
+    "productCode": "RC-2PC-147",
+    "slug": "brown-chikankari-embroidered-two-piece-embroidered-kurti-pant-set-rc-2pc-147",
+    "name": "Brown Chikankari Embroidered Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown chikankari embroidered two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.25 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.25 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.25 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.127Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-067",
+    "productCode": "RC-3PC-067",
+    "slug": "pink-geometric-block-printed-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-067",
+    "name": "Pink Geometric Block Printed Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink geometric block printed three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.25 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.25 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.25 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.128Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-148",
+    "productCode": "RC-2PC-148",
+    "slug": "teal-lace-bordered-two-piece-embroidered-kurti-pant-set-rc-2pc-148",
+    "name": "Teal Lace Bordered Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal lace bordered two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Teal",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.26 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.26 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.26 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.129Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-068",
+    "productCode": "RC-3PC-068",
+    "slug": "peach-festive-embellished-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-068",
+    "name": "Peach Festive Embellished Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach festive embellished three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.26 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.26 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.26 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.129Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-149",
+    "productCode": "RC-2PC-149",
+    "slug": "navy-floral-printed-two-piece-embroidered-kurti-pant-set-rc-2pc-149",
+    "name": "Navy Floral Printed Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy floral printed two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Navy",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.26 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.26 PM (3).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.26 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.130Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-069",
+    "productCode": "RC-3PC-069",
+    "slug": "mustard-botanical-motif-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-069",
+    "name": "Mustard Botanical Motif Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard botanical motif three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.26 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.26 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.26 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.131Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-150",
+    "productCode": "RC-2PC-150",
+    "slug": "black-bandhani-art-two-piece-embroidered-kurti-pant-set-rc-2pc-150",
+    "name": "Black Bandhani Art Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black bandhani art two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.27 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.27 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.27 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.131Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-070",
+    "productCode": "RC-3PC-070",
+    "slug": "olive-traditional-booti-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-070",
+    "name": "Olive Traditional Booti Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive traditional booti three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.27 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.27 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.27 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.132Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-151",
+    "productCode": "RC-2PC-151",
+    "slug": "beige-abstract-printed-two-piece-embroidered-kurti-pant-set-rc-2pc-151",
+    "name": "Beige Abstract Printed Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige abstract printed two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.28 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.28 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.28 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.133Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-071",
+    "productCode": "RC-3PC-071",
+    "slug": "green-artisanal-handblock-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-071",
+    "name": "Green Artisanal Handblock Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green artisanal handblock three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.28 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.28 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.28 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.133Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-152",
+    "productCode": "RC-2PC-152",
+    "slug": "brown-geometric-block-printed-two-piece-embroidered-kurti-pant-set-rc-2pc-152",
+    "name": "Brown Geometric Block Printed Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown geometric block printed two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.28 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.28 PM (3).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.28 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.134Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-072",
+    "productCode": "RC-3PC-072",
+    "slug": "pink-heritage-zari-work-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-072",
+    "name": "Pink Heritage Zari Work Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink heritage zari work three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.28 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.28 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.28 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.135Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-153",
+    "productCode": "RC-2PC-153",
+    "slug": "teal-festive-embellished-two-piece-embroidered-kurti-pant-set-rc-2pc-153",
+    "name": "Teal Festive Embellished Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal festive embellished two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Teal",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.29 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.29 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.29 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.135Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-073",
+    "productCode": "RC-3PC-073",
+    "slug": "peach-paisley-embroidered-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-073",
+    "name": "Peach Paisley Embroidered Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach paisley embroidered three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.29 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.29 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.29 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.136Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-154",
+    "productCode": "RC-2PC-154",
+    "slug": "navy-botanical-motif-two-piece-embroidered-kurti-pant-set-rc-2pc-154",
+    "name": "Navy Botanical Motif Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy botanical motif two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Navy",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.29 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.29 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.29 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.136Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-074",
+    "productCode": "RC-3PC-074",
+    "slug": "mustard-chikankari-embroidered-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-074",
+    "name": "Mustard Chikankari Embroidered Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard chikankari embroidered three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.30 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.30 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.30 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.137Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-155",
+    "productCode": "RC-2PC-155",
+    "slug": "black-traditional-booti-two-piece-embroidered-kurti-pant-set-rc-2pc-155",
+    "name": "Black Traditional Booti Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black traditional booti two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.30 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.30 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.30 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.138Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-075",
+    "productCode": "RC-3PC-075",
+    "slug": "olive-lace-bordered-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-075",
+    "name": "Olive Lace Bordered Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive lace bordered three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.31 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.31 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.31 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.138Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-156",
+    "productCode": "RC-2PC-156",
+    "slug": "beige-artisanal-handblock-two-piece-embroidered-kurti-pant-set-rc-2pc-156",
+    "name": "Beige Artisanal Handblock Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige artisanal handblock two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.31 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.31 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.31 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.139Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-076",
+    "productCode": "RC-3PC-076",
+    "slug": "green-floral-printed-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-076",
+    "name": "Green Floral Printed Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green floral printed three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.31 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.31 PM (3).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.31 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.139Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-157",
+    "productCode": "RC-2PC-157",
+    "slug": "brown-heritage-zari-work-two-piece-embroidered-kurti-pant-set-rc-2pc-157",
+    "name": "Brown Heritage Zari Work Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown heritage zari work two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.31 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.31 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.31 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.140Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-077",
+    "productCode": "RC-3PC-077",
+    "slug": "pink-bandhani-art-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-077",
+    "name": "Pink Bandhani Art Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink bandhani art three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.32 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.32 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.32 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.141Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-158",
+    "productCode": "RC-2PC-158",
+    "slug": "teal-paisley-embroidered-two-piece-embroidered-kurti-pant-set-rc-2pc-158",
+    "name": "Teal Paisley Embroidered Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal paisley embroidered two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Teal",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.32 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.32 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.32 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.141Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-078",
+    "productCode": "RC-3PC-078",
+    "slug": "peach-abstract-printed-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-078",
+    "name": "Peach Abstract Printed Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach abstract printed three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.32 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.32 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.32 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.143Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-159",
+    "productCode": "RC-2PC-159",
+    "slug": "navy-chikankari-embroidered-two-piece-embroidered-kurti-pant-set-rc-2pc-159",
+    "name": "Navy Chikankari Embroidered Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy chikankari embroidered two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Navy",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.33 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.33 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.33 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.143Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-079",
+    "productCode": "RC-3PC-079",
+    "slug": "mustard-geometric-block-printed-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-079",
+    "name": "Mustard Geometric Block Printed Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard geometric block printed three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.33 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.33 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.33 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.144Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-160",
+    "productCode": "RC-2PC-160",
+    "slug": "black-lace-bordered-two-piece-embroidered-kurti-pant-set-rc-2pc-160",
+    "name": "Black Lace Bordered Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black lace bordered two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.33 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.33 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.33 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.145Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-080",
+    "productCode": "RC-3PC-080",
+    "slug": "olive-festive-embellished-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-080",
+    "name": "Olive Festive Embellished Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive festive embellished three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.34 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.34 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.34 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.145Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-161",
+    "productCode": "RC-2PC-161",
+    "slug": "beige-floral-printed-two-piece-embroidered-kurti-pant-set-rc-2pc-161",
+    "name": "Beige Floral Printed Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige floral printed two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.34 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.34 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.34 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.146Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-081",
+    "productCode": "RC-3PC-081",
+    "slug": "green-botanical-motif-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-081",
+    "name": "Green Botanical Motif Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green botanical motif three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.34 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.34 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.34 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.147Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-162",
+    "productCode": "RC-2PC-162",
+    "slug": "brown-bandhani-art-two-piece-embroidered-kurti-pant-set-rc-2pc-162",
+    "name": "Brown Bandhani Art Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown bandhani art two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.35 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.35 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 1.05.35 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.147Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-082",
+    "productCode": "RC-3PC-082",
+    "slug": "pink-traditional-booti-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-082",
+    "name": "Pink Traditional Booti Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink traditional booti three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.10 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.10 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.10 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.148Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-163",
+    "productCode": "RC-2PC-163",
+    "slug": "teal-abstract-printed-two-piece-embroidered-kurti-pant-set-rc-2pc-163",
+    "name": "Teal Abstract Printed Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal abstract printed two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Teal",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.10 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.10 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.10 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.149Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-083",
+    "productCode": "RC-3PC-083",
+    "slug": "peach-artisanal-handblock-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-083",
+    "name": "Peach Artisanal Handblock Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach artisanal handblock three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.11 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.11 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.11 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.150Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-164",
+    "productCode": "RC-2PC-164",
+    "slug": "navy-geometric-block-printed-two-piece-embroidered-kurti-pant-set-rc-2pc-164",
+    "name": "Navy Geometric Block Printed Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy geometric block printed two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Navy",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.11 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.11 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.11 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.150Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-084",
+    "productCode": "RC-3PC-084",
+    "slug": "mustard-heritage-zari-work-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-084",
+    "name": "Mustard Heritage Zari Work Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard heritage zari work three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.11 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.11 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.11 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.151Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-165",
+    "productCode": "RC-2PC-165",
+    "slug": "black-festive-embellished-two-piece-embroidered-kurti-pant-set-rc-2pc-165",
+    "name": "Black Festive Embellished Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black festive embellished two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.12 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.12 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.12 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.151Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-085",
+    "productCode": "RC-3PC-085",
+    "slug": "olive-paisley-embroidered-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-085",
+    "name": "Olive Paisley Embroidered Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive paisley embroidered three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.12 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.12 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.12 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.152Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-166",
+    "productCode": "RC-2PC-166",
+    "slug": "beige-botanical-motif-two-piece-embroidered-kurti-pant-set-rc-2pc-166",
+    "name": "Beige Botanical Motif Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige botanical motif two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.12 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.12 PM (3).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.12 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.153Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-086",
+    "productCode": "RC-3PC-086",
+    "slug": "green-chikankari-embroidered-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-086",
+    "name": "Green Chikankari Embroidered Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green chikankari embroidered three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.12 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.12 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.12 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.154Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-167",
+    "productCode": "RC-2PC-167",
+    "slug": "brown-traditional-booti-two-piece-embroidered-kurti-pant-set-rc-2pc-167",
+    "name": "Brown Traditional Booti Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown traditional booti two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.13 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.13 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.13 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.154Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-087",
+    "productCode": "RC-3PC-087",
+    "slug": "pink-lace-bordered-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-087",
+    "name": "Pink Lace Bordered Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink lace bordered three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.13 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.13 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.13 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.155Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-168",
+    "productCode": "RC-2PC-168",
+    "slug": "teal-artisanal-handblock-two-piece-embroidered-kurti-pant-set-rc-2pc-168",
+    "name": "Teal Artisanal Handblock Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal artisanal handblock two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Teal",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.13 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.13 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.13 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.156Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-088",
+    "productCode": "RC-3PC-088",
+    "slug": "peach-floral-printed-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-088",
+    "name": "Peach Floral Printed Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach floral printed three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.14 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.14 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.14 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.156Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-169",
+    "productCode": "RC-2PC-169",
+    "slug": "navy-heritage-zari-work-two-piece-embroidered-kurti-pant-set-rc-2pc-169",
+    "name": "Navy Heritage Zari Work Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy heritage zari work two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Navy",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.14 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.14 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.14 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.157Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-089",
+    "productCode": "RC-3PC-089",
+    "slug": "mustard-bandhani-art-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-089",
+    "name": "Mustard Bandhani Art Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard bandhani art three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.14 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.14 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.14 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.157Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-170",
+    "productCode": "RC-2PC-170",
+    "slug": "black-paisley-embroidered-two-piece-embroidered-kurti-pant-set-rc-2pc-170",
+    "name": "Black Paisley Embroidered Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black paisley embroidered two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.15 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.15 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.15 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.158Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-090",
+    "productCode": "RC-3PC-090",
+    "slug": "olive-abstract-printed-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-090",
+    "name": "Olive Abstract Printed Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive abstract printed three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.15 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.15 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.43.15 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.158Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-171",
+    "productCode": "RC-2PC-171",
+    "slug": "beige-chikankari-embroidered-two-piece-embroidered-kurti-pant-set-rc-2pc-171",
+    "name": "Beige Chikankari Embroidered Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige chikankari embroidered two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.01 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.01 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.01 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.159Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-172",
+    "productCode": "RC-2PC-172",
+    "slug": "mustard-paisley-embroidered-two-piece-embroidered-kurti-pant-set-rc-2pc-172",
+    "name": "Mustard Paisley Embroidered Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard paisley embroidered two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.02 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.02 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.02 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.162Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-173",
+    "productCode": "RC-2PC-173",
+    "slug": "brown-floral-printed-two-piece-embroidered-kurti-pant-set-rc-2pc-173",
+    "name": "Brown Floral Printed Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown floral printed two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.06 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.06 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.06 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.169Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-091",
+    "productCode": "RC-3PC-091",
+    "slug": "black-lace-bordered-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-091",
+    "name": "Black Lace Bordered Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black lace bordered three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.06 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.06 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.06 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.170Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-092",
+    "productCode": "RC-3PC-092",
+    "slug": "beige-floral-printed-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-092",
+    "name": "Beige Floral Printed Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige floral printed three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.07 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.07 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.07 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.172Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-174",
+    "productCode": "RC-2PC-174",
+    "slug": "olive-lace-bordered-two-piece-embroidered-kurti-pant-set-rc-2pc-174",
+    "name": "Olive Lace Bordered Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive lace bordered two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.07 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.07 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.07 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.172Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-093",
+    "productCode": "RC-3PC-093",
+    "slug": "brown-bandhani-art-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-093",
+    "name": "Brown Bandhani Art Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown bandhani art three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.07 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.07 PM (3).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.07 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.173Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-175",
+    "productCode": "RC-2PC-175",
+    "slug": "green-floral-printed-two-piece-embroidered-kurti-pant-set-rc-2pc-175",
+    "name": "Green Floral Printed Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green floral printed two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.07 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.07 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.07 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.174Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-094",
+    "productCode": "RC-3PC-094",
+    "slug": "teal-abstract-printed-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-094",
+    "name": "Teal Abstract Printed Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal abstract printed three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Teal",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.08 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.08 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.08 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.174Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-176",
+    "productCode": "RC-2PC-176",
+    "slug": "pink-bandhani-art-two-piece-embroidered-kurti-pant-set-rc-2pc-176",
+    "name": "Pink Bandhani Art Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink bandhani art two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.08 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.08 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.08 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.175Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-095",
+    "productCode": "RC-3PC-095",
+    "slug": "navy-geometric-block-printed-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-095",
+    "name": "Navy Geometric Block Printed Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy geometric block printed three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Navy",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.08 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.08 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.08 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.175Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-177",
+    "productCode": "RC-2PC-177",
+    "slug": "peach-abstract-printed-two-piece-embroidered-kurti-pant-set-rc-2pc-177",
+    "name": "Peach Abstract Printed Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach abstract printed two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.09 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.09 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.47.09 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.176Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-096",
+    "productCode": "RC-3PC-096",
+    "slug": "black-festive-embellished-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-096",
+    "name": "Black Festive Embellished Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black festive embellished three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.04 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.04 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.04 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.177Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-178",
+    "productCode": "RC-2PC-178",
+    "slug": "mustard-geometric-block-printed-two-piece-embroidered-kurti-pant-set-rc-2pc-178",
+    "name": "Mustard Geometric Block Printed Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard geometric block printed two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.04 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.04 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.04 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.177Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-097",
+    "productCode": "RC-3PC-097",
+    "slug": "beige-botanical-motif-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-097",
+    "name": "Beige Botanical Motif Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige botanical motif three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.04 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.04 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.04 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.178Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-179",
+    "productCode": "RC-2PC-179",
+    "slug": "olive-festive-embellished-two-piece-embroidered-kurti-pant-set-rc-2pc-179",
+    "name": "Olive Festive Embellished Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive festive embellished two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.05 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.05 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.05 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.178Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-098",
+    "productCode": "RC-3PC-098",
+    "slug": "brown-traditional-booti-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-098",
+    "name": "Brown Traditional Booti Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown traditional booti three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.05 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.05 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.05 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.179Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-180",
+    "productCode": "RC-2PC-180",
+    "slug": "green-botanical-motif-two-piece-embroidered-kurti-pant-set-rc-2pc-180",
+    "name": "Green Botanical Motif Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green botanical motif two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.05 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.05 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.05 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.179Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-099",
+    "productCode": "RC-3PC-099",
+    "slug": "teal-artisanal-handblock-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-099",
+    "name": "Teal Artisanal Handblock Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal artisanal handblock three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Teal",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.06 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.06 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.06 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.180Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-181",
+    "productCode": "RC-2PC-181",
+    "slug": "pink-traditional-booti-two-piece-embroidered-kurti-pant-set-rc-2pc-181",
+    "name": "Pink Traditional Booti Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink traditional booti two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.06 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.06 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.06 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.181Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-100",
+    "productCode": "RC-3PC-100",
+    "slug": "navy-heritage-zari-work-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-100",
+    "name": "Navy Heritage Zari Work Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy heritage zari work three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Navy",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.51 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.51 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.51 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.181Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-182",
+    "productCode": "RC-2PC-182",
+    "slug": "peach-artisanal-handblock-two-piece-embroidered-kurti-pant-set-rc-2pc-182",
+    "name": "Peach Artisanal Handblock Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach artisanal handblock two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.52 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.52 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.52 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.182Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-101",
+    "productCode": "RC-3PC-101",
+    "slug": "black-paisley-embroidered-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-101",
+    "name": "Black Paisley Embroidered Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black paisley embroidered three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.52 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.52 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.52 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.183Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-183",
+    "productCode": "RC-2PC-183",
+    "slug": "mustard-heritage-zari-work-two-piece-embroidered-kurti-pant-set-rc-2pc-183",
+    "name": "Mustard Heritage Zari Work Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard heritage zari work two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.52 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.52 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.52 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.183Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-102",
+    "productCode": "RC-3PC-102",
+    "slug": "beige-chikankari-embroidered-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-102",
+    "name": "Beige Chikankari Embroidered Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige chikankari embroidered three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.53 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.53 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.53 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.184Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-184",
+    "productCode": "RC-2PC-184",
+    "slug": "olive-paisley-embroidered-two-piece-embroidered-kurti-pant-set-rc-2pc-184",
+    "name": "Olive Paisley Embroidered Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive paisley embroidered two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.53 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.53 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.53 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.184Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-103",
+    "productCode": "RC-3PC-103",
+    "slug": "brown-lace-bordered-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-103",
+    "name": "Brown Lace Bordered Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown lace bordered three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.53 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.53 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.53 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.185Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-185",
+    "productCode": "RC-2PC-185",
+    "slug": "green-chikankari-embroidered-two-piece-embroidered-kurti-pant-set-rc-2pc-185",
+    "name": "Green Chikankari Embroidered Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green chikankari embroidered two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.54 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.54 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.54 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.186Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-104",
+    "productCode": "RC-3PC-104",
+    "slug": "teal-floral-printed-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-104",
+    "name": "Teal Floral Printed Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal floral printed three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Teal",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.54 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.54 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.54 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.186Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-186",
+    "productCode": "RC-2PC-186",
+    "slug": "pink-lace-bordered-two-piece-embroidered-kurti-pant-set-rc-2pc-186",
+    "name": "Pink Lace Bordered Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink lace bordered two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.54 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.54 PM (3).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.54 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.187Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-105",
+    "productCode": "RC-3PC-105",
+    "slug": "navy-bandhani-art-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-105",
+    "name": "Navy Bandhani Art Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy bandhani art three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Navy",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.54 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.54 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.54 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.188Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-187",
+    "productCode": "RC-2PC-187",
+    "slug": "peach-floral-printed-two-piece-embroidered-kurti-pant-set-rc-2pc-187",
+    "name": "Peach Floral Printed Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach floral printed two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.55 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.55 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.55 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.188Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-106",
+    "productCode": "RC-3PC-106",
+    "slug": "black-abstract-printed-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-106",
+    "name": "Black Abstract Printed Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black abstract printed three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.55 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.55 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.55 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.189Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-188",
+    "productCode": "RC-2PC-188",
+    "slug": "mustard-bandhani-art-two-piece-embroidered-kurti-pant-set-rc-2pc-188",
+    "name": "Mustard Bandhani Art Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard bandhani art two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.55 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.55 PM (3).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.55 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.190Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-107",
+    "productCode": "RC-3PC-107",
+    "slug": "beige-geometric-block-printed-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-107",
+    "name": "Beige Geometric Block Printed Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige geometric block printed three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.55 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.55 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.55 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.190Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-189",
+    "productCode": "RC-2PC-189",
+    "slug": "olive-abstract-printed-two-piece-embroidered-kurti-pant-set-rc-2pc-189",
+    "name": "Olive Abstract Printed Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive abstract printed two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.56 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.56 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.56 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.191Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-108",
+    "productCode": "RC-3PC-108",
+    "slug": "brown-festive-embellished-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-108",
+    "name": "Brown Festive Embellished Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown festive embellished three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.56 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.56 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.56 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.191Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-190",
+    "productCode": "RC-2PC-190",
+    "slug": "green-geometric-block-printed-two-piece-embroidered-kurti-pant-set-rc-2pc-190",
+    "name": "Green Geometric Block Printed Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green geometric block printed two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.56 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.56 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.56 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.192Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-109",
+    "productCode": "RC-3PC-109",
+    "slug": "teal-botanical-motif-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-109",
+    "name": "Teal Botanical Motif Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal botanical motif three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Teal",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.57 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.57 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.57 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.193Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-191",
+    "productCode": "RC-2PC-191",
+    "slug": "pink-festive-embellished-two-piece-embroidered-kurti-pant-set-rc-2pc-191",
+    "name": "Pink Festive Embellished Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink festive embellished two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.57 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.57 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.57 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.194Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-110",
+    "productCode": "RC-3PC-110",
+    "slug": "navy-traditional-booti-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-110",
+    "name": "Navy Traditional Booti Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy traditional booti three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Navy",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.57 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.57 PM (3).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.57 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.194Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-192",
+    "productCode": "RC-2PC-192",
+    "slug": "peach-botanical-motif-two-piece-embroidered-kurti-pant-set-rc-2pc-192",
+    "name": "Peach Botanical Motif Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach botanical motif two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.57 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.57 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.57 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.195Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-111",
+    "productCode": "RC-3PC-111",
+    "slug": "black-artisanal-handblock-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-111",
+    "name": "Black Artisanal Handblock Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black artisanal handblock three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.58 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.58 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.58 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.196Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-193",
+    "productCode": "RC-2PC-193",
+    "slug": "mustard-traditional-booti-two-piece-embroidered-kurti-pant-set-rc-2pc-193",
+    "name": "Mustard Traditional Booti Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard traditional booti two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.58 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.58 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.58 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.196Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-112",
+    "productCode": "RC-3PC-112",
+    "slug": "beige-heritage-zari-work-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-112",
+    "name": "Beige Heritage Zari Work Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige heritage zari work three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.58 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.58 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.58 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.197Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-194",
+    "productCode": "RC-2PC-194",
+    "slug": "olive-artisanal-handblock-two-piece-embroidered-kurti-pant-set-rc-2pc-194",
+    "name": "Olive Artisanal Handblock Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive artisanal handblock two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.59 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.59 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.59 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.198Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-113",
+    "productCode": "RC-3PC-113",
+    "slug": "brown-paisley-embroidered-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-113",
+    "name": "Brown Paisley Embroidered Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown paisley embroidered three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.59 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.59 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.59 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.198Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-195",
+    "productCode": "RC-2PC-195",
+    "slug": "green-heritage-zari-work-two-piece-embroidered-kurti-pant-set-rc-2pc-195",
+    "name": "Green Heritage Zari Work Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green heritage zari work two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.59 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.59 PM (3).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.59 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.199Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-114",
+    "productCode": "RC-3PC-114",
+    "slug": "teal-chikankari-embroidered-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-114",
+    "name": "Teal Chikankari Embroidered Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal chikankari embroidered three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Teal",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.59 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.59 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.48.59 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.199Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-196",
+    "productCode": "RC-2PC-196",
+    "slug": "pink-paisley-embroidered-two-piece-embroidered-kurti-pant-set-rc-2pc-196",
+    "name": "Pink Paisley Embroidered Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink paisley embroidered two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.00 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.00 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.00 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.200Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-115",
+    "productCode": "RC-3PC-115",
+    "slug": "navy-lace-bordered-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-115",
+    "name": "Navy Lace Bordered Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy lace bordered three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Navy",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.00 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.00 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.00 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.201Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-197",
+    "productCode": "RC-2PC-197",
+    "slug": "peach-chikankari-embroidered-two-piece-embroidered-kurti-pant-set-rc-2pc-197",
+    "name": "Peach Chikankari Embroidered Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach chikankari embroidered two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.00 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.00 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.00 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.202Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-116",
+    "productCode": "RC-3PC-116",
+    "slug": "black-floral-printed-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-116",
+    "name": "Black Floral Printed Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black floral printed three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.01 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.01 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.01 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.203Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-198",
+    "productCode": "RC-2PC-198",
+    "slug": "mustard-lace-bordered-two-piece-embroidered-kurti-pant-set-rc-2pc-198",
+    "name": "Mustard Lace Bordered Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard lace bordered two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.01 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.01 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.01 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.204Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-117",
+    "productCode": "RC-3PC-117",
+    "slug": "beige-bandhani-art-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-117",
+    "name": "Beige Bandhani Art Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige bandhani art three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.01 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.01 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.01 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.204Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-199",
+    "productCode": "RC-2PC-199",
+    "slug": "olive-floral-printed-two-piece-embroidered-kurti-pant-set-rc-2pc-199",
+    "name": "Olive Floral Printed Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive floral printed two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.02 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.02 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.02 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.205Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-118",
+    "productCode": "RC-3PC-118",
+    "slug": "brown-abstract-printed-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-118",
+    "name": "Brown Abstract Printed Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown abstract printed three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.02 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.02 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.02 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.205Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-200",
+    "productCode": "RC-2PC-200",
+    "slug": "green-bandhani-art-two-piece-embroidered-kurti-pant-set-rc-2pc-200",
+    "name": "Green Bandhani Art Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green bandhani art two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.02 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.02 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.02 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.206Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-119",
+    "productCode": "RC-3PC-119",
+    "slug": "teal-geometric-block-printed-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-119",
+    "name": "Teal Geometric Block Printed Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal geometric block printed three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Teal",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.03 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.03 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.03 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.207Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-201",
+    "productCode": "RC-2PC-201",
+    "slug": "pink-abstract-printed-two-piece-embroidered-kurti-pant-set-rc-2pc-201",
+    "name": "Pink Abstract Printed Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink abstract printed two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.03 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.03 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.03 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.207Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-120",
+    "productCode": "RC-3PC-120",
+    "slug": "navy-festive-embellished-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-120",
+    "name": "Navy Festive Embellished Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy festive embellished three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Navy",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.03 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.03 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.03 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.208Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-202",
+    "productCode": "RC-2PC-202",
+    "slug": "peach-geometric-block-printed-two-piece-embroidered-kurti-pant-set-rc-2pc-202",
+    "name": "Peach Geometric Block Printed Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach geometric block printed two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.04 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.04 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.04 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.209Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-121",
+    "productCode": "RC-3PC-121",
+    "slug": "black-botanical-motif-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-121",
+    "name": "Black Botanical Motif Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black botanical motif three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.04 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.04 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.04 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.210Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-203",
+    "productCode": "RC-2PC-203",
+    "slug": "mustard-festive-embellished-two-piece-embroidered-kurti-pant-set-rc-2pc-203",
+    "name": "Mustard Festive Embellished Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard festive embellished two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.04 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.04 PM (3).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.04 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.211Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-122",
+    "productCode": "RC-3PC-122",
+    "slug": "beige-traditional-booti-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-122",
+    "name": "Beige Traditional Booti Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige traditional booti three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.04 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.04 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.04 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.212Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-204",
+    "productCode": "RC-2PC-204",
+    "slug": "olive-botanical-motif-two-piece-embroidered-kurti-pant-set-rc-2pc-204",
+    "name": "Olive Botanical Motif Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive botanical motif two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.05 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.05 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.05 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.213Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-123",
+    "productCode": "RC-3PC-123",
+    "slug": "brown-artisanal-handblock-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-123",
+    "name": "Brown Artisanal Handblock Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown artisanal handblock three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.05 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.05 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.05 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.214Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-205",
+    "productCode": "RC-2PC-205",
+    "slug": "green-traditional-booti-two-piece-embroidered-kurti-pant-set-rc-2pc-205",
+    "name": "Green Traditional Booti Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green traditional booti two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.05 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.05 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.49.05 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.215Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-124",
+    "productCode": "RC-3PC-124",
+    "slug": "teal-heritage-zari-work-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-124",
+    "name": "Teal Heritage Zari Work Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal heritage zari work three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Teal",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.13 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.13 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.13 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.216Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-206",
+    "productCode": "RC-2PC-206",
+    "slug": "pink-artisanal-handblock-two-piece-embroidered-kurti-pant-set-rc-2pc-206",
+    "name": "Pink Artisanal Handblock Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink artisanal handblock two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.13 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.13 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.13 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.216Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-125",
+    "productCode": "RC-3PC-125",
+    "slug": "navy-paisley-embroidered-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-125",
+    "name": "Navy Paisley Embroidered Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy paisley embroidered three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Navy",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.14 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.14 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.14 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.217Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-207",
+    "productCode": "RC-2PC-207",
+    "slug": "peach-heritage-zari-work-two-piece-embroidered-kurti-pant-set-rc-2pc-207",
+    "name": "Peach Heritage Zari Work Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach heritage zari work two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.14 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.14 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.14 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.218Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-126",
+    "productCode": "RC-3PC-126",
+    "slug": "black-chikankari-embroidered-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-126",
+    "name": "Black Chikankari Embroidered Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black chikankari embroidered three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.14 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.14 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.14 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.218Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-208",
+    "productCode": "RC-2PC-208",
+    "slug": "mustard-paisley-embroidered-two-piece-embroidered-kurti-pant-set-rc-2pc-208",
+    "name": "Mustard Paisley Embroidered Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard paisley embroidered two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.15 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.15 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.15 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.219Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-127",
+    "productCode": "RC-3PC-127",
+    "slug": "beige-lace-bordered-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-127",
+    "name": "Beige Lace Bordered Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige lace bordered three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.15 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.15 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.15 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.219Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-209",
+    "productCode": "RC-2PC-209",
+    "slug": "olive-chikankari-embroidered-two-piece-embroidered-kurti-pant-set-rc-2pc-209",
+    "name": "Olive Chikankari Embroidered Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive chikankari embroidered two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.15 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.15 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.15 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.222Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-128",
+    "productCode": "RC-3PC-128",
+    "slug": "brown-floral-printed-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-128",
+    "name": "Brown Floral Printed Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown floral printed three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.16 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.16 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.16 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.222Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-210",
+    "productCode": "RC-2PC-210",
+    "slug": "green-lace-bordered-two-piece-embroidered-kurti-pant-set-rc-2pc-210",
+    "name": "Green Lace Bordered Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green lace bordered two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.16 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.16 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.16 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.223Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-129",
+    "productCode": "RC-3PC-129",
+    "slug": "teal-bandhani-art-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-129",
+    "name": "Teal Bandhani Art Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal bandhani art three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Teal",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.16 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.16 PM (3).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.16 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.223Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-211",
+    "productCode": "RC-2PC-211",
+    "slug": "pink-floral-printed-two-piece-embroidered-kurti-pant-set-rc-2pc-211",
+    "name": "Pink Floral Printed Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink floral printed two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.16 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.16 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.16 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.224Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-130",
+    "productCode": "RC-3PC-130",
+    "slug": "navy-abstract-printed-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-130",
+    "name": "Navy Abstract Printed Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy abstract printed three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Navy",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.17 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.17 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.17 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.224Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-212",
+    "productCode": "RC-2PC-212",
+    "slug": "peach-bandhani-art-two-piece-embroidered-kurti-pant-set-rc-2pc-212",
+    "name": "Peach Bandhani Art Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach bandhani art two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.17 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.17 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.17 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.225Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-131",
+    "productCode": "RC-3PC-131",
+    "slug": "black-geometric-block-printed-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-131",
+    "name": "Black Geometric Block Printed Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black geometric block printed three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.17 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.17 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.17 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.226Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-213",
+    "productCode": "RC-2PC-213",
+    "slug": "mustard-abstract-printed-two-piece-embroidered-kurti-pant-set-rc-2pc-213",
+    "name": "Mustard Abstract Printed Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard abstract printed two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.18 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.18 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.18 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.226Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-132",
+    "productCode": "RC-3PC-132",
+    "slug": "beige-festive-embellished-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-132",
+    "name": "Beige Festive Embellished Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige festive embellished three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.18 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.18 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.18 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.229Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-214",
+    "productCode": "RC-2PC-214",
+    "slug": "olive-geometric-block-printed-two-piece-embroidered-kurti-pant-set-rc-2pc-214",
+    "name": "Olive Geometric Block Printed Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive geometric block printed two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.18 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.18 PM (3).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.18 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.231Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-133",
+    "productCode": "RC-3PC-133",
+    "slug": "brown-botanical-motif-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-133",
+    "name": "Brown Botanical Motif Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown botanical motif three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.18 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.18 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.18 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.232Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-215",
+    "productCode": "RC-2PC-215",
+    "slug": "green-festive-embellished-two-piece-embroidered-kurti-pant-set-rc-2pc-215",
+    "name": "Green Festive Embellished Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green festive embellished two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.19 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.19 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.19 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.233Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-134",
+    "productCode": "RC-3PC-134",
+    "slug": "teal-traditional-booti-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-134",
+    "name": "Teal Traditional Booti Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal traditional booti three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Teal",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.19 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.19 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.19 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.234Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-216",
+    "productCode": "RC-2PC-216",
+    "slug": "pink-botanical-motif-two-piece-embroidered-kurti-pant-set-rc-2pc-216",
+    "name": "Pink Botanical Motif Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink botanical motif two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.19 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.19 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.19 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.237Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-135",
+    "productCode": "RC-3PC-135",
+    "slug": "navy-artisanal-handblock-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-135",
+    "name": "Navy Artisanal Handblock Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy artisanal handblock three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Navy",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.20 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.20 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.20 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.238Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-217",
+    "productCode": "RC-2PC-217",
+    "slug": "peach-traditional-booti-two-piece-embroidered-kurti-pant-set-rc-2pc-217",
+    "name": "Peach Traditional Booti Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach traditional booti two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.20 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.20 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.20 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.238Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-136",
+    "productCode": "RC-3PC-136",
+    "slug": "black-heritage-zari-work-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-136",
+    "name": "Black Heritage Zari Work Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black heritage zari work three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.20 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.20 PM (3).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.20 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.239Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-218",
+    "productCode": "RC-2PC-218",
+    "slug": "mustard-artisanal-handblock-two-piece-embroidered-kurti-pant-set-rc-2pc-218",
+    "name": "Mustard Artisanal Handblock Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard artisanal handblock two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.20 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.20 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.20 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.240Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-137",
+    "productCode": "RC-3PC-137",
+    "slug": "beige-paisley-embroidered-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-137",
+    "name": "Beige Paisley Embroidered Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige paisley embroidered three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.21 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.21 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.21 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.240Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-219",
+    "productCode": "RC-2PC-219",
+    "slug": "olive-heritage-zari-work-two-piece-embroidered-kurti-pant-set-rc-2pc-219",
+    "name": "Olive Heritage Zari Work Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive heritage zari work two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.21 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.21 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.21 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.241Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-138",
+    "productCode": "RC-3PC-138",
+    "slug": "brown-chikankari-embroidered-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-138",
+    "name": "Brown Chikankari Embroidered Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown chikankari embroidered three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.21 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.21 PM (3).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.21 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.243Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-220",
+    "productCode": "RC-2PC-220",
+    "slug": "green-paisley-embroidered-two-piece-embroidered-kurti-pant-set-rc-2pc-220",
+    "name": "Green Paisley Embroidered Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green paisley embroidered two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.21 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.21 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.21 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.243Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-139",
+    "productCode": "RC-3PC-139",
+    "slug": "teal-lace-bordered-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-139",
+    "name": "Teal Lace Bordered Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal lace bordered three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Teal",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.22 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.22 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.22 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.244Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-221",
+    "productCode": "RC-2PC-221",
+    "slug": "pink-chikankari-embroidered-two-piece-embroidered-kurti-pant-set-rc-2pc-221",
+    "name": "Pink Chikankari Embroidered Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink chikankari embroidered two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.22 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.22 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.53.22 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.245Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-140",
+    "productCode": "RC-3PC-140",
+    "slug": "navy-floral-printed-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-140",
+    "name": "Navy Floral Printed Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy floral printed three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Navy",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.13 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.13 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.13 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.245Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-222",
+    "productCode": "RC-2PC-222",
+    "slug": "peach-lace-bordered-two-piece-embroidered-kurti-pant-set-rc-2pc-222",
+    "name": "Peach Lace Bordered Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach lace bordered two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.13 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.13 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.13 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.246Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-141",
+    "productCode": "RC-3PC-141",
+    "slug": "black-bandhani-art-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-141",
+    "name": "Black Bandhani Art Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black bandhani art three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.13 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.13 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.13 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.247Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-223",
+    "productCode": "RC-2PC-223",
+    "slug": "maroon-chikankari-embroidered-two-piece-embroidered-kurti-pant-set-rc-2pc-223",
+    "name": "Maroon Chikankari Embroidered Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted maroon chikankari embroidered two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Maroon",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.14 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.14 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.14 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.249Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-224",
+    "productCode": "RC-2PC-224",
+    "slug": "green-bandhani-art-two-piece-embroidered-kurti-pant-set-rc-2pc-224",
+    "name": "Green Bandhani Art Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green bandhani art two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.45 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.45 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.45 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.278Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-142",
+    "productCode": "RC-3PC-142",
+    "slug": "mustard-floral-printed-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-142",
+    "name": "Mustard Floral Printed Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard floral printed three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.45 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.45 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.45 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.279Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-225",
+    "productCode": "RC-2PC-225",
+    "slug": "pink-abstract-printed-two-piece-embroidered-kurti-pant-set-rc-2pc-225",
+    "name": "Pink Abstract Printed Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink abstract printed two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.45 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.45 PM (3).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.45 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.280Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-143",
+    "productCode": "RC-3PC-143",
+    "slug": "olive-bandhani-art-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-143",
+    "name": "Olive Bandhani Art Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive bandhani art three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.45 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.45 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.45 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.280Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-226",
+    "productCode": "RC-2PC-226",
+    "slug": "peach-geometric-block-printed-two-piece-embroidered-kurti-pant-set-rc-2pc-226",
+    "name": "Peach Geometric Block Printed Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach geometric block printed two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.46 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.46 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.46 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.281Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-144",
+    "productCode": "RC-3PC-144",
+    "slug": "green-abstract-printed-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-144",
+    "name": "Green Abstract Printed Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green abstract printed three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.46 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.46 PM (2).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.46 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.282Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-227",
+    "productCode": "RC-2PC-227",
+    "slug": "mustard-festive-embellished-two-piece-embroidered-kurti-pant-set-rc-2pc-227",
+    "name": "Mustard Festive Embellished Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard festive embellished two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.46 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.46 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.46 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.282Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-145",
+    "productCode": "RC-3PC-145",
+    "slug": "pink-geometric-block-printed-three-piece-embroidered-kurti-set-with-dupatta-rc-3pc-145",
+    "name": "Pink Geometric Block Printed Three-Piece Embroidered Kurti Set with Dupatta",
+    "shortDescription": "Curated three-piece embroidered kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink geometric block printed three-piece embroidered kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Embroidered",
+      "Festive"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.47 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.47 PM (1).jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.47 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.283Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-2pc-228",
+    "productCode": "RC-2PC-228",
+    "slug": "olive-botanical-motif-two-piece-embroidered-kurti-pant-set-rc-2pc-228",
+    "name": "Olive Botanical Motif Two-Piece Embroidered Kurti & Pant Set",
+    "shortDescription": "Curated two-piece embroidered kurti & pant set crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive botanical motif two-piece embroidered kurti & pant set, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Two Piece Sets",
+    "category": [
+      "Two Piece Sets",
+      "Embroidered",
+      "Everyday"
+    ],
+    "productType": "TWO_PIECE",
+    "price": 999,
+    "compareAtPrice": 1999,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Traditional",
+      "Festive"
+    ],
+    "images": [
+      "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.47 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.47 PM.jpeg",
+    "image": "/images/products/999/WhatsApp Image 2026-09-08 at 12.58.47 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": false,
+    "createdAt": "2026-09-09T11:58:09.284Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-146",
+    "productCode": "RC-3PC-146",
+    "slug": "beige-traditional-booti-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-146",
+    "name": "Beige Traditional Booti Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige traditional booti festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.13 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.13 PM (1).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.13 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.284Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-147",
+    "productCode": "RC-3PC-147",
+    "slug": "peach-abstract-printed-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-147",
+    "name": "Peach Abstract Printed Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach abstract printed festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.13 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.13 PM (2).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.13 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.285Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-148",
+    "productCode": "RC-3PC-148",
+    "slug": "rust-chikankari-embroidered-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-148",
+    "name": "Rust Chikankari Embroidered Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted rust chikankari embroidered festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Rust",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.13 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.13 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.13 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.286Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-149",
+    "productCode": "RC-3PC-149",
+    "slug": "teal-traditional-booti-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-149",
+    "name": "Teal Traditional Booti Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal traditional booti festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Teal",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.14 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.14 PM (1).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.14 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.286Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-150",
+    "productCode": "RC-3PC-150",
+    "slug": "olive-abstract-printed-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-150",
+    "name": "Olive Abstract Printed Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive abstract printed festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.14 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.14 PM (2).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.14 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.287Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-151",
+    "productCode": "RC-3PC-151",
+    "slug": "blue-chikankari-embroidered-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-151",
+    "name": "Blue Chikankari Embroidered Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted blue chikankari embroidered festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Blue",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.14 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.14 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.14 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.288Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-152",
+    "productCode": "RC-3PC-152",
+    "slug": "black-traditional-booti-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-152",
+    "name": "Black Traditional Booti Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black traditional booti festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.15 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.15 PM (1).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.15 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.289Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-153",
+    "productCode": "RC-3PC-153",
+    "slug": "pink-abstract-printed-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-153",
+    "name": "Pink Abstract Printed Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink abstract printed festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.15 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.15 PM (2).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.15 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.289Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-154",
+    "productCode": "RC-3PC-154",
+    "slug": "wine-chikankari-embroidered-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-154",
+    "name": "Wine Chikankari Embroidered Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted wine chikankari embroidered festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Wine",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.15 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.15 PM (3).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.15 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.290Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-155",
+    "productCode": "RC-3PC-155",
+    "slug": "brown-traditional-booti-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-155",
+    "name": "Brown Traditional Booti Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown traditional booti festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.15 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.15 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.15 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.291Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-156",
+    "productCode": "RC-3PC-156",
+    "slug": "mustard-abstract-printed-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-156",
+    "name": "Mustard Abstract Printed Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard abstract printed festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.16 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.16 PM (1).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.16 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.292Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-157",
+    "productCode": "RC-3PC-157",
+    "slug": "maroon-chikankari-embroidered-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-157",
+    "name": "Maroon Chikankari Embroidered Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted maroon chikankari embroidered festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Maroon",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.16 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.16 PM (2).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.16 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.293Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-158",
+    "productCode": "RC-3PC-158",
+    "slug": "navy-traditional-booti-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-158",
+    "name": "Navy Traditional Booti Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy traditional booti festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Navy",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.16 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.16 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.16 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.293Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-159",
+    "productCode": "RC-3PC-159",
+    "slug": "green-abstract-printed-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-159",
+    "name": "Green Abstract Printed Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green abstract printed festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.17 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.17 PM (1).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.17 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.294Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-160",
+    "productCode": "RC-3PC-160",
+    "slug": "ivory-chikankari-embroidered-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-160",
+    "name": "Ivory Chikankari Embroidered Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted ivory chikankari embroidered festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Ivory",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.17 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.17 PM (2).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.17 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.295Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-161",
+    "productCode": "RC-3PC-161",
+    "slug": "beige-traditional-booti-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-161",
+    "name": "Beige Traditional Booti Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige traditional booti festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.17 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.17 PM (3).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.17 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.295Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-162",
+    "productCode": "RC-3PC-162",
+    "slug": "peach-abstract-printed-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-162",
+    "name": "Peach Abstract Printed Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach abstract printed festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.17 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.17 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.17 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.296Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-163",
+    "productCode": "RC-3PC-163",
+    "slug": "rust-chikankari-embroidered-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-163",
+    "name": "Rust Chikankari Embroidered Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted rust chikankari embroidered festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Rust",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.18 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.18 PM (1).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.18 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.297Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-164",
+    "productCode": "RC-3PC-164",
+    "slug": "teal-traditional-booti-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-164",
+    "name": "Teal Traditional Booti Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal traditional booti festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Teal",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.18 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.18 PM (2).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.18 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.297Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-165",
+    "productCode": "RC-3PC-165",
+    "slug": "olive-abstract-printed-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-165",
+    "name": "Olive Abstract Printed Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive abstract printed festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.18 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.18 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.18 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.298Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-166",
+    "productCode": "RC-3PC-166",
+    "slug": "black-heritage-zari-work-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-166",
+    "name": "Black Heritage Zari Work Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black heritage zari work festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.19 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.19 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.19 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.300Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-167",
+    "productCode": "RC-3PC-167",
+    "slug": "beige-paisley-embroidered-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-167",
+    "name": "Beige Paisley Embroidered Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige paisley embroidered festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.41 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.41 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.41 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.301Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-168",
+    "productCode": "RC-3PC-168",
+    "slug": "peach-botanical-motif-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-168",
+    "name": "Peach Botanical Motif Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach botanical motif festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.42 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.42 PM (1).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.42 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.301Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-169",
+    "productCode": "RC-3PC-169",
+    "slug": "rust-bandhani-art-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-169",
+    "name": "Rust Bandhani Art Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted rust bandhani art festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Rust",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.42 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.42 PM (2).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.42 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.302Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-170",
+    "productCode": "RC-3PC-170",
+    "slug": "teal-paisley-embroidered-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-170",
+    "name": "Teal Paisley Embroidered Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal paisley embroidered festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Teal",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.42 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.42 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.42 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.303Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-171",
+    "productCode": "RC-3PC-171",
+    "slug": "olive-botanical-motif-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-171",
+    "name": "Olive Botanical Motif Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive botanical motif festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.43 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.43 PM (1).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.43 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.303Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-172",
+    "productCode": "RC-3PC-172",
+    "slug": "blue-bandhani-art-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-172",
+    "name": "Blue Bandhani Art Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted blue bandhani art festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Blue",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.43 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.43 PM (2).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.43 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.304Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-173",
+    "productCode": "RC-3PC-173",
+    "slug": "black-paisley-embroidered-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-173",
+    "name": "Black Paisley Embroidered Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black paisley embroidered festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.43 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.43 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.43 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.305Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-174",
+    "productCode": "RC-3PC-174",
+    "slug": "pink-botanical-motif-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-174",
+    "name": "Pink Botanical Motif Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink botanical motif festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.44 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.44 PM (1).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.44 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.306Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-175",
+    "productCode": "RC-3PC-175",
+    "slug": "wine-bandhani-art-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-175",
+    "name": "Wine Bandhani Art Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted wine bandhani art festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Wine",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.44 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.44 PM (2).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.44 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.307Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-176",
+    "productCode": "RC-3PC-176",
+    "slug": "brown-paisley-embroidered-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-176",
+    "name": "Brown Paisley Embroidered Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown paisley embroidered festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.44 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.44 PM (3).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.44 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.307Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-177",
+    "productCode": "RC-3PC-177",
+    "slug": "mustard-botanical-motif-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-177",
+    "name": "Mustard Botanical Motif Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard botanical motif festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.44 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.44 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.44 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.308Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-178",
+    "productCode": "RC-3PC-178",
+    "slug": "maroon-bandhani-art-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-178",
+    "name": "Maroon Bandhani Art Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted maroon bandhani art festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Maroon",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.45 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.45 PM (1).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.45 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.309Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-179",
+    "productCode": "RC-3PC-179",
+    "slug": "navy-paisley-embroidered-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-179",
+    "name": "Navy Paisley Embroidered Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy paisley embroidered festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Navy",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.45 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.45 PM (2).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.45 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.310Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-180",
+    "productCode": "RC-3PC-180",
+    "slug": "green-botanical-motif-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-180",
+    "name": "Green Botanical Motif Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green botanical motif festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.45 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.45 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.45 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.311Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-181",
+    "productCode": "RC-3PC-181",
+    "slug": "ivory-bandhani-art-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-181",
+    "name": "Ivory Bandhani Art Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted ivory bandhani art festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Ivory",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.46 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.46 PM (1).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.46 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.311Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-182",
+    "productCode": "RC-3PC-182",
+    "slug": "beige-paisley-embroidered-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-182",
+    "name": "Beige Paisley Embroidered Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige paisley embroidered festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.46 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.46 PM (2).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.46 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.312Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-183",
+    "productCode": "RC-3PC-183",
+    "slug": "peach-botanical-motif-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-183",
+    "name": "Peach Botanical Motif Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach botanical motif festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.46 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.46 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.46 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.313Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-184",
+    "productCode": "RC-3PC-184",
+    "slug": "rust-bandhani-art-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-184",
+    "name": "Rust Bandhani Art Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted rust bandhani art festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Rust",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.47 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.47 PM (1).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.47 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.314Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-185",
+    "productCode": "RC-3PC-185",
+    "slug": "teal-paisley-embroidered-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-185",
+    "name": "Teal Paisley Embroidered Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal paisley embroidered festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Teal",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.47 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.47 PM (2).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.47 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.314Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-186",
+    "productCode": "RC-3PC-186",
+    "slug": "olive-botanical-motif-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-186",
+    "name": "Olive Botanical Motif Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive botanical motif festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.47 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.47 PM (3).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.47 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.315Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-187",
+    "productCode": "RC-3PC-187",
+    "slug": "blue-bandhani-art-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-187",
+    "name": "Blue Bandhani Art Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted blue bandhani art festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Blue",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.47 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.47 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.47 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.316Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-188",
+    "productCode": "RC-3PC-188",
+    "slug": "black-paisley-embroidered-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-188",
+    "name": "Black Paisley Embroidered Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black paisley embroidered festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.48 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.48 PM (1).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.48 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.317Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-189",
+    "productCode": "RC-3PC-189",
+    "slug": "pink-botanical-motif-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-189",
+    "name": "Pink Botanical Motif Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink botanical motif festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.48 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.48 PM (2).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.48 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.318Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-190",
+    "productCode": "RC-3PC-190",
+    "slug": "wine-bandhani-art-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-190",
+    "name": "Wine Bandhani Art Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted wine bandhani art festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Wine",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.48 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.48 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.48 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.318Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-191",
+    "productCode": "RC-3PC-191",
+    "slug": "brown-paisley-embroidered-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-191",
+    "name": "Brown Paisley Embroidered Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown paisley embroidered festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.49 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.49 PM (1).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.49 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.319Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-192",
+    "productCode": "RC-3PC-192",
+    "slug": "mustard-botanical-motif-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-192",
+    "name": "Mustard Botanical Motif Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard botanical motif festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.49 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.49 PM (2).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.49 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.320Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-193",
+    "productCode": "RC-3PC-193",
+    "slug": "maroon-bandhani-art-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-193",
+    "name": "Maroon Bandhani Art Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted maroon bandhani art festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Maroon",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.49 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.49 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.49 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.320Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-194",
+    "productCode": "RC-3PC-194",
+    "slug": "navy-paisley-embroidered-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-194",
+    "name": "Navy Paisley Embroidered Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy paisley embroidered festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Navy",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.50 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.50 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.04.50 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.321Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-195",
+    "productCode": "RC-3PC-195",
+    "slug": "green-botanical-motif-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-195",
+    "name": "Green Botanical Motif Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green botanical motif festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.05.06 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.05.06 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.05.06 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.321Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-196",
+    "productCode": "RC-3PC-196",
+    "slug": "ivory-bandhani-art-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-196",
+    "name": "Ivory Bandhani Art Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted ivory bandhani art festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Ivory",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 1.05.07 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.05.07 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 1.05.07 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.322Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-197",
+    "productCode": "RC-3PC-197",
+    "slug": "beige-paisley-embroidered-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-197",
+    "name": "Beige Paisley Embroidered Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige paisley embroidered festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 12.48.15 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.48.15 PM (1).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.48.15 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.323Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-198",
+    "productCode": "RC-3PC-198",
+    "slug": "peach-botanical-motif-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-198",
+    "name": "Peach Botanical Motif Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach botanical motif festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 12.48.15 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.48.15 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.48.15 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.323Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-199",
+    "productCode": "RC-3PC-199",
+    "slug": "rust-bandhani-art-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-199",
+    "name": "Rust Bandhani Art Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted rust bandhani art festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Rust",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 12.48.16 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.48.16 PM (1).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.48.16 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.324Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-200",
+    "productCode": "RC-3PC-200",
+    "slug": "teal-paisley-embroidered-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-200",
+    "name": "Teal Paisley Embroidered Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal paisley embroidered festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Teal",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 12.48.16 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.48.16 PM (2).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.48.16 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.325Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-201",
+    "productCode": "RC-3PC-201",
+    "slug": "olive-botanical-motif-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-201",
+    "name": "Olive Botanical Motif Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive botanical motif festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 12.48.16 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.48.16 PM (3).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.48.16 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.326Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-202",
+    "productCode": "RC-3PC-202",
+    "slug": "blue-bandhani-art-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-202",
+    "name": "Blue Bandhani Art Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted blue bandhani art festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Blue",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 12.48.16 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.48.16 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.48.16 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.327Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-203",
+    "productCode": "RC-3PC-203",
+    "slug": "black-paisley-embroidered-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-203",
+    "name": "Black Paisley Embroidered Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black paisley embroidered festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 12.48.17 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.48.17 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.48.17 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.327Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-204",
+    "productCode": "RC-3PC-204",
+    "slug": "pink-botanical-motif-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-204",
+    "name": "Pink Botanical Motif Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink botanical motif festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.47 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.47 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.47 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.329Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-205",
+    "productCode": "RC-3PC-205",
+    "slug": "wine-bandhani-art-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-205",
+    "name": "Wine Bandhani Art Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted wine bandhani art festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Wine",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.48 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.48 PM (1).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.48 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.330Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-206",
+    "productCode": "RC-3PC-206",
+    "slug": "brown-paisley-embroidered-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-206",
+    "name": "Brown Paisley Embroidered Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown paisley embroidered festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.48 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.48 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.48 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.331Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-207",
+    "productCode": "RC-3PC-207",
+    "slug": "mustard-botanical-motif-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-207",
+    "name": "Mustard Botanical Motif Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard botanical motif festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.49 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.49 PM (1).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.49 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.332Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-208",
+    "productCode": "RC-3PC-208",
+    "slug": "maroon-bandhani-art-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-208",
+    "name": "Maroon Bandhani Art Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted maroon bandhani art festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Maroon",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.49 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.49 PM (2).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.49 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.333Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-209",
+    "productCode": "RC-3PC-209",
+    "slug": "navy-paisley-embroidered-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-209",
+    "name": "Navy Paisley Embroidered Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy paisley embroidered festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Navy",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.49 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.49 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.49 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.334Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-210",
+    "productCode": "RC-3PC-210",
+    "slug": "green-botanical-motif-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-210",
+    "name": "Green Botanical Motif Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green botanical motif festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.50 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.50 PM (1).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.50 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.335Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-211",
+    "productCode": "RC-3PC-211",
+    "slug": "ivory-bandhani-art-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-211",
+    "name": "Ivory Bandhani Art Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted ivory bandhani art festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Ivory",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.50 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.50 PM (2).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.50 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.336Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-212",
+    "productCode": "RC-3PC-212",
+    "slug": "beige-paisley-embroidered-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-212",
+    "name": "Beige Paisley Embroidered Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige paisley embroidered festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.50 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.50 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.50 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.336Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-213",
+    "productCode": "RC-3PC-213",
+    "slug": "peach-botanical-motif-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-213",
+    "name": "Peach Botanical Motif Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach botanical motif festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.51 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.51 PM (1).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.51 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.337Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-214",
+    "productCode": "RC-3PC-214",
+    "slug": "rust-bandhani-art-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-214",
+    "name": "Rust Bandhani Art Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted rust bandhani art festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Rust",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.51 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.51 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.51 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.338Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-215",
+    "productCode": "RC-3PC-215",
+    "slug": "teal-paisley-embroidered-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-215",
+    "name": "Teal Paisley Embroidered Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal paisley embroidered festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Teal",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.52 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.52 PM (1).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.52 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.339Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-216",
+    "productCode": "RC-3PC-216",
+    "slug": "olive-botanical-motif-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-216",
+    "name": "Olive Botanical Motif Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive botanical motif festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.52 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.52 PM (2).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.52 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.339Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-217",
+    "productCode": "RC-3PC-217",
+    "slug": "blue-bandhani-art-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-217",
+    "name": "Blue Bandhani Art Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted blue bandhani art festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Blue",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.52 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.52 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.52 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.340Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-218",
+    "productCode": "RC-3PC-218",
+    "slug": "black-paisley-embroidered-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-218",
+    "name": "Black Paisley Embroidered Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black paisley embroidered festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.53 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.53 PM (1).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.53 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.340Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-219",
+    "productCode": "RC-3PC-219",
+    "slug": "pink-botanical-motif-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-219",
+    "name": "Pink Botanical Motif Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink botanical motif festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.53 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.53 PM (2).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.53 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.341Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-220",
+    "productCode": "RC-3PC-220",
+    "slug": "wine-bandhani-art-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-220",
+    "name": "Wine Bandhani Art Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted wine bandhani art festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Wine",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.53 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.53 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.53 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.342Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-221",
+    "productCode": "RC-3PC-221",
+    "slug": "brown-paisley-embroidered-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-221",
+    "name": "Brown Paisley Embroidered Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown paisley embroidered festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.54 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.54 PM (1).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.54 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.342Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-222",
+    "productCode": "RC-3PC-222",
+    "slug": "mustard-botanical-motif-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-222",
+    "name": "Mustard Botanical Motif Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard botanical motif festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.54 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.54 PM (2).jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.54 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.343Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-223",
+    "productCode": "RC-3PC-223",
+    "slug": "maroon-bandhani-art-festive-anarkali-three-piece-kurti-set-with-dupatta-rc-3pc-223",
+    "name": "Maroon Bandhani Art Festive Anarkali Three-Piece Kurti Set with Dupatta",
+    "shortDescription": "Curated festive anarkali three-piece kurti set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted maroon bandhani art festive anarkali three-piece kurti set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1199,
+    "compareAtPrice": 2299,
+    "color": "Maroon",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Traditional"
+    ],
+    "images": [
+      "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.54 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.54 PM.jpeg",
+    "image": "/images/products/1199/WhatsApp Image 2026-09-08 at 12.58.54 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.343Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-224",
+    "productCode": "RC-3PC-224",
+    "slug": "brown-floral-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-224",
+    "name": "Brown Floral Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown floral printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.45 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.45 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.45 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.345Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-225",
+    "productCode": "RC-3PC-225",
+    "slug": "mustard-heritage-zari-work-embellished-festive-three-piece-set-with-dupatta-rc-3pc-225",
+    "name": "Mustard Heritage Zari Work Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard heritage zari work embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.46 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.46 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.46 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.345Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-226",
+    "productCode": "RC-3PC-226",
+    "slug": "maroon-festive-embellished-embellished-festive-three-piece-set-with-dupatta-rc-3pc-226",
+    "name": "Maroon Festive Embellished Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted maroon festive embellished embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Maroon",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.46 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.46 PM (2).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.46 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.346Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-227",
+    "productCode": "RC-3PC-227",
+    "slug": "navy-floral-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-227",
+    "name": "Navy Floral Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy floral printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Navy",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.46 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.46 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.46 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.347Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-228",
+    "productCode": "RC-3PC-228",
+    "slug": "green-heritage-zari-work-embellished-festive-three-piece-set-with-dupatta-rc-3pc-228",
+    "name": "Green Heritage Zari Work Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green heritage zari work embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.47 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.47 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.47 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.350Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-229",
+    "productCode": "RC-3PC-229",
+    "slug": "ivory-festive-embellished-embellished-festive-three-piece-set-with-dupatta-rc-3pc-229",
+    "name": "Ivory Festive Embellished Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted ivory festive embellished embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Ivory",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.47 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.47 PM (2).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.47 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.354Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-230",
+    "productCode": "RC-3PC-230",
+    "slug": "beige-floral-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-230",
+    "name": "Beige Floral Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige floral printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.47 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.47 PM (3).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.47 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.357Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-231",
+    "productCode": "RC-3PC-231",
+    "slug": "peach-heritage-zari-work-embellished-festive-three-piece-set-with-dupatta-rc-3pc-231",
+    "name": "Peach Heritage Zari Work Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach heritage zari work embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.47 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.47 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.47 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.358Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-232",
+    "productCode": "RC-3PC-232",
+    "slug": "rust-festive-embellished-embellished-festive-three-piece-set-with-dupatta-rc-3pc-232",
+    "name": "Rust Festive Embellished Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted rust festive embellished embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Rust",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.48 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.48 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.48 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.359Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-233",
+    "productCode": "RC-3PC-233",
+    "slug": "teal-floral-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-233",
+    "name": "Teal Floral Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal floral printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Teal",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.48 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.48 PM (2).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.48 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.360Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-234",
+    "productCode": "RC-3PC-234",
+    "slug": "olive-heritage-zari-work-embellished-festive-three-piece-set-with-dupatta-rc-3pc-234",
+    "name": "Olive Heritage Zari Work Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive heritage zari work embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.48 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.48 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.48 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.360Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-235",
+    "productCode": "RC-3PC-235",
+    "slug": "blue-festive-embellished-embellished-festive-three-piece-set-with-dupatta-rc-3pc-235",
+    "name": "Blue Festive Embellished Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted blue festive embellished embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Blue",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.49 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.49 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.49 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.361Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-236",
+    "productCode": "RC-3PC-236",
+    "slug": "black-floral-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-236",
+    "name": "Black Floral Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black floral printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.49 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.49 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.49 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.362Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-237",
+    "productCode": "RC-3PC-237",
+    "slug": "pink-heritage-zari-work-embellished-festive-three-piece-set-with-dupatta-rc-3pc-237",
+    "name": "Pink Heritage Zari Work Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink heritage zari work embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.50 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.50 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.50 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.362Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-238",
+    "productCode": "RC-3PC-238",
+    "slug": "wine-festive-embellished-embellished-festive-three-piece-set-with-dupatta-rc-3pc-238",
+    "name": "Wine Festive Embellished Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted wine festive embellished embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Wine",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.50 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.50 PM (2).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.50 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.363Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-239",
+    "productCode": "RC-3PC-239",
+    "slug": "brown-floral-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-239",
+    "name": "Brown Floral Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown floral printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.50 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.50 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.50 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.364Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-240",
+    "productCode": "RC-3PC-240",
+    "slug": "mustard-heritage-zari-work-embellished-festive-three-piece-set-with-dupatta-rc-3pc-240",
+    "name": "Mustard Heritage Zari Work Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard heritage zari work embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.51 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.51 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.51 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.365Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-241",
+    "productCode": "RC-3PC-241",
+    "slug": "maroon-festive-embellished-embellished-festive-three-piece-set-with-dupatta-rc-3pc-241",
+    "name": "Maroon Festive Embellished Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted maroon festive embellished embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Maroon",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.51 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.51 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.51 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.366Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-242",
+    "productCode": "RC-3PC-242",
+    "slug": "navy-floral-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-242",
+    "name": "Navy Floral Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy floral printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Navy",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.52 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.52 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.52 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.368Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-243",
+    "productCode": "RC-3PC-243",
+    "slug": "green-heritage-zari-work-embellished-festive-three-piece-set-with-dupatta-rc-3pc-243",
+    "name": "Green Heritage Zari Work Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green heritage zari work embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.52 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.52 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.52 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.369Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-244",
+    "productCode": "RC-3PC-244",
+    "slug": "ivory-festive-embellished-embellished-festive-three-piece-set-with-dupatta-rc-3pc-244",
+    "name": "Ivory Festive Embellished Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted ivory festive embellished embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Ivory",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.53 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.53 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.53 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.370Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-245",
+    "productCode": "RC-3PC-245",
+    "slug": "beige-floral-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-245",
+    "name": "Beige Floral Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige floral printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.53 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.53 PM (2).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.53 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.370Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-246",
+    "productCode": "RC-3PC-246",
+    "slug": "peach-heritage-zari-work-embellished-festive-three-piece-set-with-dupatta-rc-3pc-246",
+    "name": "Peach Heritage Zari Work Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach heritage zari work embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.53 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.53 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.53 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.373Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-247",
+    "productCode": "RC-3PC-247",
+    "slug": "rust-festive-embellished-embellished-festive-three-piece-set-with-dupatta-rc-3pc-247",
+    "name": "Rust Festive Embellished Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted rust festive embellished embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Rust",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.54 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.54 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.54 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.377Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-248",
+    "productCode": "RC-3PC-248",
+    "slug": "teal-floral-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-248",
+    "name": "Teal Floral Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal floral printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Teal",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.54 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.54 PM (2).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.54 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.380Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-249",
+    "productCode": "RC-3PC-249",
+    "slug": "olive-heritage-zari-work-embellished-festive-three-piece-set-with-dupatta-rc-3pc-249",
+    "name": "Olive Heritage Zari Work Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive heritage zari work embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.54 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.54 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.54 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.383Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-250",
+    "productCode": "RC-3PC-250",
+    "slug": "blue-festive-embellished-embellished-festive-three-piece-set-with-dupatta-rc-3pc-250",
+    "name": "Blue Festive Embellished Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted blue festive embellished embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Blue",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.55 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.55 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.55 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.387Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-251",
+    "productCode": "RC-3PC-251",
+    "slug": "black-floral-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-251",
+    "name": "Black Floral Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black floral printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.55 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.55 PM (2).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.55 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.391Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-252",
+    "productCode": "RC-3PC-252",
+    "slug": "pink-heritage-zari-work-embellished-festive-three-piece-set-with-dupatta-rc-3pc-252",
+    "name": "Pink Heritage Zari Work Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink heritage zari work embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.55 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.55 PM (3).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.55 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.393Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-253",
+    "productCode": "RC-3PC-253",
+    "slug": "wine-festive-embellished-embellished-festive-three-piece-set-with-dupatta-rc-3pc-253",
+    "name": "Wine Festive Embellished Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted wine festive embellished embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Wine",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.55 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.55 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.55 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.396Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-254",
+    "productCode": "RC-3PC-254",
+    "slug": "brown-floral-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-254",
+    "name": "Brown Floral Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown floral printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.56 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.56 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.56 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.398Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-255",
+    "productCode": "RC-3PC-255",
+    "slug": "mustard-heritage-zari-work-embellished-festive-three-piece-set-with-dupatta-rc-3pc-255",
+    "name": "Mustard Heritage Zari Work Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard heritage zari work embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.56 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.56 PM (2).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.56 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.399Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-256",
+    "productCode": "RC-3PC-256",
+    "slug": "maroon-festive-embellished-embellished-festive-three-piece-set-with-dupatta-rc-3pc-256",
+    "name": "Maroon Festive Embellished Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted maroon festive embellished embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Maroon",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.56 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.56 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.56 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.400Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-257",
+    "productCode": "RC-3PC-257",
+    "slug": "navy-floral-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-257",
+    "name": "Navy Floral Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy floral printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Navy",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.57 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.57 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.57 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.401Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-258",
+    "productCode": "RC-3PC-258",
+    "slug": "green-heritage-zari-work-embellished-festive-three-piece-set-with-dupatta-rc-3pc-258",
+    "name": "Green Heritage Zari Work Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green heritage zari work embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.57 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.57 PM (2).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.57 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.402Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-259",
+    "productCode": "RC-3PC-259",
+    "slug": "pink-paisley-embroidered-embellished-festive-three-piece-set-with-dupatta-rc-3pc-259",
+    "name": "Pink Paisley Embroidered Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink paisley embroidered embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.57 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.57 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.52.57 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.404Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-260",
+    "productCode": "RC-3PC-260",
+    "slug": "green-artisanal-handblock-embellished-festive-three-piece-set-with-dupatta-rc-3pc-260",
+    "name": "Green Artisanal Handblock Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green artisanal handblock embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.01 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.01 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.01 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.417Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-261",
+    "productCode": "RC-3PC-261",
+    "slug": "ivory-geometric-block-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-261",
+    "name": "Ivory Geometric Block Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted ivory geometric block printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Ivory",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.01 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.01 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.01 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.418Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-262",
+    "productCode": "RC-3PC-262",
+    "slug": "beige-lace-bordered-embellished-festive-three-piece-set-with-dupatta-rc-3pc-262",
+    "name": "Beige Lace Bordered Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige lace bordered embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.02 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.02 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.02 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.419Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-263",
+    "productCode": "RC-3PC-263",
+    "slug": "peach-artisanal-handblock-embellished-festive-three-piece-set-with-dupatta-rc-3pc-263",
+    "name": "Peach Artisanal Handblock Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach artisanal handblock embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.02 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.02 PM (2).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.02 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.422Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-264",
+    "productCode": "RC-3PC-264",
+    "slug": "rust-geometric-block-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-264",
+    "name": "Rust Geometric Block Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted rust geometric block printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Rust",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.02 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.02 PM (3).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.02 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.427Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-265",
+    "productCode": "RC-3PC-265",
+    "slug": "teal-lace-bordered-embellished-festive-three-piece-set-with-dupatta-rc-3pc-265",
+    "name": "Teal Lace Bordered Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal lace bordered embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Teal",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.02 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.02 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.02 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.431Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-266",
+    "productCode": "RC-3PC-266",
+    "slug": "olive-artisanal-handblock-embellished-festive-three-piece-set-with-dupatta-rc-3pc-266",
+    "name": "Olive Artisanal Handblock Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive artisanal handblock embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.03 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.03 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.03 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.433Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-267",
+    "productCode": "RC-3PC-267",
+    "slug": "blue-geometric-block-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-267",
+    "name": "Blue Geometric Block Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted blue geometric block printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Blue",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.03 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.03 PM (2).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.03 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.433Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-268",
+    "productCode": "RC-3PC-268",
+    "slug": "black-lace-bordered-embellished-festive-three-piece-set-with-dupatta-rc-3pc-268",
+    "name": "Black Lace Bordered Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black lace bordered embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.03 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.03 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.03 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.435Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-269",
+    "productCode": "RC-3PC-269",
+    "slug": "pink-artisanal-handblock-embellished-festive-three-piece-set-with-dupatta-rc-3pc-269",
+    "name": "Pink Artisanal Handblock Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink artisanal handblock embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.04 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.04 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.04 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.436Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-270",
+    "productCode": "RC-3PC-270",
+    "slug": "wine-geometric-block-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-270",
+    "name": "Wine Geometric Block Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted wine geometric block printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Wine",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.04 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.04 PM (2).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.04 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.437Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-271",
+    "productCode": "RC-3PC-271",
+    "slug": "brown-lace-bordered-embellished-festive-three-piece-set-with-dupatta-rc-3pc-271",
+    "name": "Brown Lace Bordered Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown lace bordered embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.04 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.04 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.04 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.437Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-272",
+    "productCode": "RC-3PC-272",
+    "slug": "mustard-artisanal-handblock-embellished-festive-three-piece-set-with-dupatta-rc-3pc-272",
+    "name": "Mustard Artisanal Handblock Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard artisanal handblock embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.05 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.05 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.05 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.438Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-273",
+    "productCode": "RC-3PC-273",
+    "slug": "maroon-geometric-block-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-273",
+    "name": "Maroon Geometric Block Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted maroon geometric block printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Maroon",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.06 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.06 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.06 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.439Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-274",
+    "productCode": "RC-3PC-274",
+    "slug": "navy-lace-bordered-embellished-festive-three-piece-set-with-dupatta-rc-3pc-274",
+    "name": "Navy Lace Bordered Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy lace bordered embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Navy",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.06 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.06 PM (2).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.06 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.440Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-275",
+    "productCode": "RC-3PC-275",
+    "slug": "green-artisanal-handblock-embellished-festive-three-piece-set-with-dupatta-rc-3pc-275",
+    "name": "Green Artisanal Handblock Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green artisanal handblock embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.06 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.06 PM (3).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.06 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.441Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-276",
+    "productCode": "RC-3PC-276",
+    "slug": "ivory-geometric-block-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-276",
+    "name": "Ivory Geometric Block Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted ivory geometric block printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Ivory",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.06 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.06 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.06 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.443Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-277",
+    "productCode": "RC-3PC-277",
+    "slug": "beige-lace-bordered-embellished-festive-three-piece-set-with-dupatta-rc-3pc-277",
+    "name": "Beige Lace Bordered Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige lace bordered embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.07 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.07 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.07 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.443Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-278",
+    "productCode": "RC-3PC-278",
+    "slug": "peach-artisanal-handblock-embellished-festive-three-piece-set-with-dupatta-rc-3pc-278",
+    "name": "Peach Artisanal Handblock Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach artisanal handblock embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.07 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.07 PM (2).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.07 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.444Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-279",
+    "productCode": "RC-3PC-279",
+    "slug": "rust-geometric-block-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-279",
+    "name": "Rust Geometric Block Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted rust geometric block printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Rust",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.07 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.07 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.07 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.445Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-280",
+    "productCode": "RC-3PC-280",
+    "slug": "teal-lace-bordered-embellished-festive-three-piece-set-with-dupatta-rc-3pc-280",
+    "name": "Teal Lace Bordered Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal lace bordered embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Teal",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.08 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.08 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.08 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.445Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-281",
+    "productCode": "RC-3PC-281",
+    "slug": "olive-artisanal-handblock-embellished-festive-three-piece-set-with-dupatta-rc-3pc-281",
+    "name": "Olive Artisanal Handblock Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive artisanal handblock embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.08 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.08 PM (2).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.08 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.446Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-282",
+    "productCode": "RC-3PC-282",
+    "slug": "blue-geometric-block-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-282",
+    "name": "Blue Geometric Block Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted blue geometric block printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Blue",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.08 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.08 PM (3).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.08 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.447Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-283",
+    "productCode": "RC-3PC-283",
+    "slug": "black-lace-bordered-embellished-festive-three-piece-set-with-dupatta-rc-3pc-283",
+    "name": "Black Lace Bordered Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black lace bordered embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.08 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.08 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.08 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.448Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-284",
+    "productCode": "RC-3PC-284",
+    "slug": "pink-artisanal-handblock-embellished-festive-three-piece-set-with-dupatta-rc-3pc-284",
+    "name": "Pink Artisanal Handblock Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink artisanal handblock embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.09 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.09 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.09 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.448Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-285",
+    "productCode": "RC-3PC-285",
+    "slug": "wine-geometric-block-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-285",
+    "name": "Wine Geometric Block Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted wine geometric block printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Wine",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.09 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.09 PM (2).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.09 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.449Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-286",
+    "productCode": "RC-3PC-286",
+    "slug": "brown-lace-bordered-embellished-festive-three-piece-set-with-dupatta-rc-3pc-286",
+    "name": "Brown Lace Bordered Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown lace bordered embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.09 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.09 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.09 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.450Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-287",
+    "productCode": "RC-3PC-287",
+    "slug": "mustard-artisanal-handblock-embellished-festive-three-piece-set-with-dupatta-rc-3pc-287",
+    "name": "Mustard Artisanal Handblock Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard artisanal handblock embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.10 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.10 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.10 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.450Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-288",
+    "productCode": "RC-3PC-288",
+    "slug": "maroon-geometric-block-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-288",
+    "name": "Maroon Geometric Block Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted maroon geometric block printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Maroon",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.10 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.10 PM (2).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.10 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.451Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-289",
+    "productCode": "RC-3PC-289",
+    "slug": "navy-lace-bordered-embellished-festive-three-piece-set-with-dupatta-rc-3pc-289",
+    "name": "Navy Lace Bordered Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy lace bordered embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Navy",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.10 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.10 PM (3).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.10 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.452Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-290",
+    "productCode": "RC-3PC-290",
+    "slug": "green-artisanal-handblock-embellished-festive-three-piece-set-with-dupatta-rc-3pc-290",
+    "name": "Green Artisanal Handblock Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green artisanal handblock embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.10 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.10 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.10 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.452Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-291",
+    "productCode": "RC-3PC-291",
+    "slug": "ivory-geometric-block-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-291",
+    "name": "Ivory Geometric Block Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted ivory geometric block printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Ivory",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.11 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.11 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.11 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.453Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-292",
+    "productCode": "RC-3PC-292",
+    "slug": "beige-lace-bordered-embellished-festive-three-piece-set-with-dupatta-rc-3pc-292",
+    "name": "Beige Lace Bordered Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige lace bordered embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.11 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.11 PM (2).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.11 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.454Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-293",
+    "productCode": "RC-3PC-293",
+    "slug": "peach-artisanal-handblock-embellished-festive-three-piece-set-with-dupatta-rc-3pc-293",
+    "name": "Peach Artisanal Handblock Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach artisanal handblock embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.11 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.11 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.11 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.454Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-294",
+    "productCode": "RC-3PC-294",
+    "slug": "rust-geometric-block-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-294",
+    "name": "Rust Geometric Block Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted rust geometric block printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Rust",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.12 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.12 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.12 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.455Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-295",
+    "productCode": "RC-3PC-295",
+    "slug": "teal-lace-bordered-embellished-festive-three-piece-set-with-dupatta-rc-3pc-295",
+    "name": "Teal Lace Bordered Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal lace bordered embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Teal",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.12 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.12 PM (2).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.12 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.456Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-296",
+    "productCode": "RC-3PC-296",
+    "slug": "olive-artisanal-handblock-embellished-festive-three-piece-set-with-dupatta-rc-3pc-296",
+    "name": "Olive Artisanal Handblock Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive artisanal handblock embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.12 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.12 PM (3).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.12 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.458Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-297",
+    "productCode": "RC-3PC-297",
+    "slug": "blue-geometric-block-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-297",
+    "name": "Blue Geometric Block Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted blue geometric block printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Blue",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.12 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.12 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.12 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.458Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-298",
+    "productCode": "RC-3PC-298",
+    "slug": "black-lace-bordered-embellished-festive-three-piece-set-with-dupatta-rc-3pc-298",
+    "name": "Black Lace Bordered Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black lace bordered embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.13 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.13 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.53.13 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.460Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-299",
+    "productCode": "RC-3PC-299",
+    "slug": "pink-artisanal-handblock-embellished-festive-three-piece-set-with-dupatta-rc-3pc-299",
+    "name": "Pink Artisanal Handblock Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink artisanal handblock embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.34 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.34 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.34 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.460Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-300",
+    "productCode": "RC-3PC-300",
+    "slug": "wine-geometric-block-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-300",
+    "name": "Wine Geometric Block Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted wine geometric block printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Wine",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.34 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.34 PM (2).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.34 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.461Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-301",
+    "productCode": "RC-3PC-301",
+    "slug": "brown-lace-bordered-embellished-festive-three-piece-set-with-dupatta-rc-3pc-301",
+    "name": "Brown Lace Bordered Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown lace bordered embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.34 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.34 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.34 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.462Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-302",
+    "productCode": "RC-3PC-302",
+    "slug": "mustard-artisanal-handblock-embellished-festive-three-piece-set-with-dupatta-rc-3pc-302",
+    "name": "Mustard Artisanal Handblock Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard artisanal handblock embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.35 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.35 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.35 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.463Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-303",
+    "productCode": "RC-3PC-303",
+    "slug": "maroon-geometric-block-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-303",
+    "name": "Maroon Geometric Block Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted maroon geometric block printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Maroon",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.35 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.35 PM (2).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.35 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.464Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-304",
+    "productCode": "RC-3PC-304",
+    "slug": "navy-lace-bordered-embellished-festive-three-piece-set-with-dupatta-rc-3pc-304",
+    "name": "Navy Lace Bordered Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy lace bordered embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Navy",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.35 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.35 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.35 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.467Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-305",
+    "productCode": "RC-3PC-305",
+    "slug": "green-artisanal-handblock-embellished-festive-three-piece-set-with-dupatta-rc-3pc-305",
+    "name": "Green Artisanal Handblock Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green artisanal handblock embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.36 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.36 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.36 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.468Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-306",
+    "productCode": "RC-3PC-306",
+    "slug": "ivory-geometric-block-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-306",
+    "name": "Ivory Geometric Block Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted ivory geometric block printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Ivory",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.36 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.36 PM (2).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.36 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.468Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-307",
+    "productCode": "RC-3PC-307",
+    "slug": "beige-lace-bordered-embellished-festive-three-piece-set-with-dupatta-rc-3pc-307",
+    "name": "Beige Lace Bordered Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige lace bordered embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.36 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.36 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.36 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.469Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-308",
+    "productCode": "RC-3PC-308",
+    "slug": "peach-artisanal-handblock-embellished-festive-three-piece-set-with-dupatta-rc-3pc-308",
+    "name": "Peach Artisanal Handblock Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach artisanal handblock embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.37 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.37 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.37 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.471Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-309",
+    "productCode": "RC-3PC-309",
+    "slug": "mustard-heritage-zari-work-embellished-festive-three-piece-set-with-dupatta-rc-3pc-309",
+    "name": "Mustard Heritage Zari Work Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard heritage zari work embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.37 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.37 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.37 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.472Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-310",
+    "productCode": "RC-3PC-310",
+    "slug": "maroon-festive-embellished-embellished-festive-three-piece-set-with-dupatta-rc-3pc-310",
+    "name": "Maroon Festive Embellished Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted maroon festive embellished embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Maroon",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.38 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.38 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.38 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.473Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-311",
+    "productCode": "RC-3PC-311",
+    "slug": "navy-floral-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-311",
+    "name": "Navy Floral Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy floral printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Navy",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.38 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.38 PM (2).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.38 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.474Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-312",
+    "productCode": "RC-3PC-312",
+    "slug": "green-heritage-zari-work-embellished-festive-three-piece-set-with-dupatta-rc-3pc-312",
+    "name": "Green Heritage Zari Work Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green heritage zari work embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.38 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.38 PM (3).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.38 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.477Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-313",
+    "productCode": "RC-3PC-313",
+    "slug": "ivory-festive-embellished-embellished-festive-three-piece-set-with-dupatta-rc-3pc-313",
+    "name": "Ivory Festive Embellished Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted ivory festive embellished embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Ivory",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.38 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.38 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.38 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.477Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-314",
+    "productCode": "RC-3PC-314",
+    "slug": "beige-floral-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-314",
+    "name": "Beige Floral Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige floral printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.39 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.39 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.39 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.478Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-315",
+    "productCode": "RC-3PC-315",
+    "slug": "peach-heritage-zari-work-embellished-festive-three-piece-set-with-dupatta-rc-3pc-315",
+    "name": "Peach Heritage Zari Work Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach heritage zari work embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.39 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.39 PM (2).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.39 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.479Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-316",
+    "productCode": "RC-3PC-316",
+    "slug": "rust-festive-embellished-embellished-festive-three-piece-set-with-dupatta-rc-3pc-316",
+    "name": "Rust Festive Embellished Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted rust festive embellished embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Rust",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.39 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.39 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.39 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.479Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-317",
+    "productCode": "RC-3PC-317",
+    "slug": "teal-floral-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-317",
+    "name": "Teal Floral Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal floral printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Teal",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.40 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.40 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.40 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.480Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-318",
+    "productCode": "RC-3PC-318",
+    "slug": "olive-heritage-zari-work-embellished-festive-three-piece-set-with-dupatta-rc-3pc-318",
+    "name": "Olive Heritage Zari Work Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive heritage zari work embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.40 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.40 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.40 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.481Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-319",
+    "productCode": "RC-3PC-319",
+    "slug": "blue-festive-embellished-embellished-festive-three-piece-set-with-dupatta-rc-3pc-319",
+    "name": "Blue Festive Embellished Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted blue festive embellished embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Blue",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.41 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.41 PM (1).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.41 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.481Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-320",
+    "productCode": "RC-3PC-320",
+    "slug": "black-floral-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-320",
+    "name": "Black Floral Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black floral printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.41 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.41 PM (2).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.41 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.482Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-321",
+    "productCode": "RC-3PC-321",
+    "slug": "pink-heritage-zari-work-embellished-festive-three-piece-set-with-dupatta-rc-3pc-321",
+    "name": "Pink Heritage Zari Work Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink heritage zari work embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.41 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.41 PM (3).jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.41 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.482Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-322",
+    "productCode": "RC-3PC-322",
+    "slug": "wine-festive-embellished-embellished-festive-three-piece-set-with-dupatta-rc-3pc-322",
+    "name": "Wine Festive Embellished Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted wine festive embellished embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Wine",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.41 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.41 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.41 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.483Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-323",
+    "productCode": "RC-3PC-323",
+    "slug": "brown-floral-printed-embellished-festive-three-piece-set-with-dupatta-rc-3pc-323",
+    "name": "Brown Floral Printed Embellished Festive Three-Piece Set with Dupatta",
+    "shortDescription": "Curated embellished festive three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown floral printed embellished festive three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "Best Sellers"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1299,
+    "compareAtPrice": 2599,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Heritage"
+    ],
+    "images": [
+      "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.42 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.42 PM.jpeg",
+    "image": "/images/products/1299/WhatsApp Image 2026-09-08 at 12.58.42 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.484Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-324",
+    "productCode": "RC-3PC-324",
+    "slug": "ivory-floral-printed-exclusive-floral-sharara-three-piece-set-with-dupatta-rc-3pc-324",
+    "name": "Ivory Floral Printed Exclusive Floral Sharara Three-Piece Set with Dupatta",
+    "shortDescription": "Curated exclusive floral sharara three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted ivory floral printed exclusive floral sharara three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1499,
+    "compareAtPrice": 2999,
+    "color": "Ivory",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Royal Zari"
+    ],
+    "images": [
+      "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.28 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.28 PM.jpeg",
+    "image": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.28 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 8,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.485Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-325",
+    "productCode": "RC-3PC-325",
+    "slug": "beige-heritage-zari-work-exclusive-floral-sharara-three-piece-set-with-dupatta-rc-3pc-325",
+    "name": "Beige Heritage Zari Work Exclusive Floral Sharara Three-Piece Set with Dupatta",
+    "shortDescription": "Curated exclusive floral sharara three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted beige heritage zari work exclusive floral sharara three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1499,
+    "compareAtPrice": 2999,
+    "color": "Beige",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Royal Zari"
+    ],
+    "images": [
+      "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.29 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.29 PM (1).jpeg",
+    "image": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.29 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 11,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.485Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-326",
+    "productCode": "RC-3PC-326",
+    "slug": "peach-festive-embellished-exclusive-floral-sharara-three-piece-set-with-dupatta-rc-3pc-326",
+    "name": "Peach Festive Embellished Exclusive Floral Sharara Three-Piece Set with Dupatta",
+    "shortDescription": "Curated exclusive floral sharara three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted peach festive embellished exclusive floral sharara three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1499,
+    "compareAtPrice": 2999,
+    "color": "Peach",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Royal Zari"
+    ],
+    "images": [
+      "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.29 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.29 PM.jpeg",
+    "image": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.29 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 14,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.486Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-327",
+    "productCode": "RC-3PC-327",
+    "slug": "rust-floral-printed-exclusive-floral-sharara-three-piece-set-with-dupatta-rc-3pc-327",
+    "name": "Rust Floral Printed Exclusive Floral Sharara Three-Piece Set with Dupatta",
+    "shortDescription": "Curated exclusive floral sharara three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted rust floral printed exclusive floral sharara three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1499,
+    "compareAtPrice": 2999,
+    "color": "Rust",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Royal Zari"
+    ],
+    "images": [
+      "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.30 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.30 PM (1).jpeg",
+    "image": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.30 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 17,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.487Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-328",
+    "productCode": "RC-3PC-328",
+    "slug": "teal-heritage-zari-work-exclusive-floral-sharara-three-piece-set-with-dupatta-rc-3pc-328",
+    "name": "Teal Heritage Zari Work Exclusive Floral Sharara Three-Piece Set with Dupatta",
+    "shortDescription": "Curated exclusive floral sharara three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted teal heritage zari work exclusive floral sharara three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1499,
+    "compareAtPrice": 2999,
+    "color": "Teal",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Royal Zari"
+    ],
+    "images": [
+      "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.30 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.30 PM (2).jpeg",
+    "image": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.30 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 20,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.487Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-329",
+    "productCode": "RC-3PC-329",
+    "slug": "olive-festive-embellished-exclusive-floral-sharara-three-piece-set-with-dupatta-rc-3pc-329",
+    "name": "Olive Festive Embellished Exclusive Floral Sharara Three-Piece Set with Dupatta",
+    "shortDescription": "Curated exclusive floral sharara three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted olive festive embellished exclusive floral sharara three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1499,
+    "compareAtPrice": 2999,
+    "color": "Olive",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Royal Zari"
+    ],
+    "images": [
+      "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.30 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.30 PM.jpeg",
+    "image": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.30 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 23,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.488Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-330",
+    "productCode": "RC-3PC-330",
+    "slug": "blue-floral-printed-exclusive-floral-sharara-three-piece-set-with-dupatta-rc-3pc-330",
+    "name": "Blue Floral Printed Exclusive Floral Sharara Three-Piece Set with Dupatta",
+    "shortDescription": "Curated exclusive floral sharara three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted blue floral printed exclusive floral sharara three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1499,
+    "compareAtPrice": 2999,
+    "color": "Blue",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Royal Zari"
+    ],
+    "images": [
+      "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.31 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.31 PM (1).jpeg",
+    "image": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.31 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 26,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.488Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-331",
+    "productCode": "RC-3PC-331",
+    "slug": "black-heritage-zari-work-exclusive-floral-sharara-three-piece-set-with-dupatta-rc-3pc-331",
+    "name": "Black Heritage Zari Work Exclusive Floral Sharara Three-Piece Set with Dupatta",
+    "shortDescription": "Curated exclusive floral sharara three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted black heritage zari work exclusive floral sharara three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1499,
+    "compareAtPrice": 2999,
+    "color": "Black",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Royal Zari"
+    ],
+    "images": [
+      "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.31 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.31 PM (2).jpeg",
+    "image": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.31 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 29,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.489Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-332",
+    "productCode": "RC-3PC-332",
+    "slug": "pink-festive-embellished-exclusive-floral-sharara-three-piece-set-with-dupatta-rc-3pc-332",
+    "name": "Pink Festive Embellished Exclusive Floral Sharara Three-Piece Set with Dupatta",
+    "shortDescription": "Curated exclusive floral sharara three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted pink festive embellished exclusive floral sharara three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1499,
+    "compareAtPrice": 2999,
+    "color": "Pink",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Royal Zari"
+    ],
+    "images": [
+      "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.31 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.31 PM.jpeg",
+    "image": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.31 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 32,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.489Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-333",
+    "productCode": "RC-3PC-333",
+    "slug": "wine-floral-printed-exclusive-floral-sharara-three-piece-set-with-dupatta-rc-3pc-333",
+    "name": "Wine Floral Printed Exclusive Floral Sharara Three-Piece Set with Dupatta",
+    "shortDescription": "Curated exclusive floral sharara three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted wine floral printed exclusive floral sharara three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1499,
+    "compareAtPrice": 2999,
+    "color": "Wine",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Royal Zari"
+    ],
+    "images": [
+      "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.32 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.32 PM (1).jpeg",
+    "image": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.32 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "BESTSELLER",
+    "rating": 4.7,
+    "reviewCount": 35,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.490Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-334",
+    "productCode": "RC-3PC-334",
+    "slug": "brown-heritage-zari-work-exclusive-floral-sharara-three-piece-set-with-dupatta-rc-3pc-334",
+    "name": "Brown Heritage Zari Work Exclusive Floral Sharara Three-Piece Set with Dupatta",
+    "shortDescription": "Curated exclusive floral sharara three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted brown heritage zari work exclusive floral sharara three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1499,
+    "compareAtPrice": 2999,
+    "color": "Brown",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Royal Zari"
+    ],
+    "images": [
+      "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.32 PM (2).jpeg"
+    ],
+    "primaryImage": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.32 PM (2).jpeg",
+    "image": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.32 PM (2).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.800000000000001,
+    "reviewCount": 38,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.490Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-335",
+    "productCode": "RC-3PC-335",
+    "slug": "mustard-festive-embellished-exclusive-floral-sharara-three-piece-set-with-dupatta-rc-3pc-335",
+    "name": "Mustard Festive Embellished Exclusive Floral Sharara Three-Piece Set with Dupatta",
+    "shortDescription": "Curated exclusive floral sharara three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted mustard festive embellished exclusive floral sharara three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1499,
+    "compareAtPrice": 2999,
+    "color": "Mustard",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Royal Zari"
+    ],
+    "images": [
+      "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.32 PM (3).jpeg"
+    ],
+    "primaryImage": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.32 PM (3).jpeg",
+    "image": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.32 PM (3).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.9,
+    "reviewCount": 41,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.491Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-336",
+    "productCode": "RC-3PC-336",
+    "slug": "maroon-floral-printed-exclusive-floral-sharara-three-piece-set-with-dupatta-rc-3pc-336",
+    "name": "Maroon Floral Printed Exclusive Floral Sharara Three-Piece Set with Dupatta",
+    "shortDescription": "Curated exclusive floral sharara three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted maroon floral printed exclusive floral sharara three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1499,
+    "compareAtPrice": 2999,
+    "color": "Maroon",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Royal Zari"
+    ],
+    "images": [
+      "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.32 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.32 PM.jpeg",
+    "image": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.32 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.4,
+    "reviewCount": 44,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": true,
+    "isBestseller": true,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.491Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-337",
+    "productCode": "RC-3PC-337",
+    "slug": "navy-heritage-zari-work-exclusive-floral-sharara-three-piece-set-with-dupatta-rc-3pc-337",
+    "name": "Navy Heritage Zari Work Exclusive Floral Sharara Three-Piece Set with Dupatta",
+    "shortDescription": "Curated exclusive floral sharara three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted navy heritage zari work exclusive floral sharara three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1499,
+    "compareAtPrice": 2999,
+    "color": "Navy",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Royal Zari"
+    ],
+    "images": [
+      "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.33 PM (1).jpeg"
+    ],
+    "primaryImage": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.33 PM (1).jpeg",
+    "image": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.33 PM (1).jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "rating": 4.5,
+    "reviewCount": 47,
+    "available": true,
+    "isFeatured": false,
+    "featured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.492Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
+  },
+  {
+    "id": "rc-3pc-338",
+    "productCode": "RC-3PC-338",
+    "slug": "green-festive-embellished-exclusive-floral-sharara-three-piece-set-with-dupatta-rc-3pc-338",
+    "name": "Green Festive Embellished Exclusive Floral Sharara Three-Piece Set with Dupatta",
+    "shortDescription": "Curated exclusive floral sharara three-piece set with dupatta crafted from breathable premium cotton for effortless elegance.",
+    "description": "Authentic Jaipur crafted green festive embellished exclusive floral sharara three-piece set with dupatta, tailored with precision for rich ethnic charm, breathable all-day comfort, and effortless styling.",
+    "primaryCategory": "Three Piece Sets",
+    "category": [
+      "Three Piece Sets",
+      "Festive",
+      "Embroidered",
+      "New Arrivals"
+    ],
+    "productType": "THREE_PIECE",
+    "price": 1499,
+    "compareAtPrice": 2999,
+    "color": "Green",
+    "style": [
+      "Embroidered",
+      "Festive",
+      "Royal Zari"
+    ],
+    "images": [
+      "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.33 PM.jpeg"
+    ],
+    "primaryImage": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.33 PM.jpeg",
+    "image": "/images/products/1499/WhatsApp Image 2026-09-08 at 12.58.33 PM.jpeg",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "badge": "NEW",
+    "rating": 4.6000000000000005,
+    "reviewCount": 50,
+    "available": true,
+    "isFeatured": true,
+    "featured": true,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "isBestseller": false,
+    "premiumTier": true,
+    "createdAt": "2026-09-09T11:58:09.493Z",
+    "fabric": "Pure Breathable Cotton",
+    "details": [
+      "Pure Cotton Fabric",
+      "Handcrafted Artisanal Detailing",
+      "Pre-shrunk for Consistent Fit",
+      "Machine Wash Gentle / Hand Wash Recommended",
+      "Made in Jaipur, Rajasthan"
+    ]
   }
 ];
 
@@ -9349,33 +38031,29 @@ export function getProductBySlug(slug: string): Product | undefined {
   if (!slug) return undefined;
   const clean = decodeURIComponent(slug).toLowerCase().trim();
 
-  // 1. Direct slug or ID match
   let found = products.find(
     (p) => p.slug.toLowerCase() === clean || p.id.toLowerCase() === clean
   );
   if (found) return found;
 
-  // 2. Direct product code match (e.g. "RC-3PC-001" or "rc-3pc-001")
   found = products.find(
     (p) => p.productCode.toLowerCase() === clean
   );
   if (found) return found;
 
-  // 3. Code suffix match (e.g. "mustard-yellow-festive-dupatta-3-piece-ensemble-rc-3pc-001")
   found = products.find((p) => {
     const code = p.productCode.toLowerCase();
     return clean.endsWith(code) || clean.includes(code);
   });
   if (found) return found;
 
-  // 4. Normalized alphanumeric match
   const cleanAlpha = clean.replace(/[^a-z0-9]/g, "");
   found = products.find((p) => {
     const codeAlpha = p.productCode.toLowerCase().replace(/[^a-z0-9]/g, "");
     return cleanAlpha.includes(codeAlpha);
   });
 
-  return found || products[0]; // Fallback safely to prevent 404
+  return found || products[0];
 }
 
 export function getProductByCode(code: string): Product | undefined {
@@ -9389,7 +38067,6 @@ export function getRelatedProducts(product: Product, limit = 4): Product[] {
     (p) => p.id !== product.id && p.productType === product.productType
   );
 
-  // Score same-type products by color and style similarity
   sameTypeProducts.sort((a, b) => {
     let scoreA = 0;
     let scoreB = 0;
@@ -9404,7 +38081,6 @@ export function getRelatedProducts(product: Product, limit = 4): Product[] {
     return sameTypeProducts.slice(0, limit);
   }
 
-  // Fallback if fewer than limit same-type products exist
   const remaining = products.filter(
     (p) => p.id !== product.id && !sameTypeProducts.includes(p)
   );

@@ -9,22 +9,6 @@ import FilterSidebar, { FilterState } from "@/components/shop/FilterSidebar";
 import MobileFilterDrawer from "@/components/shop/MobileFilterDrawer";
 import ProductGrid from "@/components/shop/ProductGrid";
 
-const COLOR_HEX_MAP: Record<string, string> = {
-  Black: "#1A1A1A",
-  Maroon: "#641C22",
-  Ivory: "#FDFBF7",
-  Olive: "#556B2F",
-  Pink: "#E89CAE",
-  Blue: "#1E3F66",
-  Yellow: "#E5A93B",
-  Green: "#2E5D4B",
-  Red: "#9E2A2B",
-  Beige: "#D8C5A8",
-  White: "#FFFFFF",
-  Brown: "#6E473B",
-  Multi: "#8E7395",
-};
-
 const PAGE_SIZE = 24;
 
 export default function ShopClient() {
@@ -35,7 +19,6 @@ export default function ShopClient() {
   const initialCategory = searchParams.get("category") || "";
   const initialType = searchParams.get("type") || "";
   const initialPrice = searchParams.get("price") || "";
-  const initialColor = searchParams.get("color") || "";
   const initialStyle = searchParams.get("style") || "";
   const initialSort = (searchParams.get("sort") as SortOption) || "featured";
   const initialSearch = searchParams.get("search") || "";
@@ -44,7 +27,6 @@ export default function ShopClient() {
     category: initialCategory,
     productType: initialType,
     priceRange: initialPrice,
-    color: initialColor,
     style: initialStyle,
   });
 
@@ -60,7 +42,6 @@ export default function ShopClient() {
       if (newFilters.category) params.set("category", newFilters.category);
       if (newFilters.productType) params.set("type", newFilters.productType);
       if (newFilters.priceRange) params.set("price", newFilters.priceRange);
-      if (newFilters.color) params.set("color", newFilters.color);
       if (newFilters.style) params.set("style", newFilters.style);
       if (newSort && newSort !== "featured") params.set("sort", newSort);
       if (newSearch) params.set("search", newSearch);
@@ -84,7 +65,6 @@ export default function ShopClient() {
       category: "",
       productType: "",
       priceRange: "",
-      color: "",
       style: "",
     };
     setFilters(resetFilters);
@@ -104,10 +84,9 @@ export default function ShopClient() {
     updateUrl(filters, sortOption, q);
   };
 
-  // Compute available colors and styles from catalog
-  const { availableColors, availableStyles, categoryCounts, productTypeCounts, priceRangeCounts } =
+  // Compute available styles and counts from catalog
+  const { availableStyles, categoryCounts, productTypeCounts, priceRangeCounts } =
     useMemo(() => {
-      const colorsMap: Record<string, number> = {};
       const stylesMap: Record<string, number> = {};
       const catCounts: Record<string, number> = { All: products.length };
       const typeCounts: Record<string, number> = {
@@ -118,16 +97,11 @@ export default function ShopClient() {
       const priceCounts: Record<string, number> = {
         "under-500": 0,
         "500-899": 0,
-        "900-1099": 0,
-        "1100-1299": 0,
+        "900-1199": 0,
+        "1200-above": 0,
       };
 
       products.forEach((p) => {
-        // Color
-        if (p.color) {
-          colorsMap[p.color] = (colorsMap[p.color] || 0) + 1;
-        }
-
         // Style
         if (Array.isArray(p.style)) {
           p.style.forEach((s) => {
@@ -156,12 +130,6 @@ export default function ShopClient() {
         else priceCounts["1200-above"]++;
       });
 
-      const colorList = Object.keys(colorsMap).map((name) => ({
-        name,
-        hex: COLOR_HEX_MAP[name] || "#B18A52",
-        count: colorsMap[name],
-      }));
-
       const styleList = Object.keys(stylesMap).map((name) => ({
         name,
         count: stylesMap[name],
@@ -173,7 +141,6 @@ export default function ShopClient() {
       }));
 
       return {
-        availableColors: colorList,
         availableStyles: styleList,
         categoryCounts: catCounts,
         productTypeCounts: typeCounts,
@@ -247,7 +214,7 @@ export default function ShopClient() {
       if (sortOption === "price-high") return b.price - a.price;
       if (sortOption === "name-az") return a.name.localeCompare(b.name);
       if (sortOption === "newest") return (b.isNewArrival ? 1 : 0) - (a.isNewArrival ? 1 : 0);
-      if (sortOption === "bestsellers") return (b.isBestseller ? 1 : 0) - (a.isBestseller ? 1 : 0);
+      if (sortOption === "bestsellers") return ((b.isBestSeller || b.isBestseller) ? 1 : 0) - ((a.isBestSeller || a.isBestseller) ? 1 : 0);
       return 0; // featured default
     });
 
@@ -287,7 +254,6 @@ export default function ShopClient() {
               filters={filters}
               onFilterChange={handleFilterChange}
               onClearFilters={handleClearFilters}
-              availableColors={availableColors}
               availableStyles={availableStyles}
               productTypeCounts={productTypeCounts}
               priceRangeCounts={priceRangeCounts}
@@ -316,7 +282,6 @@ export default function ShopClient() {
         filters={filters}
         onFilterChange={handleFilterChange}
         onClearFilters={handleClearFilters}
-        availableColors={availableColors}
         availableStyles={availableStyles}
         productTypeCounts={productTypeCounts}
         priceRangeCounts={priceRangeCounts}

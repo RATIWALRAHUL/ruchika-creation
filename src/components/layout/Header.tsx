@@ -72,10 +72,9 @@ export default function Header() {
     };
   }, [isMobileMenuOpen]);
 
-  const navLinks = [
-    { name: "Home", href: "/", active: pathname === "/" },
-    { name: "Shop All", href: "/shop", active: pathname === "/shop" },
+  const desktopNavLinks = [
     { name: "New Arrivals", href: "/shop/new-arrivals", active: pathname === "/shop/new-arrivals" },
+    { name: "Shop", href: "/shop", active: pathname === "/shop" },
     { name: "Kurtis", href: "/shop/kurtis", active: pathname === "/shop/kurtis" },
     {
       name: "Collections",
@@ -93,6 +92,11 @@ export default function Header() {
       ],
     },
     { name: "Bestsellers", href: "/shop/best-sellers", active: pathname === "/shop/best-sellers" },
+  ];
+
+  const mobileNavLinks = [
+    { name: "Home", href: "/", active: pathname === "/" },
+    ...desktopNavLinks,
     { name: "About Us", href: "/about", active: pathname === "/about" },
     { name: "Contact", href: "/contact", active: pathname === "/contact" },
   ];
@@ -121,9 +125,9 @@ export default function Header() {
             <BrandLogo variant="light" />
           </div>
 
-          {/* Desktop Navigation Links */}
-          <nav className="hidden lg:flex items-center gap-6 xl:gap-8">
-            {navLinks.map((link) => (
+          {/* Desktop Navigation Links - Curated Core Menu */}
+          <nav className="hidden lg:flex items-center gap-7 xl:gap-9">
+            {desktopNavLinks.map((link) => (
               <div key={link.name} className="relative group py-2">
                 <Link
                   href={link.href}
@@ -389,7 +393,7 @@ export default function Header() {
 
               {/* Navigation Links */}
               <div className="space-y-1">
-                {navLinks.map((link) => (
+                {mobileNavLinks.map((link) => (
                   <div key={link.name} className="border-b border-[#E6DDD3]/50 pb-1">
                     <Link
                       href={link.href}

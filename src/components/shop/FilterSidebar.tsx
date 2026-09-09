@@ -2,13 +2,13 @@
 
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faRotateLeft, faCheck } from "@fortawesome/free-solid-svg-icons";
+import { faRotateLeft } from "@fortawesome/free-solid-svg-icons";
 
 export interface FilterState {
   category: string;
   productType: string;
   priceRange: string;
-  color: string;
+  color?: string;
   style: string;
 }
 
@@ -16,7 +16,7 @@ interface FilterSidebarProps {
   filters: FilterState;
   onFilterChange: (key: keyof FilterState, value: string) => void;
   onClearFilters: () => void;
-  availableColors: { name: string; hex: string; count: number }[];
+  availableColors?: { name: string; hex: string; count: number }[];
   availableStyles: { name: string; count: number }[];
   productTypeCounts: Record<string, number>;
   priceRangeCounts: Record<string, number>;
@@ -27,7 +27,6 @@ export default function FilterSidebar({
   filters,
   onFilterChange,
   onClearFilters,
-  availableColors,
   availableStyles,
   productTypeCounts,
   priceRangeCounts,
@@ -153,48 +152,6 @@ export default function FilterSidebar({
         </div>
       </div>
 
-      {/* Color Filter */}
-      <div className="space-y-3 pb-5 border-b border-[#E6DDD3]">
-        <h4 className="text-[11px] font-semibold tracking-wider uppercase text-[#817771]">
-          Color
-        </h4>
-        <div className="grid grid-cols-2 gap-2">
-          <button
-            onClick={() => onFilterChange("color", "")}
-            className={`px-2.5 py-1.5 rounded-lg border text-left text-[11.5px] flex items-center justify-between transition-colors cursor-pointer ${
-              !filters.color
-                ? "border-[#641C22] bg-[#FAF6F0] font-semibold text-[#641C22]"
-                : "border-[#E6DDD3] hover:border-[#817771] text-[#514744]"
-            }`}
-          >
-            <span>All Colors</span>
-            {!filters.color && <FontAwesomeIcon icon={faCheck} className="text-[10px]" />}
-          </button>
-          {availableColors.map((c) => {
-            const isSelected = filters.color === c.name;
-            return (
-              <button
-                key={c.name}
-                onClick={() => onFilterChange("color", isSelected ? "" : c.name)}
-                className={`px-2.5 py-1.5 rounded-lg border text-left text-[11.5px] flex items-center justify-between transition-colors cursor-pointer ${
-                  isSelected
-                    ? "border-[#641C22] bg-[#FAF6F0] font-semibold text-[#641C22]"
-                    : "border-[#E6DDD3] hover:border-[#817771] text-[#514744]"
-                }`}
-              >
-                <div className="flex items-center gap-1.5 truncate">
-                  <span
-                    className="w-3 h-3 rounded-full border border-black/10 shrink-0"
-                    style={{ backgroundColor: c.hex }}
-                  />
-                  <span className="truncate">{c.name}</span>
-                </div>
-                <span className="text-[10px] text-[#817771]">({c.count})</span>
-              </button>
-            );
-          })}
-        </div>
-      </div>
 
       {/* Style Filter */}
       <div className="space-y-3 pb-5">

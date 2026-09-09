@@ -16,22 +16,6 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 import { SortOption } from "@/components/shop/ShopHeader";
 
-const COLOR_HEX_MAP: Record<string, string> = {
-  Black: "#1A1A1A",
-  Maroon: "#641C22",
-  Ivory: "#FDFBF7",
-  Olive: "#556B2F",
-  Pink: "#E89CAE",
-  Blue: "#1E3F66",
-  Yellow: "#E5A93B",
-  Green: "#2E5D4B",
-  Red: "#9E2A2B",
-  Beige: "#D8C5A8",
-  White: "#FFFFFF",
-  Brown: "#6E473B",
-  Multi: "#8E7395",
-};
-
 const PAGE_SIZE = 24;
 
 export default function SearchClient() {
@@ -46,7 +30,6 @@ export default function SearchClient() {
     category: "",
     productType: "",
     priceRange: "",
-    color: "",
     style: "",
   });
 
@@ -78,7 +61,6 @@ export default function SearchClient() {
       category: "",
       productType: "",
       priceRange: "",
-      color: "",
       style: "",
     });
     setQuery("");
@@ -87,9 +69,8 @@ export default function SearchClient() {
   };
 
   // Facet counts
-  const { availableColors, availableStyles, productTypeCounts, priceRangeCounts } =
+  const { availableStyles, productTypeCounts, priceRangeCounts } =
     useMemo(() => {
-      const colorsMap: Record<string, number> = {};
       const stylesMap: Record<string, number> = {};
       const typeCounts: Record<string, number> = {
         SINGLE_PIECE: 0,
@@ -99,12 +80,11 @@ export default function SearchClient() {
       const priceCounts: Record<string, number> = {
         "under-500": 0,
         "500-899": 0,
-        "900-1099": 0,
-        "1100-1299": 0,
+        "900-1199": 0,
+        "1200-above": 0,
       };
 
       products.forEach((p) => {
-        if (p.color) colorsMap[p.color] = (colorsMap[p.color] || 0) + 1;
         if (Array.isArray(p.style)) {
           p.style.forEach((s) => (stylesMap[s] = (stylesMap[s] || 0) + 1));
         }
@@ -117,19 +97,12 @@ export default function SearchClient() {
         else priceCounts["1200-above"]++;
       });
 
-      const colorList = Object.keys(colorsMap).map((name) => ({
-        name,
-        hex: COLOR_HEX_MAP[name] || "#B18A52",
-        count: colorsMap[name],
-      }));
-
       const styleList = Object.keys(stylesMap).map((name) => ({
         name,
         count: stylesMap[name],
       }));
 
       return {
-        availableColors: colorList,
         availableStyles: styleList,
         productTypeCounts: typeCounts,
         priceRangeCounts: priceCounts,
@@ -208,7 +181,7 @@ export default function SearchClient() {
       if (sortOption === "price-high") return b.price - a.price;
       if (sortOption === "name-az") return a.name.localeCompare(b.name);
       if (sortOption === "newest") return (b.isNewArrival ? 1 : 0) - (a.isNewArrival ? 1 : 0);
-      if (sortOption === "bestsellers") return (b.isBestSeller ? 1 : 0) - (a.isBestSeller ? 1 : 0);
+      if (sortOption === "bestsellers") return ((b.isBestSeller || b.isBestseller) ? 1 : 0) - ((a.isBestSeller || a.isBestseller) ? 1 : 0);
       return 0;
     });
 
@@ -365,7 +338,6 @@ export default function SearchClient() {
               filters={filters}
               onFilterChange={handleFilterChange}
               onClearFilters={handleClearFilters}
-              availableColors={availableColors}
               availableStyles={availableStyles}
               productTypeCounts={productTypeCounts}
               priceRangeCounts={priceRangeCounts}
@@ -392,7 +364,6 @@ export default function SearchClient() {
         filters={filters}
         onFilterChange={handleFilterChange}
         onClearFilters={handleClearFilters}
-        availableColors={availableColors}
         availableStyles={availableStyles}
         productTypeCounts={productTypeCounts}
         priceRangeCounts={priceRangeCounts}
