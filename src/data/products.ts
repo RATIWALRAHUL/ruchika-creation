@@ -102,8 +102,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Royal Blue",
     "style": [
       "Printed",
@@ -146,8 +146,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Black",
     "style": [
       "Embroidered",
@@ -191,8 +191,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "THREE_PIECE",
-    "price": 1299,
-    "compareAtPrice": 1799,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Maroon",
     "style": [
       "Embroidered",
@@ -236,8 +236,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "THREE_PIECE",
-    "price": 1299,
-    "compareAtPrice": 1799,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Black",
     "style": [
       "Embroidered",
@@ -282,8 +282,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 599,
+    "compareAtPrice": 1199,
     "color": "Peach",
     "style": [
       "Printed",
@@ -327,8 +327,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Ivory",
     "style": [
       "Embroidered",
@@ -371,8 +371,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 699,
+    "compareAtPrice": 1399,
     "color": "Sage",
     "style": [
       "Printed",
@@ -415,8 +415,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 699,
+    "compareAtPrice": 1399,
     "color": "Beige",
     "style": [
       "Embroidered",
@@ -459,8 +459,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Cream",
     "style": [
       "Embroidered",
@@ -504,8 +504,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Teal",
     "style": [
       "Printed",
@@ -548,8 +548,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Brown",
     "style": [
       "Printed",
@@ -594,7 +594,7 @@ export const products: Product[] = [
     ],
     "productType": "SINGLE_PIECE",
     "price": 499,
-    "compareAtPrice": 699,
+    "compareAtPrice": 999,
     "color": "Wine",
     "style": [
       "Embroidered",
@@ -638,7 +638,7 @@ export const products: Product[] = [
     ],
     "productType": "SINGLE_PIECE",
     "price": 499,
-    "compareAtPrice": 699,
+    "compareAtPrice": 999,
     "color": "Navy",
     "style": [
       "Printed",
@@ -681,8 +681,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 699,
+    "compareAtPrice": 1399,
     "color": "Terracotta",
     "style": [
       "Embroidered",
@@ -725,8 +725,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 499,
+    "compareAtPrice": 999,
     "color": "Burgundy",
     "style": [
       "Embroidered",
@@ -768,8 +768,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 499,
+    "compareAtPrice": 999,
     "color": "Powder Blue",
     "style": [
       "Printed",
@@ -810,8 +810,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Emerald Green",
     "style": [
       "Printed",
@@ -854,7 +854,7 @@ export const products: Product[] = [
     ],
     "productType": "SINGLE_PIECE",
     "price": 499,
-    "compareAtPrice": 699,
+    "compareAtPrice": 999,
     "color": "Rust",
     "style": [
       "Embroidered",
@@ -895,8 +895,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 699,
+    "compareAtPrice": 1399,
     "color": "Blush",
     "style": [
       "Printed",
@@ -939,7 +939,7 @@ export const products: Product[] = [
     ],
     "productType": "SINGLE_PIECE",
     "price": 499,
-    "compareAtPrice": 699,
+    "compareAtPrice": 999,
     "color": "Black",
     "style": [
       "Embroidered",
@@ -982,8 +982,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Mustard",
     "style": [
       "Embroidered",
@@ -1025,8 +1025,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Pink",
     "style": [
       "Printed",
@@ -1067,8 +1067,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 899,
+    "compareAtPrice": 1699,
     "color": "Maroon",
     "style": [
       "Printed",
@@ -1110,8 +1110,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 899,
+    "compareAtPrice": 1699,
     "color": "Olive",
     "style": [
       "Embroidered",
@@ -1153,8 +1153,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 699,
+    "compareAtPrice": 1399,
     "color": "Peach",
     "style": [
       "Printed",
@@ -1196,8 +1196,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Ivory",
     "style": [
       "Embroidered",
@@ -1238,8 +1238,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Sage",
     "style": [
       "Embroidered",
@@ -1281,7 +1281,7 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
+    "price": 599,
     "compareAtPrice": 1199,
     "color": "Beige",
     "style": [
@@ -1324,8 +1324,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 599,
+    "compareAtPrice": 1199,
     "color": "Cream",
     "style": [
       "Printed",
@@ -1368,8 +1368,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 599,
+    "compareAtPrice": 1199,
     "color": "Teal",
     "style": [
       "Embroidered",
@@ -1411,8 +1411,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 599,
+    "compareAtPrice": 1199,
     "color": "Brown",
     "style": [
       "Printed",
@@ -1453,8 +1453,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 599,
+    "compareAtPrice": 1199,
     "color": "Wine",
     "style": [
       "Embroidered",
@@ -1495,7 +1495,7 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
+    "price": 599,
     "compareAtPrice": 1199,
     "color": "Navy",
     "style": [
@@ -1537,7 +1537,7 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
+    "price": 599,
     "compareAtPrice": 1199,
     "color": "Terracotta",
     "style": [
@@ -1581,8 +1581,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 599,
+    "compareAtPrice": 1199,
     "color": "Burgundy",
     "style": [
       "Printed",
@@ -1625,8 +1625,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 699,
+    "compareAtPrice": 1399,
     "color": "Powder Blue",
     "style": [
       "Embroidered",
@@ -1667,8 +1667,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 699,
+    "compareAtPrice": 1399,
     "color": "Emerald Green",
     "style": [
       "Printed",
@@ -1709,8 +1709,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 699,
+    "compareAtPrice": 1399,
     "color": "Rust",
     "style": [
       "Embroidered",
@@ -1751,8 +1751,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 699,
+    "compareAtPrice": 1399,
     "color": "Blush",
     "style": [
       "Embroidered",
@@ -1794,8 +1794,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Black",
     "style": [
       "Printed",
@@ -1837,8 +1837,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Mustard",
     "style": [
       "Printed",
@@ -1881,8 +1881,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Pink",
     "style": [
       "Embroidered",
@@ -1924,8 +1924,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Maroon",
     "style": [
       "Printed",
@@ -1966,8 +1966,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 699,
+    "compareAtPrice": 1399,
     "color": "Olive",
     "style": [
       "Embroidered",
@@ -2009,8 +2009,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 699,
+    "compareAtPrice": 1399,
     "color": "Peach",
     "style": [
       "Embroidered",
@@ -2052,8 +2052,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 699,
+    "compareAtPrice": 1399,
     "color": "Ivory",
     "style": [
       "Printed",
@@ -2094,8 +2094,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Sage",
     "style": [
       "Printed",
@@ -2137,8 +2137,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Beige",
     "style": [
       "Embroidered",
@@ -2180,8 +2180,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Cream",
     "style": [
       "Printed",
@@ -2224,8 +2224,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Teal",
     "style": [
       "Embroidered",
@@ -2267,8 +2267,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Brown",
     "style": [
       "Embroidered",
@@ -2309,8 +2309,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Wine",
     "style": [
       "Printed",
@@ -2351,8 +2351,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Teal",
     "style": [
       "Embroidered",
@@ -2393,8 +2393,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Dusty Rose",
     "style": [
       "Embroidered",
@@ -2436,8 +2436,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Olive",
     "style": [
       "Embroidered",
@@ -2480,8 +2480,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Brown",
     "style": [
       "Embroidered",
@@ -2523,8 +2523,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Sage",
     "style": [
       "Embroidered",
@@ -2565,8 +2565,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 699,
+    "compareAtPrice": 1399,
     "color": "Rust",
     "style": [
       "Printed",
@@ -2609,8 +2609,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Blush",
     "style": [
       "Printed",
@@ -2655,8 +2655,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 699,
+    "compareAtPrice": 1399,
     "color": "Black",
     "style": [
       "Embroidered",
@@ -2700,8 +2700,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 699,
+    "compareAtPrice": 1399,
     "color": "Mustard",
     "style": [
       "Printed",
@@ -2742,8 +2742,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Pink",
     "style": [
       "Embroidered",
@@ -2785,8 +2785,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Maroon",
     "style": [
       "Embroidered",
@@ -2828,8 +2828,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Olive",
     "style": [
       "Printed",
@@ -2871,8 +2871,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Peach",
     "style": [
       "Printed",
@@ -2915,8 +2915,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Ivory",
     "style": [
       "Embroidered",
@@ -2957,8 +2957,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Sage",
     "style": [
       "Printed",
@@ -2999,8 +2999,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 699,
+    "compareAtPrice": 1399,
     "color": "Beige",
     "style": [
       "Embroidered",
@@ -3041,8 +3041,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 699,
+    "compareAtPrice": 1399,
     "color": "Cream",
     "style": [
       "Embroidered",
@@ -3085,8 +3085,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Teal",
     "style": [
       "Printed",
@@ -3128,8 +3128,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 699,
+    "compareAtPrice": 1399,
     "color": "Blush",
     "style": [
       "Embroidered",
@@ -3170,8 +3170,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 699,
+    "compareAtPrice": 1399,
     "color": "Wine",
     "style": [
       "Embroidered",
@@ -3212,8 +3212,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Navy",
     "style": [
       "Embroidered",
@@ -3254,8 +3254,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Olive",
     "style": [
       "Embroidered",
@@ -3297,8 +3297,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Mustard",
     "style": [
       "Embroidered",
@@ -3340,8 +3340,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Rust",
     "style": [
       "Embroidered",
@@ -3383,8 +3383,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Teal",
     "style": [
       "Embroidered",
@@ -3426,8 +3426,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Pink",
     "style": [
       "Embroidered",
@@ -3468,8 +3468,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 699,
+    "compareAtPrice": 1399,
     "color": "Blush",
     "style": [
       "Printed",
@@ -3511,8 +3511,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Black",
     "style": [
       "Embroidered",
@@ -3554,8 +3554,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Mustard",
     "style": [
       "Embroidered",
@@ -3596,8 +3596,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Pink",
     "style": [
       "Printed",
@@ -3638,8 +3638,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Maroon",
     "style": [
       "Printed",
@@ -3682,8 +3682,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Olive",
     "style": [
       "Embroidered",
@@ -3726,8 +3726,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Peach",
     "style": [
       "Printed",
@@ -3769,8 +3769,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 899,
+    "compareAtPrice": 1699,
     "color": "Ivory",
     "style": [
       "Embroidered",
@@ -3812,7 +3812,7 @@ export const products: Product[] = [
     ],
     "productType": "TWO_PIECE",
     "price": 899,
-    "compareAtPrice": 1199,
+    "compareAtPrice": 1699,
     "color": "Sage",
     "style": [
       "Embroidered",
@@ -3853,8 +3853,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Beige",
     "style": [
       "Printed",
@@ -3895,8 +3895,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Cream",
     "style": [
       "Printed",
@@ -3939,8 +3939,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Teal",
     "style": [
       "Embroidered",
@@ -3983,8 +3983,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 699,
+    "compareAtPrice": 1399,
     "color": "Brown",
     "style": [
       "Printed",
@@ -4026,8 +4026,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Wine",
     "style": [
       "Embroidered",
@@ -4068,8 +4068,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 499,
+    "compareAtPrice": 999,
     "color": "Navy",
     "style": [
       "Embroidered",
@@ -4110,8 +4110,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 499,
+    "compareAtPrice": 999,
     "color": "Terracotta",
     "style": [
       "Printed",
@@ -4153,8 +4153,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Burgundy",
     "style": [
       "Printed",
@@ -4197,8 +4197,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Powder Blue",
     "style": [
       "Embroidered",
@@ -4239,8 +4239,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Emerald Green",
     "style": [
       "Printed",
@@ -4282,8 +4282,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Rust",
     "style": [
       "Embroidered",
@@ -4325,8 +4325,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Blush",
     "style": [
       "Embroidered",
@@ -4368,8 +4368,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Black",
     "style": [
       "Printed",
@@ -4411,8 +4411,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Mustard",
     "style": [
       "Printed",
@@ -4454,8 +4454,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Pink",
     "style": [
       "Embroidered",
@@ -4496,8 +4496,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Maroon",
     "style": [
       "Printed",
@@ -4538,8 +4538,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Olive",
     "style": [
       "Embroidered",
@@ -4582,8 +4582,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Peach",
     "style": [
       "Embroidered",
@@ -4625,8 +4625,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Ivory",
     "style": [
       "Printed",
@@ -4667,8 +4667,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Sage",
     "style": [
       "Printed",
@@ -4710,8 +4710,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Beige",
     "style": [
       "Embroidered",
@@ -4752,8 +4752,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Cream",
     "style": [
       "Printed",
@@ -4795,8 +4795,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Teal",
     "style": [
       "Embroidered",
@@ -4838,8 +4838,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Brown",
     "style": [
       "Embroidered",
@@ -4881,8 +4881,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Wine",
     "style": [
       "Printed",
@@ -4924,8 +4924,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Navy",
     "style": [
       "Printed",
@@ -4968,7 +4968,7 @@ export const products: Product[] = [
     ],
     "productType": "SINGLE_PIECE",
     "price": 499,
-    "compareAtPrice": 699,
+    "compareAtPrice": 999,
     "color": "Terracotta",
     "style": [
       "Embroidered",
@@ -5010,8 +5010,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Burgundy",
     "style": [
       "Printed",
@@ -5053,8 +5053,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Powder Blue",
     "style": [
       "Embroidered",
@@ -5095,8 +5095,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Emerald Green",
     "style": [
       "Embroidered",
@@ -5137,8 +5137,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 1499,
+    "compareAtPrice": 2999,
     "color": "Rust",
     "style": [
       "Printed",
@@ -5180,8 +5180,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Blush",
     "style": [
       "Printed",
@@ -5225,8 +5225,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Black",
     "style": [
       "Embroidered",
@@ -5268,8 +5268,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Mustard",
     "style": [
       "Printed",
@@ -5310,8 +5310,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Pink",
     "style": [
       "Embroidered",
@@ -5352,8 +5352,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Maroon",
     "style": [
       "Embroidered",
@@ -5394,8 +5394,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Olive",
     "style": [
       "Printed",
@@ -5437,8 +5437,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Peach",
     "style": [
       "Printed",
@@ -5482,8 +5482,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Ivory",
     "style": [
       "Embroidered",
@@ -5525,8 +5525,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Sage",
     "style": [
       "Printed",
@@ -5567,8 +5567,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Beige",
     "style": [
       "Embroidered",
@@ -5609,8 +5609,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Cream",
     "style": [
       "Embroidered",
@@ -5652,8 +5652,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Teal",
     "style": [
       "Printed",
@@ -5695,8 +5695,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Brown",
     "style": [
       "Printed",
@@ -5739,7 +5739,7 @@ export const products: Product[] = [
     ],
     "productType": "SINGLE_PIECE",
     "price": 499,
-    "compareAtPrice": 699,
+    "compareAtPrice": 999,
     "color": "Wine",
     "style": [
       "Embroidered",
@@ -5781,8 +5781,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1299,
+    "compareAtPrice": 2499,
     "color": "Navy",
     "style": [
       "Printed",
@@ -5824,8 +5824,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Terracotta",
     "style": [
       "Embroidered",
@@ -5867,8 +5867,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Burgundy",
     "style": [
       "Embroidered",
@@ -5910,8 +5910,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Powder Blue",
     "style": [
       "Printed",
@@ -5952,8 +5952,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Emerald Green",
     "style": [
       "Printed",
@@ -5995,8 +5995,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1299,
+    "compareAtPrice": 2499,
     "color": "Rust",
     "style": [
       "Embroidered",
@@ -6037,8 +6037,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Blush",
     "style": [
       "Printed",
@@ -6081,8 +6081,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Black",
     "style": [
       "Embroidered",
@@ -6124,8 +6124,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Mustard",
     "style": [
       "Embroidered",
@@ -6166,8 +6166,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Pink",
     "style": [
       "Printed",
@@ -6208,8 +6208,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Maroon",
     "style": [
       "Printed",
@@ -6251,8 +6251,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Olive",
     "style": [
       "Embroidered",
@@ -6294,8 +6294,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Peach",
     "style": [
       "Printed",
@@ -6337,8 +6337,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Ivory",
     "style": [
       "Embroidered",
@@ -6380,8 +6380,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Sage",
     "style": [
       "Embroidered",
@@ -6423,8 +6423,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Beige",
     "style": [
       "Printed",
@@ -6465,8 +6465,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Cream",
     "style": [
       "Printed",
@@ -6509,8 +6509,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Teal",
     "style": [
       "Embroidered",
@@ -6552,8 +6552,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Brown",
     "style": [
       "Printed",
@@ -6594,8 +6594,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 899,
+    "compareAtPrice": 1699,
     "color": "Wine",
     "style": [
       "Embroidered",
@@ -6636,8 +6636,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 699,
+    "compareAtPrice": 1399,
     "color": "Navy",
     "style": [
       "Embroidered",
@@ -6679,8 +6679,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Terracotta",
     "style": [
       "Printed",
@@ -6725,8 +6725,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Burgundy",
     "style": [
       "Printed",
@@ -6769,8 +6769,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Powder Blue",
     "style": [
       "Embroidered",
@@ -6811,8 +6811,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Emerald Green",
     "style": [
       "Printed",
@@ -6853,8 +6853,8 @@ export const products: Product[] = [
       "Everyday"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Black",
     "style": [
       "Embroidered",
@@ -6895,8 +6895,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Blush",
     "style": [
       "Embroidered",
@@ -6938,8 +6938,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Black",
     "style": [
       "Printed",
@@ -6982,8 +6982,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Mustard",
     "style": [
       "Printed",
@@ -7026,8 +7026,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Pink",
     "style": [
       "Embroidered",
@@ -7068,8 +7068,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Maroon",
     "style": [
       "Printed",
@@ -7110,8 +7110,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Olive",
     "style": [
       "Embroidered",
@@ -7153,8 +7153,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Peach",
     "style": [
       "Embroidered",
@@ -7196,8 +7196,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 499,
+    "compareAtPrice": 999,
     "color": "Ivory",
     "style": [
       "Printed",
@@ -7238,8 +7238,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 499,
+    "compareAtPrice": 999,
     "color": "Sage",
     "style": [
       "Printed",
@@ -7282,8 +7282,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Beige",
     "style": [
       "Embroidered",
@@ -7325,8 +7325,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Cream",
     "style": [
       "Printed",
@@ -7368,8 +7368,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Teal",
     "style": [
       "Embroidered",
@@ -7411,8 +7411,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 499,
+    "compareAtPrice": 999,
     "color": "Brown",
     "style": [
       "Embroidered",
@@ -7453,8 +7453,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Wine",
     "style": [
       "Printed",
@@ -7495,8 +7495,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Navy",
     "style": [
       "Printed",
@@ -7538,8 +7538,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Terracotta",
     "style": [
       "Embroidered",
@@ -7582,8 +7582,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Burgundy",
     "style": [
       "Printed",
@@ -7625,8 +7625,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 899,
+    "compareAtPrice": 1699,
     "color": "Powder Blue",
     "style": [
       "Embroidered",
@@ -7667,8 +7667,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Emerald Green",
     "style": [
       "Embroidered",
@@ -7709,8 +7709,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Rust",
     "style": [
       "Printed",
@@ -7751,8 +7751,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Blush",
     "style": [
       "Printed",
@@ -7795,8 +7795,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 899,
+    "compareAtPrice": 1699,
     "color": "Black",
     "style": [
       "Embroidered",
@@ -7838,8 +7838,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Mustard",
     "style": [
       "Printed",
@@ -7881,8 +7881,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 699,
+    "compareAtPrice": 1399,
     "color": "Pink",
     "style": [
       "Embroidered",
@@ -7924,8 +7924,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 699,
+    "compareAtPrice": 1399,
     "color": "Maroon",
     "style": [
       "Embroidered",
@@ -7966,8 +7966,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Olive",
     "style": [
       "Printed",
@@ -8009,8 +8009,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Peach",
     "style": [
       "Printed",
@@ -8053,8 +8053,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Ivory",
     "style": [
       "Embroidered",
@@ -8095,8 +8095,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 699,
+    "compareAtPrice": 1399,
     "color": "Sage",
     "style": [
       "Printed",
@@ -8137,8 +8137,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Beige",
     "style": [
       "Embroidered",
@@ -8180,8 +8180,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Cream",
     "style": [
       "Embroidered",
@@ -8224,8 +8224,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Teal",
     "style": [
       "Printed",
@@ -8267,8 +8267,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Brown",
     "style": [
       "Printed",
@@ -8310,8 +8310,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Wine",
     "style": [
       "Embroidered",
@@ -8352,8 +8352,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Navy",
     "style": [
       "Printed",
@@ -8394,8 +8394,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Terracotta",
     "style": [
       "Embroidered",
@@ -8437,8 +8437,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Burgundy",
     "style": [
       "Embroidered",
@@ -8481,8 +8481,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Powder Blue",
     "style": [
       "Printed",
@@ -8524,8 +8524,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Emerald Green",
     "style": [
       "Printed",
@@ -8567,8 +8567,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Rust",
     "style": [
       "Embroidered",
@@ -8609,8 +8609,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Blush",
     "style": [
       "Printed",
@@ -8652,8 +8652,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Black",
     "style": [
       "Embroidered",
@@ -8695,8 +8695,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Mustard",
     "style": [
       "Embroidered",
@@ -8737,8 +8737,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Pink",
     "style": [
       "Printed",
@@ -8780,8 +8780,8 @@ export const products: Product[] = [
       "New Arrivals"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Maroon",
     "style": [
       "Printed",
@@ -8824,8 +8824,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Olive",
     "style": [
       "Embroidered",
@@ -8867,8 +8867,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 999,
+    "compareAtPrice": 1999,
     "color": "Peach",
     "style": [
       "Printed",
@@ -8910,8 +8910,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Ivory",
     "style": [
       "Embroidered",
@@ -8952,8 +8952,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Sage",
     "style": [
       "Embroidered",
@@ -8994,8 +8994,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Beige",
     "style": [
       "Printed",
@@ -9036,8 +9036,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Cream",
     "style": [
       "Printed",
@@ -9081,8 +9081,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Teal",
     "style": [
       "Embroidered",
@@ -9124,8 +9124,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Brown",
     "style": [
       "Printed",
@@ -9166,8 +9166,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "SINGLE_PIECE",
-    "price": 499,
-    "compareAtPrice": 699,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Wine",
     "style": [
       "Embroidered",
@@ -9208,8 +9208,8 @@ export const products: Product[] = [
       "Embroidered"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Navy",
     "style": [
       "Embroidered",
@@ -9250,8 +9250,8 @@ export const products: Product[] = [
       "Printed"
     ],
     "productType": "TWO_PIECE",
-    "price": 899,
-    "compareAtPrice": 1199,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Terracotta",
     "style": [
       "Printed",
@@ -9293,8 +9293,8 @@ export const products: Product[] = [
       "Best Sellers"
     ],
     "productType": "THREE_PIECE",
-    "price": 1099,
-    "compareAtPrice": 1499,
+    "price": 1199,
+    "compareAtPrice": 2299,
     "color": "Burgundy",
     "style": [
       "Printed",

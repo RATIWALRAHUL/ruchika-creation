@@ -66,9 +66,9 @@ export default function MobileFilterDrawer({
             <div className="space-y-2">
               {[
                 { label: "All Types", value: "" },
-                { label: "Single Piece (₹499)", value: "SINGLE_PIECE", key: "SINGLE_PIECE" },
-                { label: "Two Piece (₹899)", value: "TWO_PIECE", key: "TWO_PIECE" },
-                { label: "Three Piece (₹1,099 - ₹1,299)", value: "THREE_PIECE", key: "THREE_PIECE" },
+                { label: "Single Piece Kurtis", value: "SINGLE_PIECE", key: "SINGLE_PIECE" },
+                { label: "Two Piece Sets", value: "TWO_PIECE", key: "TWO_PIECE" },
+                { label: "Three Piece Sets", value: "THREE_PIECE", key: "THREE_PIECE" },
               ].map((type) => {
                 const isSelected = filters.productType === type.value;
                 const count = type.key ? productTypeCounts[type.key] : undefined;
@@ -115,8 +115,8 @@ export default function MobileFilterDrawer({
                 { label: "All Prices", value: "" },
                 { label: "Under ₹500", value: "under-500", key: "under-500" },
                 { label: "₹500 – ₹899", value: "500-899", key: "500-899" },
-                { label: "₹900 – ₹1,099", value: "900-1099", key: "900-1099" },
-                { label: "₹1,100 – ₹1,299", value: "1100-1299", key: "1100-1299" },
+                { label: "₹900 – ₹1,199", value: "900-1199", key: "900-1199" },
+                { label: "₹1,200 & Above", value: "1200-above", key: "1200-above" },
               ].map((range) => {
                 const isSelected = filters.priceRange === range.value;
                 const count = range.key ? priceRangeCounts[range.key] : undefined;

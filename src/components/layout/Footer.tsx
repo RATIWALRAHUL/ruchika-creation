@@ -27,9 +27,9 @@ export default function Footer() {
   const currentYear = new Date().getFullYear();
   const shopLinks = [
     { name: "Shop All Collections", href: "/shop" },
-    { name: "Kurtis (₹499)", href: "/shop/kurtis" },
-    { name: "Two Piece Sets (₹899)", href: "/shop/two-piece" },
-    { name: "Three Piece Sets (₹1,099+)", href: "/shop/three-piece" },
+    { name: "Kurtis", href: "/shop/kurtis" },
+    { name: "Two Piece Sets", href: "/shop/two-piece" },
+    { name: "Three Piece Sets", href: "/shop/three-piece" },
     { name: "New Arrivals", href: "/shop/new-arrivals" },
     { name: "Best Sellers", href: "/shop/best-sellers" },
   ];

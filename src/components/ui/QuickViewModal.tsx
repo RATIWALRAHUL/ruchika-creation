@@ -144,9 +144,9 @@ export default function QuickViewModal() {
                 {quickViewProduct.productType && (
                   <span className="text-[10px] font-sans uppercase font-semibold bg-[#FAF6F0] text-[#641C22] px-2 py-0.5 rounded border border-[#E6DDD3]">
                     {quickViewProduct.productType === "SINGLE_PIECE"
-                      ? "Single Piece (₹499)"
+                      ? "Single Piece"
                       : quickViewProduct.productType === "TWO_PIECE"
-                      ? "Two Piece Set (₹899)"
+                      ? "Two Piece Set"
                       : "Three Piece Set"}
                   </span>
                 )}

@@ -152,8 +152,8 @@ export default function ShopClient() {
         // Price Tier
         if (p.price <= 500) priceCounts["under-500"]++;
         else if (p.price <= 899) priceCounts["500-899"]++;
-        else if (p.price <= 1099) priceCounts["900-1099"]++;
-        else if (p.price <= 1299) priceCounts["1100-1299"]++;
+        else if (p.price <= 1199) priceCounts["900-1199"]++;
+        else priceCounts["1200-above"]++;
       });
 
       const colorList = Object.keys(colorsMap).map((name) => ({
@@ -222,10 +222,10 @@ export default function ShopClient() {
         result = result.filter((p) => p.price <= 500);
       } else if (filters.priceRange === "500-899") {
         result = result.filter((p) => p.price > 500 && p.price <= 899);
-      } else if (filters.priceRange === "900-1099") {
-        result = result.filter((p) => p.price >= 900 && p.price <= 1099);
-      } else if (filters.priceRange === "1100-1299") {
-        result = result.filter((p) => p.price >= 1100 && p.price <= 1299);
+      } else if (filters.priceRange === "900-1199") {
+        result = result.filter((p) => p.price >= 900 && p.price <= 1199);
+      } else if (filters.priceRange === "1200-above") {
+        result = result.filter((p) => p.price >= 1200);
       }
     }
 
