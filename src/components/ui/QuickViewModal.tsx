@@ -70,6 +70,7 @@ export default function QuickViewModal() {
               src={selectedImage || quickViewProduct.image}
               alt={quickViewProduct.name}
               fill
+              sizes="280px"
               className="object-cover"
             />
           </div>
@@ -90,6 +91,7 @@ export default function QuickViewModal() {
                     src={imgSrc}
                     alt={`View ${i + 1}`}
                     fill
+                    sizes="48px"
                     className="object-cover"
                   />
                 </button>
@@ -109,6 +111,7 @@ export default function QuickViewModal() {
                   src={quickViewProduct.image}
                   alt="Front view"
                   fill
+                  sizes="48px"
                   className="object-cover"
                 />
               </button>
@@ -124,6 +127,7 @@ export default function QuickViewModal() {
                   src={quickViewProduct.hoverImage}
                   alt="Alternate view"
                   fill
+                  sizes="48px"
                   className="object-cover"
                 />
               </button>

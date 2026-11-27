@@ -187,6 +187,7 @@ export default function SearchModal() {
                         src={product.primaryImage || product.image || "/images/kurti/kurti-page-181.jpg"}
                         alt={product.name}
                         fill
+                        sizes="80px"
                         className="object-cover"
                       />
                     </div>

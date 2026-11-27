@@ -601,6 +601,7 @@ export default function ProfileModal() {
                             src={item.productImage}
                             alt={item.productName}
                             fill
+                            sizes="64px"
                             className="object-cover"
                           />
                         </div>
@@ -680,6 +681,7 @@ export default function ProfileModal() {
                         src={item.productImage}
                         alt={item.productName}
                         fill
+                        sizes="64px"
                         className="object-cover"
                       />
                     </div>

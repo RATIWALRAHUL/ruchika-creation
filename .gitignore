@@ -53,3 +53,6 @@ Desktop.ini
 *.njsproj
 *.sln
 *.sw?
+
+# Image optimizer backups
+/.image-backup/

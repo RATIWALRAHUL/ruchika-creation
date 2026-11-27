@@ -79,6 +79,7 @@ export default function AboutPage() {
               src="/images/kurti/kurti-hero-8678.jpg"
               alt="Ruchika Creation Craftsmanship"
               fill
+              sizes="(max-width: 1024px) 100vw, 50vw"
               className="object-cover object-top"
             />
           </div>

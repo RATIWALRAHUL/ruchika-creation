@@ -186,6 +186,7 @@ export default function ProductDetailClient({ product }: ProductDetailClientProp
                       src={imgSrc}
                       alt={`View ${i + 1}`}
                       fill
+                      sizes="80px"
                       className="object-cover"
                     />
                   </button>
