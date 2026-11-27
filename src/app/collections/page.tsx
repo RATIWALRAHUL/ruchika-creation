@@ -48,7 +48,7 @@ export default function CollectionsPage() {
       price: "₹899",
       desc: "Coordinated kurti and trouser sets crafted for comfort and modern style.",
       href: "/shop/two-piece",
-      image: "/images/kurti/kurti-coord-blue.png",
+      image: "/images/kurti/kurti-coord-blue.1c2fb301.jpg",
       code: "RC-2PC",
     },
     {

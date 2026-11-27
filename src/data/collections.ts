@@ -40,7 +40,7 @@ export const collections: CollectionItem[] = [
     id: "col-4",
     title: "New Arrivals",
     subtitle: "Fresh silhouettes & prints",
-    image: "/images/kurti/kurti-page-54.png",
+    image: "/images/kurti/kurti-page-54.5311d495.jpg",
     href: "/shop/new-arrivals",
     itemCount: 17,
     iconType: "new",

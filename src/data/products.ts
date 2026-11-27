@@ -110,10 +110,10 @@ export const products: Product[] = [
       "Contemporary"
     ],
     "images": [
-      "/images/kurti/kurti-coord-blue.png"
+      "/images/kurti/kurti-coord-blue.1c2fb301.jpg"
     ],
-    "primaryImage": "/images/kurti/kurti-coord-blue.png",
-    "image": "/images/kurti/kurti-coord-blue.png",
+    "primaryImage": "/images/kurti/kurti-coord-blue.1c2fb301.jpg",
+    "image": "/images/kurti/kurti-coord-blue.1c2fb301.jpg",
     "sizes": [
       "S",
       "M",
@@ -1802,10 +1802,10 @@ export const products: Product[] = [
       "Contemporary"
     ],
     "images": [
-      "/images/kurti/kurti-page-54.png"
+      "/images/kurti/kurti-page-54.5311d495.jpg"
     ],
-    "primaryImage": "/images/kurti/kurti-page-54.png",
-    "image": "/images/kurti/kurti-page-54.png",
+    "primaryImage": "/images/kurti/kurti-page-54.5311d495.jpg",
+    "image": "/images/kurti/kurti-page-54.5311d495.jpg",
     "sizes": [
       "S",
       "M",
@@ -2145,10 +2145,10 @@ export const products: Product[] = [
       "Chikankari"
     ],
     "images": [
-      "/images/kurti/kurti-page-62.png"
+      "/images/kurti/kurti-page-62.bc391b19.jpg"
     ],
-    "primaryImage": "/images/kurti/kurti-page-62.png",
-    "image": "/images/kurti/kurti-page-62.png",
+    "primaryImage": "/images/kurti/kurti-page-62.bc391b19.jpg",
+    "image": "/images/kurti/kurti-page-62.bc391b19.jpg",
     "sizes": [
       "S",
       "M",
@@ -2531,10 +2531,10 @@ export const products: Product[] = [
       "Contemporary"
     ],
     "images": [
-      "/images/kurti/kurti-page-75.png"
+      "/images/kurti/kurti-page-75.451e1d03.jpg"
     ],
-    "primaryImage": "/images/kurti/kurti-page-75.png",
-    "image": "/images/kurti/kurti-page-75.png",
+    "primaryImage": "/images/kurti/kurti-page-75.451e1d03.jpg",
+    "image": "/images/kurti/kurti-page-75.451e1d03.jpg",
     "sizes": [
       "S",
       "M",
@@ -3428,10 +3428,10 @@ export const products: Product[] = [
       "Contemporary"
     ],
     "images": [
-      "/images/kurti/kurti-page-98.png"
+      "/images/kurti/kurti-page-98.2a4be0ca.jpg"
     ],
-    "primaryImage": "/images/kurti/kurti-page-98.png",
-    "image": "/images/kurti/kurti-page-98.png",
+    "primaryImage": "/images/kurti/kurti-page-98.2a4be0ca.jpg",
+    "image": "/images/kurti/kurti-page-98.2a4be0ca.jpg",
     "sizes": [
       "S",
       "M",
@@ -3598,10 +3598,10 @@ export const products: Product[] = [
       "Contemporary"
     ],
     "images": [
-      "/images/kurti/kurti-page-102.png"
+      "/images/kurti/kurti-page-102.aa2626a5.jpg"
     ],
-    "primaryImage": "/images/kurti/kurti-page-102.png",
-    "image": "/images/kurti/kurti-page-102.png",
+    "primaryImage": "/images/kurti/kurti-page-102.aa2626a5.jpg",
+    "image": "/images/kurti/kurti-page-102.aa2626a5.jpg",
     "sizes": [
       "S",
       "M",
@@ -3641,10 +3641,10 @@ export const products: Product[] = [
       "Traditional"
     ],
     "images": [
-      "/images/kurti/kurti-page-103.png"
+      "/images/kurti/kurti-page-103.e7dbe17e.jpg"
     ],
-    "primaryImage": "/images/kurti/kurti-page-103.png",
-    "image": "/images/kurti/kurti-page-103.png",
+    "primaryImage": "/images/kurti/kurti-page-103.e7dbe17e.jpg",
+    "image": "/images/kurti/kurti-page-103.e7dbe17e.jpg",
     "sizes": [
       "S",
       "M",
@@ -5097,10 +5097,10 @@ export const products: Product[] = [
       "Traditional"
     ],
     "images": [
-      "/images/kurti/kurti-page-138.png"
+      "/images/kurti/kurti-page-138.c99cab8b.jpg"
     ],
-    "primaryImage": "/images/kurti/kurti-page-138.png",
-    "image": "/images/kurti/kurti-page-138.png",
+    "primaryImage": "/images/kurti/kurti-page-138.c99cab8b.jpg",
+    "image": "/images/kurti/kurti-page-138.c99cab8b.jpg",
     "sizes": [
       "S",
       "M",
@@ -5227,10 +5227,10 @@ export const products: Product[] = [
       "Chikankari"
     ],
     "images": [
-      "/images/kurti/kurti-page-141.png"
+      "/images/kurti/kurti-page-141.c6b47078.jpg"
     ],
-    "primaryImage": "/images/kurti/kurti-page-141.png",
-    "image": "/images/kurti/kurti-page-141.png",
+    "primaryImage": "/images/kurti/kurti-page-141.c6b47078.jpg",
+    "image": "/images/kurti/kurti-page-141.c6b47078.jpg",
     "sizes": [
       "S",
       "M",
@@ -5270,10 +5270,10 @@ export const products: Product[] = [
       "Traditional"
     ],
     "images": [
-      "/images/kurti/kurti-page-142.png"
+      "/images/kurti/kurti-page-142.7d45639a.jpg"
     ],
-    "primaryImage": "/images/kurti/kurti-page-142.png",
-    "image": "/images/kurti/kurti-page-142.png",
+    "primaryImage": "/images/kurti/kurti-page-142.7d45639a.jpg",
+    "image": "/images/kurti/kurti-page-142.7d45639a.jpg",
     "sizes": [
       "S",
       "M",
@@ -5955,10 +5955,10 @@ export const products: Product[] = [
       "Traditional"
     ],
     "images": [
-      "/images/kurti/kurti-page-158.png"
+      "/images/kurti/kurti-page-158.39319348.jpg"
     ],
-    "primaryImage": "/images/kurti/kurti-page-158.png",
-    "image": "/images/kurti/kurti-page-158.png",
+    "primaryImage": "/images/kurti/kurti-page-158.39319348.jpg",
+    "image": "/images/kurti/kurti-page-158.39319348.jpg",
     "sizes": [
       "S",
       "M",
@@ -9208,10 +9208,10 @@ export const products: Product[] = [
       "Traditional"
     ],
     "images": [
-      "/images/kurti/kurti-page-238.png"
+      "/images/kurti/kurti-page-238.e3b79de7.jpg"
     ],
-    "primaryImage": "/images/kurti/kurti-page-238.png",
-    "image": "/images/kurti/kurti-page-238.png",
+    "primaryImage": "/images/kurti/kurti-page-238.e3b79de7.jpg",
+    "image": "/images/kurti/kurti-page-238.e3b79de7.jpg",
     "sizes": [
       "S",
       "M",
@@ -9294,10 +9294,10 @@ export const products: Product[] = [
       "Traditional"
     ],
     "images": [
-      "/images/kurti/kurti-page-241.png"
+      "/images/kurti/kurti-page-241.47f79356.jpg"
     ],
-    "primaryImage": "/images/kurti/kurti-page-241.png",
-    "image": "/images/kurti/kurti-page-241.png",
+    "primaryImage": "/images/kurti/kurti-page-241.47f79356.jpg",
+    "image": "/images/kurti/kurti-page-241.47f79356.jpg",
     "sizes": [
       "S",
       "M",

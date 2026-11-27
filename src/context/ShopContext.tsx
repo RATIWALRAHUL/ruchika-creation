@@ -163,7 +163,7 @@ const DEFAULT_DEMO_ORDERS: OrderRecord[] = [
         productId: "RC-2PC-001",
         productCode: "RC-2PC-001",
         productName: "Royal Blue Botanical Printed Co-ord Set",
-        productImage: "/images/kurti/kurti-coord-blue.png",
+        productImage: "/images/kurti/kurti-coord-blue.1c2fb301.jpg",
         size: "M",
         color: "Royal Blue",
         quantity: 1,
